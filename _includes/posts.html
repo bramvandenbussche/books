@@ -32,7 +32,7 @@
 						<span class="text-xs font-medium ml-1 text-teal-500">{{ review.author }}</span>
 					</a>
 				</div>
-				<span class="flex items-center h-8 bg-yellow-200 text-yellow-600 text-sm px-2 rounded">
+				<span class="flex items-center h-8 bg-yellow-100 text-yellow-600 text-sm px-2 rounded">
                     <span class="fa fa-star"></span>&nbsp;
                     {{ review.rating }}
                 </span>
@@ -40,4 +40,8 @@
 		</article>
     {% endfor %}
     </div>
+
+    <!-- Pagination links -->
+    {% include pagination.html %}
+  
 </section>

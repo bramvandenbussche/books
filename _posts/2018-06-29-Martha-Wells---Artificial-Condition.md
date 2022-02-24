@@ -10,7 +10,7 @@ series: Murderbot Diaries
 series_order: 2
 
 genres: Sci-Fi Short-Story
-rating: 5
+rating: 5.0
 published: 2018
 ---
 

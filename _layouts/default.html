@@ -5,22 +5,22 @@ layout: compress
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-    {% include meta.html %}
+    <head>
+        {% include meta.html %}
 
-    {% if site.google_analytics and jekyll.environment == 'production' %}
-        {% include analytics.html %}
-    {% endif %}
-</head>
+        {% if site.google_analytics and jekyll.environment == 'production' %}
+            {% include analytics.html %}
+        {% endif %}
+    </head>
 
-<body class="w-screen h-screen min-h-screen">
-    {% include header.html %}
+    <body class="w-screen h-screen min-h-screen">
+        {% include header.html %}
 
-    <div class="grid place-content-center min-w-full min-h-full py-10 px-7 my-auto min-h-screen absolute z-0">
-        {{ content }}
-    </div>
+        <div class="grid place-content-center min-w-full min-h-full py-10 px-7 my-auto min-h-screen absolute z-0">
+            {{ content }}
+        </div>
 
-    {% include footer.html %}
-</body>
+        {% include footer.html %}
+    </body>
 
 </html>

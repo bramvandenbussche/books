@@ -4,10 +4,11 @@ permalink: /
 ---
 
 <div id="reviews">
-    {% for post in paginator.posts %}
+    {% for review in paginator.posts %}
 
         <div class="review">
-            <h1>{{ post.title }}</h1>
+            <h1>{{ review.title }}</h1>
+            <img src="/assets/books/{{ review.cover }}" title="Book cover for {{ review.title }} by {{ review.author }}" />
         </div>
 
     {% endfor %}

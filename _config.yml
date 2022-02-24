@@ -6,7 +6,7 @@ google_analytics: UA-5000335-12
 
 
 # Base URL
-baseurl: books/
+baseurl: ""
 
 # Compress
 compress_html:

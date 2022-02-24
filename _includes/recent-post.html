@@ -1,0 +1,8 @@
+{% assign post = paginator.posts[0] %}
+{% if post %}
+<section id="recent-post">
+    <h1>My most recent brainfart</h1>
+    
+    <h2>{{ post.title }}</h2>
+</section>
+{% endif %}

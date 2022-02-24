@@ -3,13 +3,6 @@ layout: default
 permalink: /
 ---
 
-<div id="reviews">
-    {% for review in paginator.posts %}
+{% include recent-post.html %}
 
-        <div class="review basis-1/4">
-            <h1>{{ review.title }}</h1>
-            <img src="/assets/books/{{ review.cover }}" title="Book cover for {{ review.title }} by {{ review.author }}" />
-        </div>
-
-    {% endfor %}
-</div>
+{% include posts.html %}

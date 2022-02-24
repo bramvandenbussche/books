@@ -1,22 +1,29 @@
 ---
 ---
 
-@import url(https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/0.0.0-5a9c68d/base.css);
-@import url(https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/0.0.0-5a9c68d/components.min.css);
-@import url(https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/0.0.0-5a9c68d/utilities.min.css);
+@import url('https://fonts.googleapis.com/css2?family=Lora');
+// @import url(https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/base.min.css);
+// @import url(https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/components.min.css);
+// @import url(https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/utilities.min.css);
+@import url(https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css);
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@tailwind
 
 
 body,
 html {
-    
-    #reviews {
-        display: flex;
+
+    a {
+        color: #0c6572;
     }
 
-    .review {
+    a:hover {
+        color: #c1aa55;
+    }
 
+    .review h1 {
+        font-family: "Lora", Arial, sans-serif;
     }
 }

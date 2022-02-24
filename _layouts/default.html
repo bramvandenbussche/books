@@ -14,13 +14,13 @@ layout: compress
 </head>
 
 <body class="w-screen h-screen min-h-screen">
-    <div class="w-full h-full p-2.5 text-9xl text-center font-black mx-auto grid place-content-center">
+    {% include header.html %}
+
+    <div class="grid place-content-center min-w-full min-h-full py-10 px-7 my-auto min-h-screen absolute z-0">
         {{ content }}
     </div>
 
-    <section id="reviews">
-       
-    </section>
+    {% include footer.html %}
 </body>
 
 </html>

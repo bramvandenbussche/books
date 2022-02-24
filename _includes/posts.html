@@ -1,0 +1,43 @@
+<section id="reviews">
+    <h1>More reviews</h1>
+
+    <div class="grid 2xl:grid-cols-5 xl:grid-cols-4 lg:grid-cols-3 sm:grid-cols-2 grid-cols-1 gap-x-6 gap-y-12 w-full mt-6">
+
+    {% for review in paginator.posts %}
+
+        <!-- <article class="flex flex-col bg-gray-200 rounded-lg p-4 m-2">
+            <div class="h-80 bg-gray-400 rounded-lg">
+                <a href="{{ post.url }}">
+                    <img src="{{ site.baseurl }}/assets/books/{{ review.cover }}"
+                        title="Book cover for {{ review.title }} by {{ review.author }}" />
+                </a>
+            </div>
+            <div class="flex flex-col items-start mt-4">
+                <h4 class="text-xl font-semibold">{{ review.title }}</h4>
+                <p class="text-sm">{{ review.excerpt }}</p>
+            </div>
+        </article> -->
+
+        <article>
+            <a href="{{ post.url }}" class="block w-64 rounded-lg shadow-lg bg-white">
+                <img src="{{ site.baseurl }}/assets/books/{{ review.cover }}"
+                     title="Book cover for {{ review.title }} by {{ review.author }}"
+                     class="object-cover w-64 drop-shadow-md" />
+            </a>
+			<div class="flex items-center justify-between mt-3">
+				<div>
+					<a href="#" class="font-medium">{{ review.title }}</a>
+					<a class="flex items-center" href="#">
+						<span class="text-xs font-medium text-gray-600">by</span>
+						<span class="text-xs font-medium ml-1 text-teal-500">{{ review.author }}</span>
+					</a>
+				</div>
+				<span class="flex items-center h-8 bg-yellow-200 text-yellow-600 text-sm px-2 rounded">
+                    <span class="fa fa-star"></span>&nbsp;
+                    {{ review.rating }}
+                </span>
+			</div>
+		</article>
+    {% endfor %}
+    </div>
+</section>

@@ -38,15 +38,12 @@ module.exports = {
       fuchsia: colors.fuchsia,
       pink: colors.pink,
       rose: colors.rose,
+    }),
     extend: {
       colors: {},
       borderWidth: {
         '3': '3px',
       },
     },
-  },
-  variants: {
-    extend: {},
-  },
-  plugins: [],
+  }
 }

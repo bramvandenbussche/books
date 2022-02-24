@@ -1,10 +1,15 @@
 ---
+layout: review
+date: 2022-02-24 10:24:31 -0500
+
 title: Rogue Protocol
 author: Martha Wells
 cover: assets/books/murderbot-4-rogue-protocol.jpg
+
 series: Murderbot Diaries
 series_order: 3
-genre: scifi
+
+genres: scifi
 rating: 5
 published: 2018
 ---

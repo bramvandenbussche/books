@@ -1,7 +1,12 @@
 # TITLE OF YOUR SITE
 title: Bram reads books
-
 image_url: assets/img/book_icon.png
+
+google_analytics: UA-5000335-12
+
+
+# Base URL
+baseurl: /
 
 # Compress
 compress_html:
@@ -21,10 +26,14 @@ exclude:
   - vendor/ruby/
   - Icon
 
-# Base URL
-baseurl: /
+plugins:
+ - jekyll-paginate
+
+ # Build settings
+paginate: 5
+paginate_path: "page:num"
+
+highlighter: rouge
 
 # Default Markdown Engine
 markdown: kramdown
-
-google_analytics: UA-5000335-12

@@ -1,0 +1,14 @@
+---
+layout: default
+permalink: /
+---
+
+<div id="reviews">
+    {% for post in paginator.posts %}
+
+        <div class="review">
+            <h1>{{ post.title }}</h1>
+        </div>
+
+    {% endfor %}
+</div>

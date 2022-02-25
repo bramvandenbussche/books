@@ -2,6 +2,7 @@
 ---
 
 @import url('https://fonts.googleapis.com/css2?family=Lora');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap');
 // @import url(https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/base.min.css);
 // @import url(https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/components.min.css);
 // @import url(https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/utilities.min.css);
@@ -14,12 +15,23 @@
 body,
 html {
 
+    font-family: "IBM Plex Sans", Arial, sans-serif;
+
     a {
         color: #0c6572;
     }
 
     a:hover {
         color: #c1aa55;
+    }
+
+    header {
+        background-color: #0c6572;
+    }
+
+    footer, footer * {
+        background-color: #0c6572;
+        color: white;
     }
 
     .review h1 {

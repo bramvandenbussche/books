@@ -1,0 +1,36 @@
+<div class="w-full justify-center text-gray-900 text-xl border-4 border-gray-900 border-dashed my-2">
+    <h1 class="bg-green-700 text-yellow-100 text-center m-1">Book Details</h1>
+
+    <div class="w-full drop-shadow-md">
+        <img src="{{ site.baseurl }}/assets/books/{{ page.cover }}" />
+    </div>
+
+    <div class="star-ratings-sprite">
+        <span style="width: {{ page.rating | times:20 }}%" class="star-ratings-sprite-rating"></span>
+    </div>
+
+    <div class="book-meta-data">
+        <table class="book-meta-data">
+            <tbody>
+                <tr class="book-meta-title">
+                    <td>Title</td>
+                    <td>{{ page.title }}</td>
+                </tr>
+                <tr class="book-meta-author">
+                    <td>Author</td>
+                    <td>{{ page.author }}</td>
+                </tr>
+                {% if page.series %}
+                <tr class="book-meta-series">
+                    <td>Series</td>
+                    <td>{{ page.series }} [{{ page.series_order}}]</td>
+                </tr>
+                {% endif %}
+                <tr class="book-meta-published">
+                    <td>Published</td>
+                    <td>{{ page.published }}</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

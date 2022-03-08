@@ -7,7 +7,7 @@ google_analytics: UA-5000335-12
 
 # Base URL
 baseurl: ""
-theme: 
+sidebar: 'right'
 
 # Compress
 compress_html:
@@ -27,13 +27,15 @@ exclude:
   - vendor/ruby/
   - Icon
 
+
+
+# Build settings
+paginate: 5
+paginate_path: "page:num"
+
 plugins:
   - jekyll-paginate_path
   - jekyll-postcss
-
- # Build settings
-paginate: 5
-paginate_path: "page:num"
 
 highlighter: rouge
 

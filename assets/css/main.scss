@@ -1,62 +1,46 @@
 ---
 ---
 
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
 @import url('https://fonts.googleapis.com/css2?family=Lora');
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap');
-// @import url(https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/base.min.css);
-// @import url(https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/components.min.css);
-// @import url(https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/utilities.min.css);
-@import url(https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css);
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
 
 
-body,
-html {
+body {
+    font-family: "IBM Plex Sans", Arial, sans-serif;          
+}
 
-    font-family: "IBM Plex Sans", Arial, sans-serif;
+a {
+    color: #0c6572;
+}
 
-    a {
-        color: #0c6572;
-    }
+a:hover {
+    color: #c1aa55;
+}
 
-    a:hover {
-        color: #c1aa55;
-    }
+.review h1,
+#sidebar h1 {
+    font-family: "Lora", Arial, sans-serif;
+}
 
-    // header {
-    //     background-color: #0c6572;
-    // }
+.star-ratings-sprite {
+    background: url(/assets/img/star-rating-sprite.png) repeat-x;
+    font-size: 0;
+    height: 21px;
+    line-height: 0;
+    overflow: hidden;
+    text-indent: -999em;
+    width: 110px;
+    margin: 10px auto;
+}
 
-    // footer, footer * {
-    //     background-color: #0c6572;
-    //     color: white;
-    // }
-
-    .review h1,
-    #sidebar h1 {
-        font-family: "Lora", Arial, sans-serif;
-    }
-
-    .star-ratings-sprite {
-        background: url(/assets/img/star-rating-sprite.png) repeat-x;
-        font-size: 0;
-        height: 21px    ;
-        line-height: 0;
-        overflow: hidden;
-        text-indent: -999em;
-        width: 110px;
-        margin: 10px auto;
-    }
-
-    .star-ratings-sprite-rating {
-        background: url(/assets/img/star-rating-sprite.png) repeat-x;
-        background-position: 0 100%;
-        float: left;
-        height: 21px;
-        display: block;
-    }
-
-    
+.star-ratings-sprite-rating {
+    background: url(/assets/img/star-rating-sprite.png) repeat-x;
+    background-position: 0 100%;
+    float: left;
+    height: 21px;
+    display: block;
 }

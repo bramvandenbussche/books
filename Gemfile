@@ -11,13 +11,18 @@ source "http://rubygems.org"
 # Happy Jekylling!
 
 gem "jekyll"
-gem "thin"
-gem 'github-pages', group: :jekyll_plugins
+
+group :jekyll_plugins do
+    gem 'jekyll-postcss'
+    gem 'github-pages'
+end
+
+# gem "thin"
   
-gem "rack"
+# gem "rack"
   
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
-gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+# gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Performance-booster for watching directories on Windows
-gem "wdm" if Gem.win_platform?
+# gem "wdm" if Gem.win_platform?

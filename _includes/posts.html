@@ -2,23 +2,9 @@
     <h1>More reviews</h1>
 
     <div class="grid 2xl:grid-cols-5 xl:grid-cols-4 lg:grid-cols-3 sm:grid-cols-2 grid-cols-1 gap-x-6 gap-y-12 w-full mt-6">
-
     {% for review in paginator.posts %}
 
-        <!-- <article class="flex flex-col bg-gray-200 rounded-lg p-4 m-2">
-            <div class="h-80 bg-gray-400 rounded-lg">
-                <a href="{{ post.url }}">
-                    <img src="{{ site.baseurl }}/assets/books/{{ review.cover }}"
-                        title="Book cover for {{ review.title }} by {{ review.author }}" />
-                </a>
-            </div>
-            <div class="flex flex-col items-start mt-4">
-                <h4 class="text-xl font-semibold">{{ review.title }}</h4>
-                <p class="text-sm">{{ review.excerpt }}</p>
-            </div>
-        </article> -->
-
-        <article>
+        <article class="drop-shadow-md w-64" style="border: 1px solid red;">
             <a href="{{ post.url }}" class="block w-64 rounded-lg shadow-lg bg-white">
                 <img src="{{ site.baseurl }}/assets/books/{{ review.cover }}"
                      title="Book cover for {{ review.title }} by {{ review.author }}"

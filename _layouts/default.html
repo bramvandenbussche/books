@@ -13,25 +13,30 @@
         {% endif %}
     </head>
 
-    <body class="w-screen h-screen min-h-screen bg-white">
+    <body class="w-screen h-screen min-h-screen">
 
         <div class="flex h-screen">
             <div class="flex-1 flex flex-col">
                 {% include header.html %}
                 
                 <div class="flex h-full">
-                    <!-- {% include sidebar.html %} -->
+                    {% if site.sidebar == 'left' %}
+                    <!-- Left Sidebar -->
+                    {% include sidebar.html %}
+                    {% endif %}
                     
-                    <main class="flex flex-col w-full bg-white overflow-x-hidden overflow-y-auto mb-14">
+                    <main class="flex flex-col w-8/12 overflow-x-hidden overflow-y-auto mb-14">
                         <div class="flex w-full mx-auto px-6 py-8">
-                            <div class="flex flex-col w-full h-full text-gray-900 text-xl border-4 border-gray-900 border-dashed">
+                            <div class="flex flex-col w-full h-full border-4 border-gray-900 border-dashed">
                                 {{ content }}
                             </div>
                         </div>
                     </main>
 
+                    {% if site.sidebar == 'right' %}
                     <!-- Right Sidebar -->
-                    {% include sidebar.html %}                   
+                    {% include sidebar.html %}
+                    {% endif %}
                 </div>
 
                 {% include footer.html %}

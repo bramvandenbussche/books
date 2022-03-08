@@ -1,33 +1,89 @@
 ---
 ---
 
-@import "tailwindcss/base";
-@import "tailwindcss/components";
-@import "tailwindcss/utilities";
-
 @import url('https://fonts.googleapis.com/css2?family=Lora');
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap');
 
+@import url(https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css);
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
-body {
-    font-family: "IBM Plex Sans", Arial, sans-serif;          
+$theme-teal: #0c6572;
+$theme-gold: #c1aa55;
+$theme-lightgold: #eddb68;
+$theme-lightgray: #aaaaaa;
+$theme-main: #505050;
+
+html, body {
+    font-family: "IBM Plex Sans", Arial, sans-serif;
+    font-size: 14px;
+    color: $theme-main;
+
+    background-image: url('/assets/img/lightpaperfibers.png');
+    background-position: left top;
+    background-size: auto;
+    background-repeat: repeat;
+    background-attachment: scroll;
+}
+
+p {
+    color: $theme-main;
+    font-size: 14px;
+    line-height: 1.7;
+    -webkit-font-smoothing: antialiased;
+    margin-bottom: 26px;
+    font-weight: 400;
 }
 
 a {
-    color: #0c6572;
+    color: $theme-teal;
 }
 
 a:hover {
-    color: #c1aa55;
+    color: $theme-gold;
 }
 
-.review h1,
-#sidebar h1 {
+h1 {
     font-family: "Lora", Arial, sans-serif;
 }
 
+.review h1 {
+    color: $theme-teal;
+    font-weight: 700;
+    -webkit-font-smoothing: antialiased;
+    line-height: 1.35;
+    font-size: 25px;
+}
+
+#sidebar h1 {    
+    color: $theme-lightgold;
+    background-color: $theme-teal;
+    font-size: 12px;
+    line-height: 41px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+td {
+    background: #fff;
+    padding: 10px 15px;
+    border: 1px solid #e4e4e4;
+    border-right: 0;
+    border-left: 0;
+}
+
+tr:nth-child(odd) td {
+    background: #fafafa;
+}
+
 .star-ratings-sprite {
-    background: url(/assets/img/star-rating-sprite.png) repeat-x;
+    background: url('/assets/img/star-rating-sprite.png') repeat-x;
     font-size: 0;
     height: 21px;
     line-height: 0;
@@ -38,7 +94,7 @@ a:hover {
 }
 
 .star-ratings-sprite-rating {
-    background: url(/assets/img/star-rating-sprite.png) repeat-x;
+    background: url('/assets/img/star-rating-sprite.png') repeat-x;
     background-position: 0 100%;
     float: left;
     height: 21px;

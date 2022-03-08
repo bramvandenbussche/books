@@ -1,22 +1,22 @@
-<div class="w-full justify-center text-gray-900 text-xl border-4 border-gray-900 border-dashed my-2">
-    <h1 class="bg-green-800 text-yellow-400 text-center m-1">Book Details</h1>
+<div class="w-full justify-center my-2">
+    <h1 class="text-center m-1">Book Details</h1>
 
-    <div class="w-full drop-shadow-md">
-        <img src="{{ site.baseurl }}/assets/books/{{ page.cover }}" />
+    <div class="mx-1 my-2 shadow-md p-2">
+        <img src="{{ site.baseurl }}/assets/books/{{ page.cover }}" class="" />
     </div>
 
     <div class="star-ratings-sprite">
         <span style="width: {{ page.rating | times:20 }}%" class="star-ratings-sprite-rating"></span>
     </div>
 
-    <div class="book-meta-data">
-        <table class="book-meta-data">
+    <div class="book-meta-data mx-1">
+        <table class="book-meta-data table-fixed">
             <tbody>
                 <tr class="book-meta-title">
-                    <td>Title</td>
-                    <td>{{ page.title }}</td>
+                    <td class="w-1/2">Title</td>
+                    <td class="w-1/2">{{ page.title }}</td>
                 </tr>
-                <tr class="book-meta-author">
+                <tr class="book-meta-autdor">
                     <td>Author</td>
                     <td>{{ page.author }}</td>
                 </tr>

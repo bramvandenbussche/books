@@ -4,21 +4,27 @@
 @import url('https://fonts.googleapis.com/css2?family=Lora');
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap');
 
+// @import url('/assets/css/style.css');
+// @import url('/assets/css/skin-fashion.css');
+
 @import url(https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css);
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 $theme-teal: #0c6572;
+
+$theme-darkgold: #a18858;
 $theme-gold: #c1aa55;
 $theme-lightgold: #eddb68;
+
 $theme-lightgray: #aaaaaa;
-$theme-main: #505050;
+$theme-gray: #505050;
 
 html, body {
     font-family: "IBM Plex Sans", Arial, sans-serif;
     font-size: 14px;
-    color: $theme-main;
+    color: $theme-gray;
 
     background-image: url('/assets/img/lightpaperfibers.png');
     background-position: left top;
@@ -28,7 +34,7 @@ html, body {
 }
 
 p {
-    color: $theme-main;
+    color: $theme-gray;
     font-size: 14px;
     line-height: 1.7;
     -webkit-font-smoothing: antialiased;
@@ -44,17 +50,54 @@ a:hover {
     color: $theme-gold;
 }
 
-h1 {
-    font-family: "Lora", Arial, sans-serif;
+.the-post .the-post-header {
+    text-align: center;
 }
 
-.review h1 {
-    color: $theme-teal;
-    font-weight: 700;
-    -webkit-font-smoothing: antialiased;
-    line-height: 1.35;
+.the-post .the-post-header .post-title {
+    margin: 9px 0;
+    text-transform: none;
     font-size: 25px;
 }
+.post-title, .post-title-alt, .post-title a, .post-title-alt a {
+    color: #0c6572 !important;
+}
+
+.the-post .the-post-meta {
+    margin-bottom: 26px;
+}
+
+.post-meta {
+    font-size: 11px;
+}
+.post-meta {
+    color: #b4b4b4;
+    font-family: Poppins, Arial, sans-serif;
+    font-size: 10px;
+    line-height: 1.5;
+    text-transform: uppercase;
+}
+
+.post-meta time, .post-meta .comments {
+    font-weight: 500;
+    letter-spacing: 0.14em;
+}
+.post-meta time {
+    color: $theme-lightgray;
+}
+
+h1 {
+    font-family: "Lora", Arial, sans-serif;
+    text-align: center;
+}
+
+// .review h1 {
+//     color: $theme-teal;
+//     font-weight: 700;
+//     -webkit-font-smoothing: antialiased;
+//     line-height: 1.35;
+//     font-size: 25px;
+// }
 
 #sidebar h1 {    
     color: $theme-lightgold;

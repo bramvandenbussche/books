@@ -3,14 +3,13 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Lora');
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Cormorant%3A600%2C700%2C700i');
 
-// @import url('/assets/css/style.css');
-// @import url('/assets/css/skin-fashion.css');
+@import url('/assets/css/style.css');
+@import url('/assets/css/skin-fashion.css');
+@import url('/assets/css/font-awesome.min.css');
+@import url('/assets/css/inline.css');
 
-@import url(https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css);
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
 
 $theme-teal: #0c6572;
 
@@ -21,108 +20,12 @@ $theme-lightgold: #eddb68;
 $theme-lightgray: #aaaaaa;
 $theme-gray: #505050;
 
-html, body {
-    font-family: "IBM Plex Sans", Arial, sans-serif;
-    font-size: 14px;
-    color: $theme-gray;
-
+.custom-background {
     background-image: url('/assets/img/lightpaperfibers.png');
     background-position: left top;
     background-size: auto;
     background-repeat: repeat;
     background-attachment: scroll;
-}
-
-p {
-    color: $theme-gray;
-    font-size: 14px;
-    line-height: 1.7;
-    -webkit-font-smoothing: antialiased;
-    margin-bottom: 26px;
-    font-weight: 400;
-}
-
-a {
-    color: $theme-teal;
-}
-
-a:hover {
-    color: $theme-gold;
-}
-
-.the-post .the-post-header {
-    text-align: center;
-}
-
-.the-post .the-post-header .post-title {
-    margin: 9px 0;
-    text-transform: none;
-    font-size: 25px;
-}
-.post-title, .post-title-alt, .post-title a, .post-title-alt a {
-    color: #0c6572 !important;
-}
-
-.the-post .the-post-meta {
-    margin-bottom: 26px;
-}
-
-.post-meta {
-    font-size: 11px;
-}
-.post-meta {
-    color: #b4b4b4;
-    font-family: Poppins, Arial, sans-serif;
-    font-size: 10px;
-    line-height: 1.5;
-    text-transform: uppercase;
-}
-
-.post-meta time, .post-meta .comments {
-    font-weight: 500;
-    letter-spacing: 0.14em;
-}
-.post-meta time {
-    color: $theme-lightgray;
-}
-
-h1 {
-    font-family: "Lora", Arial, sans-serif;
-    text-align: center;
-}
-
-// .review h1 {
-//     color: $theme-teal;
-//     font-weight: 700;
-//     -webkit-font-smoothing: antialiased;
-//     line-height: 1.35;
-//     font-size: 25px;
-// }
-
-#sidebar h1 {    
-    color: $theme-lightgold;
-    background-color: $theme-teal;
-    font-size: 12px;
-    line-height: 41px;
-    text-align: center;
-    text-transform: uppercase;
-}
-
-table {
-    border-collapse: collapse;
-    border-spacing: 0;
-}
-
-td {
-    background: #fff;
-    padding: 10px 15px;
-    border: 1px solid #e4e4e4;
-    border-right: 0;
-    border-left: 0;
-}
-
-tr:nth-child(odd) td {
-    background: #fafafa;
 }
 
 .star-ratings-sprite {
@@ -143,3 +46,4 @@ tr:nth-child(odd) td {
     height: 21px;
     display: block;
 }
+

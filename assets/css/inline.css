@@ -1,0 +1,141 @@
+.main-head > .inner { 
+    background-image: url('/assets/img/LoadOfBooks-Header.jpg'); 
+    background-position: top center;
+    background-repeat: no-repeat; 
+    background-position: center center; 
+    background-size: cover; }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+input[type="submit"],
+button,
+input[type="button"],
+.button,
+.modern-quote cite,
+.top-bar-content,
+.search-action .search-field,
+.main-head .title,
+.navigation,
+.tag-share,
+.post-share-b .service,
+.author-box,
+.comments-list .comment-content,
+.post-nav .label,
+.main-footer.dark .back-to-top,
+.lower-footer .social-icons,
+.main-footer .social-strip .social-link,
+.main-footer.bold .links .menu-item,
+.main-footer.bold .copyright,
+.archive-head,
+.cat-label a,
+.section-head,
+.post-title-alt,
+.post-title,
+.block-heading,
+.block-head-b,
+.small-post .post-title,
+.likes-count .number,
+.post-meta,
+.grid-post-b .read-more-btn,
+.list-post-b .read-more-btn,
+.post-footer .read-more,
+.post-footer .social-share,
+.post-footer .social-icons,
+.large-post-b .post-footer .author a,
+.products-block .more-link,
+.main-slider,
+.slider-overlay .heading,
+.large-slider,
+.large-slider .heading,
+.grid-slider .category,
+.grid-slider .heading,
+.carousel-slider .category,
+.carousel-slider .heading,
+.grid-b-slider .heading,
+.bold-slider,
+.bold-slider .heading,
+.main-pagination,
+.main-pagination .load-button,
+.page-links,
+.post-content .read-more,
+.widget-about .more,
+.widget-posts .post-title,
+.widget-posts .posts.full .counter:before,
+.widget-cta .label,
+.social-follow .service-link,
+.widget-twitter .meta .date,
+.widget-twitter .follow,
+.widget_categories,
+.widget_product_categories,
+.widget_archive,
+.mobile-menu,
+.woocommerce .main .button,
+.woocommerce .quantity .qty,
+.woocommerce nav.woocommerce-pagination,
+.woocommerce-cart .post-content,
+.woocommerce .woocommerce-ordering,
+.woocommerce-page .woocommerce-ordering,
+.woocommerce ul.products,
+.woocommerce.widget,
+.woocommerce div.product,
+.woocommerce #content div.product,
+.woocommerce-cart .cart-collaterals .cart_totals .button,
+.woocommerce .checkout .shop_table thead th,
+.woocommerce .checkout .shop_table .amount,
+.woocommerce-checkout #payment #place_order,
+.top-bar .posts-ticker,
+.post-content h1,
+.post-content h2,
+.post-content h3,
+.post-content h4,
+.post-content h5,
+.post-content h6,
+
+.related-posts.grid-2 .post-title,
+.related-posts .post-title,
+.block-heading .title,
+.single-cover .featured .post-title,
+.single-creative .featured .post-title,
+.single-magazine .post-top .post-title,
+.author-box .author > a,
+.section-head .title,
+.comments-list .comment-author,
+.sidebar .widget-title,
+.upper-footer .widget .widget-title
+ { font-family: "Lora", Arial, sans-serif; }
+.sidebar .widget:not(.widget_mc4wp_form_widget):not(.widget-subscribe) .widget-title { background-color: #0c6572; }
+
+.sidebar .widget:not(.widget_mc4wp_form_widget):not(.widget-subscribe) .widget-title { color: #eddb68; }
+
+.post-title, 
+.post-title-alt, 
+.post-title a, 
+.post-title-alt a { color: #0c6572 !important; }
+
+.top-bar-content, .top-bar.dark .top-bar-content { background-color: #034a4f; border-color: #034a4f; }
+
+.top-bar .navigation { background: transparent; }
+
+.navigation .menu > li > a, .navigation.dark .menu > li > a { color: #0c6572; }
+
+.navigation .menu > li:hover > a, 
+.navigation .menu > .current-menu-item > a, 
+.navigation .menu > .current-menu-parent > a, 
+.navigation .menu > .current-menu-ancestor > a { color: #c1aa55 !important; }
+
+.main-head .social-icons a { color: #c1aa55 !important; }
+
+.main-head .search-submit { color: #c1aa55 !important; }
+
+.navigation .menu > li li a { color: #0c6572 !important; }
+
+.navigation .menu li li:hover > a, .navigation .menu li li.current-menu-item > a { color: #eddb68 !important; }
+
+.grid-post .post-title-alt { font-size: 16px; }
+h2 { font-size: 20px; }
+
+.theiaStickySidebar:after {content: ""; display: table; clear: both;}

@@ -1,8 +1,12 @@
-<div class="w-full justify-center my-2">
-    <h1 class="text-center m-1">Book Details</h1>
+<li id="bookmetadatawidget" class="widget widget_bookmetadatawidget">
+    <h5 class="widget-title">
+        <span>
+            <span alt="{{ page.title }}">Book Details</span>
+        </span>
+    </h5>
 
-    <div class="mx-1 my-2 shadow-md p-2">
-        <img src="{{ site.baseurl }}/assets/books/{{ page.cover }}" class="" />
+    <div class="attachment-medium_large size-medium_large wp-post-image lazyloaded">
+        <img src="{{ site.baseurl }}/assets/books/{{ page.cover }}" class="" alt="{{ page.author }} - {{ page.title }}" />
     </div>
 
     <div class="star-ratings-sprite">
@@ -33,4 +37,4 @@
             </tbody>
         </table>
     </div>
-</div>
+</li>

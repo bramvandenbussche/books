@@ -13,37 +13,39 @@
         {% endif %}
     </head>
 
-    <body class="w-screen h-screen min-h-screen">
+    <body class="post-template-default single single-post single-format-standard custom-background right-sidebar lazy-smart skin-fashion">
 
-        <div class="flex h-screen">
-            <div class="flex-1 flex flex-col">
-                {% include header.html %}
+        <div class="main-wrap" style="transform: none;">
+            {% include header.html %}
+            <!-- .main-head -->
+
+            <div class="main wrap" style="transform: none;">
                 
-                <div class="flex h-full">
-                    {% if site.sidebar == 'left' %}
-                    <!-- Left Sidebar -->
-                    {% include sidebar.html %}
-                    {% endif %}
+                
+                <div class="ts-row cf">
                     
-                    <main class="flex flex-col w-8/12 overflow-x-hidden overflow-y-auto mb-14">
+                    
+                    <div class="col-8 main-content cf">
                         <div class="flex w-full mx-auto px-6 py-8">
                             <div class="flex flex-col w-full h-full border-4 border-gray-900 border-dashed">
                                 {{ content }}
                             </div>
                         </div>
-                    </main>
+                    </div>
 
-                    {% if site.sidebar == 'right' %}
+                   
                     <!-- Right Sidebar -->
                     {% include sidebar.html %}
-                    {% endif %}
                 </div>
 
-                {% include footer.html %}
+                
             </div>
-        </div>
+            <!-- .main -->
 
-        
+            {% include footer.html %}
+            <!-- .main-footer -->
+        </div>  
+        <!-- .main-wrap -->      
     </body>
 
 </html>

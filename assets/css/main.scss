@@ -5,7 +5,7 @@
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Cormorant%3A600%2C700%2C700i');
 
-@import url('/assets/css/style.css');
+@import url('/assets/css/cheerup.css');
 @import url('/assets/css/skin-fashion.css');
 @import url('/assets/css/font-awesome.min.css');
 @import url('/assets/css/inline.css');
@@ -47,3 +47,6 @@ $theme-gray: #505050;
     display: block;
 }
 
+.gr_grid_book_container {
+    text-align: center;
+}

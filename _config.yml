@@ -3,8 +3,14 @@ title: Bram reads books
 tagline: I read books, and sometimes I like writing about them too, when inspiration strikes.
 image_url: assets/img/book_icon.png
 
+# Socials
+twitter-handle: vandenbusschebr
+instagram-handle: bram.plays.games
+linkedin-handle: bramvandenbussche
+
 # Base URL
 baseurl: ""
+url: "/"
 google_analytics: UA-5000335-12
 
 # Build settings

@@ -5,17 +5,17 @@
 
                 <ul class="social-icons cf">
                     <li>
-                        <a href="https://www.twitter.com/vandenbusschebr" class="fa fa-twitter" target="_blank">
+                        <a href="https://www.twitter.com/{{ site.twitter-handle }}" class="fa fa-twitter" target="_blank">
                             <span class="visuallyhidden">Twitter</span>
                         </a>
                     </li>
                     <li>
-                        <a href="https://www.instagram.com/arbje" class="fa fa-instagram" target="_blank">
+                        <a href="https://www.instagram.com/{{ site.instagram-handle }}" class="fa fa-instagram" target="_blank">
                             <span class="visuallyhidden">Instagram</span>
                         </a>
                     </li>
                     <li>
-                        <a href="https://www.linkedin.com/in/bramvandenbussche" class="fa fa-linkedin" target="_blank">
+                        <a href="https://www.linkedin.com/in/{{ site.linkedin-handle }}" class="fa fa-linkedin" target="_blank">
                             <span class="visuallyhidden">LinkedIn</span>
                         </a>
                     </li>
@@ -43,7 +43,7 @@
     <div class="inner">
         <div class="wrap logo-wrap cf">
             <div class="title">
-                <a href="{{ site.baseurl }}" title="Bram reads books" rel="home">
+                <a href="{{ site.url }}" title="Bram reads books" rel="home">
                     <img src="/assets/img/book_icon.png" class="logo-image" alt="{{ site.title }}">
                 </a>
             </div>
@@ -56,7 +56,7 @@
                 <div class="menu-main-container">
                     <ul id="menu-main" class="menu">
                         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home">
-                            <a href="{{ site.baseurl }}">Home</a>
+                            <a href="/">Home</a>
                         </li>
                         
                         {% for tag in site.tags %}

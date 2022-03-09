@@ -1,0 +1,19 @@
+<li id="custom_html-4" class="widget_text widget widget_custom_html">
+    <h5 class="widget-title"><span>Reading Challenge</span></h5>
+
+    <div class="textwidget custom-html-widget">
+
+        {% assign array = "11636|11650|11621|8863|7501|5493|3890|3082|1914|940" | split: "|" %}
+        {% for challenge_id in array %}
+
+        <div id="gr_challenge_{{ challenge_id }}" style="border: 2px solid #EBE8D5; border-radius:5px; padding: 0px 7px 0px 7px; min-height: 100px">
+            <div id="gr_challenge_progress_body_{{ challenge_id }}" style="font-size: 12px; font-family: georgia,serif;line-height: 18px"></div>
+            <script src="https://www.goodreads.com/user_challenges/widget/18523500-bram?challenge_id={{ challenge_id }}&amp;v=2"></script>
+        </div>
+
+        <br />
+
+        {% endfor %}
+
+    </div>
+</li>

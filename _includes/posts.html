@@ -1,33 +1,49 @@
-<section id="reviews">
-    <h1>More reviews</h1>
+<div class="posts-dynamic posts-container ts-row grid count-0 masonry">
+    <div class="posts-wrap">
+        {% for review in paginator.posts %}
+        <div class="col-6">
 
-    <div class="grid 2xl:grid-cols-5 xl:grid-cols-4 lg:grid-cols-3 sm:grid-cols-2 grid-cols-1 gap-x-6 gap-y-12 w-full mt-6">
-    {% for review in paginator.posts %}
+            <article class="grid-post post type-post format-standard has-post-thumbnail">
+                <div class="post-header cf">
+                    <div class="post-thumb">
+                        <a href="{{ review.url }}" class="image-link">
+                            <img src="/assets/books/{{ review.cover }}"
+                                class="attachment-large size-large wp-post-image"
+                                alt="{{ review.author }} – {{ review.title }}"
+                                title="{{ review.author }} – {{ review.title }}" />
+                        </a>
+                    </div>
 
-        <article class="drop-shadow-md w-64" style="border: 1px solid red;">
-            <a href="{{ post.url }}" class="block w-64 rounded-lg shadow-lg bg-white">
-                <img src="{{ site.baseurl }}/assets/books/{{ review.cover }}"
-                     title="Book cover for {{ review.title }} by {{ review.author }}"
-                     class="object-cover w-64 drop-shadow-md" />
-            </a>
-			<div class="flex items-center justify-between mt-3">
-				<div>
-					<a href="#" class="font-medium">{{ review.title }}</a>
-					<a class="flex items-center" href="#">
-						<span class="text-xs font-medium text-gray-600">by</span>
-						<span class="text-xs font-medium ml-1 text-teal-500">{{ review.author }}</span>
-					</a>
-				</div>
-				<span class="flex items-center h-8 bg-yellow-100 text-yellow-600 text-sm px-2 rounded">
-                    <span class="fa fa-star"></span>&nbsp;
-                    {{ review.rating }}
-                </span>
-			</div>
-		</article>
-    {% endfor %}
+                    <div class="meta-title">
+                        <div class="post-meta post-meta-a">
+                            <span class="post-cat">
+                                <a href="https://books.bramvandenbussche.be/category/reviews/humor"
+                                    class="category">Humor</a>
+                            </span>
+
+                            <span class="meta-sep"></span>
+
+                            <a href="{{ review.link }}" class="date-link">
+                                <time class="post-date" datetime="{{ page.date }}">August 23, 2018</time>
+                            </a>
+
+                            <h2 class="post-title-alt">
+                                <a href="{{ review.link }}">
+                                    {{ review.author }} – {{ review.title }}
+                                </a>
+                            </h2>
+                        </div>
+                    </div>
+                </div><!-- .post-header -->
+
+                <div class="post-content post-excerpt cf">
+                    <p>{{ review.excerpt }}</p>
+
+                </div><!-- .post-content -->
+
+            </article>
+        </div>
+        {% endfor %}
+
     </div>
-
-    <!-- Pagination links -->
-    {% include pagination.html %}
-  
-</section>
+</div>

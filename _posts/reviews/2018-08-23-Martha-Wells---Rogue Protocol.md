@@ -1,5 +1,7 @@
 ---
 layout: review
+excerpt_separator: <!--more-->
+
 date: 2018-06-29 9:00:00 +0100
 
 title: Rogue Protocol
@@ -12,9 +14,13 @@ series_order: 3
 genres: Sci-Fi Short-Story
 rating: 5.0
 published: 2018
+
+tags: ["science fiction", "Humor"]
 ---
 
 It’s official, I LOVE Murderbot.
+
+<!--more-->
 
 ## Story
 

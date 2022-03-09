@@ -1,5 +1,7 @@
 ---
 layout: review
+excerpt_separator: <!--more-->
+
 date: 2018-10-19 09:30:00 +0100
 
 title: Exit Strategy
@@ -12,9 +14,13 @@ series_order: 4
 genres: Sci-Fi Short-Story
 rating: 5.0
 published: 2018
+
+tags: ["science fiction", "Humor"]
 ---
 
 The perfect ending to this mini-series.
+
+<!--more-->
 
 Murderbot has carved itself a little nook in my heart and it’s there to stay. This has been a great ride of action-packed short-stories constantly accompanied by the dry humor of murderbot critiquing everything and everyone (including itself).
 

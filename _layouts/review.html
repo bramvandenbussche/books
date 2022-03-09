@@ -2,20 +2,48 @@
 layout: default
 ---
 
-<section class="review">
-    
+<article class="the-post post type-post format-standard">
+
     <header class="post-header the-post-header cf">
         <div class="post-meta the-post-meta">
-            <span class="post-cat">	
-                <a href="https://books.bramvandenbussche.be/category/reviews" rel="category tag">Reviews</a> 
-                <a href="https://books.bramvandenbussche.be/category/reviews/science-fiction" rel="category tag">Science Fiction</a>
+            <span class="post-cat">
+                <a href="https://books.bramvandenbussche.be/category/reviews" rel="category tag">Reviews</a>
+                <a href="https://books.bramvandenbussche.be/category/reviews/science-fiction" rel="category tag">Science
+                    Fiction</a>
             </span>
             <h1 class="post-title">{{ page.author }} – {{ page.title }}</h1>
-            <a href="https://books.bramvandenbussche.be/606/martha-wells-exit-strategy" class="date-link"><time class="post-date">October 19, 2018</time></a>
+            <a href="https://books.bramvandenbussche.be/606/martha-wells-exit-strategy" class="date-link"><time
+                    class="post-date">October 19, 2018</time></a>
         </div>
     </header>
-    
-    <article>
+    <!-- .post-header -->
+
+    <div class="post-content description cf">
         {{ content }}
-    </article>
-</section>
+    </div>
+    <!-- .post-content -->
+
+    <div class="the-post-foot cf">
+        <div class="tag-share cf">
+            <div class="post-tags">
+                <a href="https://books.bramvandenbussche.be/tag/humor" rel="tag">Humor</a>
+            </div>            
+        </div>
+    </div>
+    <!-- .post-footer -->
+
+    <div class="author-box">
+        <div class="image"><img alt=""
+                src="https://secure.gravatar.com/avatar/c7a55abd0698e17aa55659ab3d71e01e?s=82&amp;d=mm&amp;r=g"
+                srcset="https://secure.gravatar.com/avatar/c7a55abd0698e17aa55659ab3d71e01e?s=164&amp;d=mm&amp;r=g 2x"
+                class="avatar avatar-82 photo" height="82" width="82" loading="lazy"></div>
+
+        <div class="content">
+            <span class="author">
+                <span>Author</span>
+                <a href="https://books.bramvandenbussche.be/author/bramv" title="Posts by Bram Vandenbussche"
+                    rel="author">Bram Vandenbussche</a> </span>
+        </div>
+    </div>
+    <!-- .author-box -->
+</article>

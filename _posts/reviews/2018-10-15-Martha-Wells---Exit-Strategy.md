@@ -1,8 +1,7 @@
 ---
 layout: review
-excerpt_separator: <!--more-->
 
-date: 2018-10-19 09:30:00 +0100
+date: 2018-10-15 09:30:00 +0100
 
 title: Exit Strategy
 author: Martha Wells

@@ -1,6 +1,5 @@
 ---
 layout: review
-excerpt_separator: <!--more-->
 
 date: 2018-05-16 11:05:00 +0100
 

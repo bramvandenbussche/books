@@ -11,11 +11,10 @@ cover: murderbot-2-artificial-condition.jpg
 series: Murderbot Diaries
 series_order: 2
 
-genres: Sci-Fi Short-Story
 rating: 5.0
 published: 2018
 
-tags: ["science fiction", "Humor"]
+tags: ["Science Fiction", "Humor"]
 ---
 
 In this follow-up to [All Systems Red]() we continue our journey with the nameless rogue Murderbot as it returns to where it all began, in search of answers to its (literal) character-defining moment.

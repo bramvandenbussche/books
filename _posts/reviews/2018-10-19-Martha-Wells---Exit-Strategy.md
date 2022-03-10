@@ -11,11 +11,10 @@ cover: murderbot-4-exit-strategy.jpg
 series: Murderbot Diaries
 series_order: 4
 
-genres: Sci-Fi Short-Story
 rating: 5.0
 published: 2018
 
-tags: ["science fiction", "Humor"]
+tags: ["Science Fiction", "Humor"]
 ---
 
 The perfect ending to this mini-series.

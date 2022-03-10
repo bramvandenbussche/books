@@ -11,11 +11,10 @@ cover: murderbot-4-rogue-protocol.jpg
 series: Murderbot Diaries
 series_order: 3
 
-genres: Sci-Fi Short-Story
 rating: 5.0
 published: 2018
 
-tags: ["science fiction", "Humor"]
+tags: ["Science Fiction", "Humor"]
 ---
 
 It’s official, I LOVE Murderbot.

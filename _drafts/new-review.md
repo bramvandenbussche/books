@@ -12,7 +12,7 @@ series_order: 1
 
 rating: 5.0 # out of 5
 published: 2000
-goodreads_id: 1961698
+goodreads_id: 123
 
 tags: ["Science Fiction", "Humor", "Dark", "Mystery", "Fantasy", "Thriller"]
 ---

@@ -4,18 +4,18 @@ excerpt_separator: <!--more-->
 
 date: 2018-06-18 11:05:00 +0100
 
-title: Some Book Title
-author: Author McAuthorson
-cover: name-of-the-image-file-in-assets-books.jpg
+title: 
+author: 
+cover: .jpg
 
-series: Cool Series Name
-series_order: 2
+series: 
+series_order: 1
 
 rating: 5.0 # out of 5
-published: 2004
+published: 2000
 goodreads_id: 1961698
 
-tags: ["Science Fiction", "Humor", "Dark"]
+tags: ["Science Fiction", "Humor", "Dark", "Mystery", "Fantasy", "Thriller"]
 ---
 
 Some introduction text

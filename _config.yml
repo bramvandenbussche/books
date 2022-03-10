@@ -15,7 +15,8 @@ google_analytics: UA-5000335-12
 
 # Build settings
 paginate: 5
-paginate_path: "page:num"
+paginate_path: "/:num"
+date_format: "%b %-d, %Y"
 
 # Compress
 compress_html:
@@ -33,10 +34,9 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
-  - Icon
 
 plugins:
-  - jekyll-paginate_path
+  - jekyll-paginate
 
 highlighter: rouge
 

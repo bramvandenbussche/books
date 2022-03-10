@@ -5,7 +5,7 @@ date: 2018-07-26 23:05:00 +0100
 
 title: The Steam Pump Jump
 author: Jodi Taylor
-cover: cronicles-of-st-marys-9.6-steam-pump-jump.jpg
+cover: chronicles-of-st-marys-9.6-steam-pump-jump.jpg
 
 series: The Chronicles of St. Mary's
 series_order: 9.6

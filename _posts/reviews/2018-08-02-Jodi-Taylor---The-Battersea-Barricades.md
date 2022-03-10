@@ -5,7 +5,7 @@ date: 2018-08-02 23:05:00 +0100
 
 title: The Battersea Barricades
 author: Jodi Taylor
-cover: cronicles-of-st-marys-9.5-battersea-barricades.jpg
+cover: chronicles-of-st-marys-9.5-battersea-barricades.jpg
 
 series: The Chronicles of St. Mary's
 series_order: 9.5

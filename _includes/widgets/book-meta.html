@@ -34,6 +34,16 @@
                     <td>Published</td>
                     <td>{{ page.published }}</td>
                 </tr>
+                {% if page.goodreads_id %}
+                <tr>
+                    <td colspan="2" style="text-align: center;">
+                        <a href="https://www.goodreads.com/book/show/{{ page.goodreads_id }}" target="_blank">
+                            <i class="fa-brands fa-goodreads"></i>
+                            View on Goodreads
+                        </a>
+                    </td>
+                </tr>
+                {% endif %}
             </tbody>
         </table>
     </div>

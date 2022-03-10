@@ -13,8 +13,9 @@ series_order: 3
 
 rating: 5.0
 published: 2018
+goodreads_id: 35519101
 
-tags: ["Science Fiction", "Humor"]
+tags: ["Science Fiction", "Humor", "Short Story"]
 ---
 
 It’s official, I LOVE Murderbot.

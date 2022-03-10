@@ -13,8 +13,9 @@ series_order: 4
 
 rating: 5.0
 published: 2018
+goodreads_id: 35519109
 
-tags: ["Science Fiction", "Humor"]
+tags: ["Science Fiction", "Humor", "Short Story"]
 ---
 
 The perfect ending to this mini-series.

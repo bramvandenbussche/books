@@ -9,7 +9,8 @@ author: Yahtzee Croshaw
 cover: differently-morpheus.jpg
 
 rating: 4.5
-published: 2018
+published: 2019
+goodreads_id: 39027664
 
 tags: ["Fantasy", "Humor", "Mystery"]
 ---

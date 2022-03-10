@@ -12,9 +12,10 @@ series: Murderbot Diaries
 series_order: 1
 
 rating: 5.0
-published: 2018
+published: 2017
+goodreads_id: 32758901
 
-tags: ["Science Fiction", "Humor"]
+tags: ["Science Fiction", "Humor", "Short Story"]
 ---
 
 On the surface, this is a great little sci-fi novel about an AI-driven construct (half bot / half organic) working on a foreign planet, supporting a team of humans that are in over their heads.

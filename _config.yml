@@ -15,7 +15,7 @@ google_analytics: UA-5000335-12
 
 # Build settings
 paginate: 5
-paginate_path: "/page:num"
+paginate_path: "page:num"
 date_format: "%b %-d, %Y"
 excerpt_separator: <!--more-->
 
@@ -36,7 +36,7 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
 
-plugins:
+plugins: 
   - jekyll-paginate
 
 highlighter: rouge

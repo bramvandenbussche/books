@@ -1,7 +1,7 @@
 ---
 layout: review
 
-date: 2018-06-29 9:00:00 +0100
+date: 2018-08-23 9:00:00 +0100
 
 title: Rogue Protocol
 author: Martha Wells

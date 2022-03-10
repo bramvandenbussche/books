@@ -2,9 +2,17 @@
     <div class="inner theiaStickySidebar" style="padding-top: 0px; padding-bottom: 1px; position: static; transform: none;">
         <ul>
             {% if page.title %}
-            {% include widgets/book-meta.html %}
+
+                {% include widgets/book-meta.html %}
+
+                {% if page.series %}
+                    {% include widgets/book-series.html %}
+                {% endif %}
+
             {% else %}
-            {% include widgets/about.html %}
+
+                {% include widgets/about.html %}
+                
             {% endif %}
 
             {% include widgets/currently-reading.html %}

@@ -7,7 +7,11 @@ pagination:
 
 <ul>
 {% for review in site.posts %}
-  <li>{{ review.date | date }} | {{ review.author }} - {{ review.title }}</li>
+  <li>
+    <a href="{{ review.url }}">
+      {{ review.date | date_to_string }} | {{ review.author }} - {{ review.title }}
+    </a>
+  </li>
 {% endfor %}
 </ul>
 <!-- {% include recent-post.html %} -->

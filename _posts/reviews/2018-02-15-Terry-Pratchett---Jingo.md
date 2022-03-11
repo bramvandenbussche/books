@@ -14,7 +14,7 @@ rating: 5.0
 published: 1997
 goodreads_id: 47990
 
-tags: ["Humor","Fantasy"]
+tags: ["Humor", "Fantasy"]
 ---
 
 The sudden appearance of the lost island of Lesh triggers diplomatic tensions between the Ankh Morporkians and their neighbours from Klatsch and when diplomacy seems to fail spectacularly, the time has come to go to war.

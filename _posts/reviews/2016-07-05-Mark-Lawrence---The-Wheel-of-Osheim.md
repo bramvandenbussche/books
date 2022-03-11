@@ -4,7 +4,7 @@ layout: review
 date: 2015-07-01 11:05:00 +0100
 
 author: Mark Lawrence
-title: The Whele of Osheim
+title: The Wheel of Osheim
 series: The Red Queen's War
 series_order: 3
 cover: red-queens-war-3-wheel-of-osheim.jpg

@@ -14,7 +14,7 @@ rating: 2.0
 published: 2018
 goodreads_id: 37535424
 
-tags: ["Science Fiction", "Humor", "Dark", "Mystery", "Fantasy", "Thriller"]
+tags: ["Fantasy"]
 ---
 
 A medieval society where the clergy has taken it upon itself to drive out wizardry by force to protect the people from the demons this will eventually draw out. They take to this task with gusto and indiscrimination, much like the Inquisition did in the middle ages, revelling in their self-righteous power and asserting their dominance every chance they get.

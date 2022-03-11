@@ -5,6 +5,11 @@ pagination:
   enabled: true
 ---
 
+<ul>
+{% for review in site.posts %}
+  <li>{{ review.date | date }} | {{ review.author }} - {{ review.title }}</li>
+{% endfor %}
+</ul>
 <!-- {% include recent-post.html %} -->
 <!-- <hr /> -->
 {% include posts.html %}

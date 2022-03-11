@@ -1,7 +1,7 @@
 ---
 layout: review
 
-date: 2020-05-02 11:05:00 +0100
+date: 2018-03-16 11:05:00 +0100
 
 title: The Armored Saint
 author: Myke Cole

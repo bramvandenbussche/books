@@ -10,7 +10,7 @@ cover: discworld-19-feet-of-clay.jpg
 series: Discworld
 series_order: 19
 
-rating: 5.0 # out of 5
+rating: 5.0
 published: 1996
 goodreads_id: 34527
 

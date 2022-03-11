@@ -10,7 +10,7 @@ cover: artemis.jpg
 # series: 
 # series_order: 1
 
-rating: 3.0 # out of 5
+rating: 3.0
 published: 2017
 goodreads_id: 34928122
 

@@ -10,7 +10,7 @@ cover: chronicles-of-st-marys-8.6-christmas-past.jpg
 series: The Chronicles of St. Mary's
 series_order: 8.6
 
-rating: 4.5 # out of 5
+rating: 4.5
 published: 2017
 goodreads_id: 36103416
 

@@ -10,7 +10,7 @@ cover: chronicles-of-st-marys-9.5-battersea-barricades.jpg
 series: The Chronicles of St. Mary's
 series_order: 9.5
 
-rating: 5.0 # out of 5
+rating: 5.0
 published: 2018
 goodreads_id: 38312874
 

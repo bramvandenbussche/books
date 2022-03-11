@@ -10,7 +10,7 @@ cover: shadow-campaigns-2-shadow-throne.jpg
 series: The Shadow Campaigns
 series_order: 2
 
-rating: 4.0 # out of 5
+rating: 4.0
 published: 2014
 goodreads_id: 18657632
 

@@ -10,7 +10,7 @@ cover: chronicles-of-st-marys-9.6-steam-pump-jump.jpg
 series: The Chronicles of St. Mary's
 series_order: 9.6
 
-rating: 5.0 # out of 5
+rating: 5.0
 published: 2018
 goodreads_id: 39871658
 

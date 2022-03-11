@@ -10,7 +10,7 @@ cover: andrea-vernon-and-the-corporation-for-ultrahuman-protection.jpg
 # series: 
 # series_order: 1
 
-rating: 3.5 # out of 5
+rating: 3.5
 published: 2017
 goodreads_id: 36130625
 

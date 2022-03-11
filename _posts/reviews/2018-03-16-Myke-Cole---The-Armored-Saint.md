@@ -10,7 +10,7 @@ cover: sacred-throne-1-armored-saint.jpg
 series: The Sacred Throne
 series_order: 1
 
-rating: 2.0 # out of 5
+rating: 2.0
 published: 2018
 goodreads_id: 37535424
 

@@ -10,7 +10,7 @@ cover: shadow-campaigns-4-guns-of-empire.jpg
 series: The Shadow Campaigns
 series_order: 4
 
-rating: 5.0 # out of 5
+rating: 5.0
 published: 2016
 goodreads_id: 25845201
 

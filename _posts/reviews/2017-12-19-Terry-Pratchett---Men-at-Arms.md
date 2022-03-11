@@ -10,7 +10,7 @@ cover: discworld-15-men-at-arms.jpg
 series: Discworld
 series_order: 15
 
-rating: 5.0 # out of 5
+rating: 5.0
 published: 1993
 goodreads_id: 400354
 

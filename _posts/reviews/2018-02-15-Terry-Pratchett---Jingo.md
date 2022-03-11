@@ -10,7 +10,7 @@ cover: discworld-21-jingo.jpg
 series: 
 series_order: 1
 
-rating: 5.0 # out of 5
+rating: 5.0
 published: 1997
 goodreads_id: 47990
 

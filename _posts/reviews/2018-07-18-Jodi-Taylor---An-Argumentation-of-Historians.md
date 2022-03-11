@@ -10,7 +10,7 @@ cover: chronicles-of-st-marys-9-argumentation-of-historians.jpg
 series: The Chronicles of St. Mary's
 series_order: 9
 
-rating: 4.5 # out of 5
+rating: 4.5
 published: 2018
 goodreads_id: 35659214
 

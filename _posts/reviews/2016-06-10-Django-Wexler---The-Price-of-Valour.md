@@ -10,7 +10,7 @@ cover: shadow-campaigns-3-price-of-valour.jpg
 series: The Shadow Campaigns
 series_order: 3
 
-rating: 4.0 # out of 5
+rating: 4.0
 published: 2015
 goodreads_id: 23346335
 

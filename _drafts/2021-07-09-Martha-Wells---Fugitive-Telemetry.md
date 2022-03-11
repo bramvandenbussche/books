@@ -11,7 +11,7 @@ cover: murderbot-6-fugitive-telemetry.jpg
 series: Murderbot
 series_order: 6
 
-rating: 5.0 # out of 5
+rating: 5.0
 published: 2021
 goodreads_id: 53205854
 

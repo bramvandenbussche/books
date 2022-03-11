@@ -10,7 +10,7 @@ cover: discworld-14-lords-and-ladies.jpg
 series: Discworld
 series_order: 14
 
-rating: 5.0 # out of 5
+rating: 5.0
 published: 1992
 goodreads_id: 34529
 

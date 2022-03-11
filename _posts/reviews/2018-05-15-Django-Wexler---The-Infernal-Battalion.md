@@ -10,7 +10,7 @@ cover: shadow-campaigns-5-infernal-battalion.jpg
 series: The Shadow Campaigns
 series_order: 5
 
-rating: 3.0 # out of 5
+rating: 3.0
 published: 2018
 goodreads_id: 25845205
 

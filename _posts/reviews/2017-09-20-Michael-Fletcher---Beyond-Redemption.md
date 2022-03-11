@@ -10,7 +10,7 @@ cover: manifest-delusions-1-beyond-redemption.jpg
 series: Manifest Delusions
 series_order: 1
 
-rating: 5.0 # out of 5
+rating: 5.0
 published: 2015
 goodreads_id: 23287202
 

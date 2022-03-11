@@ -10,7 +10,7 @@ cover: shadow-campaigns-1-thousand-names.jpg
 series: The Shadow Campaigns
 series_order: 1
 
-rating: 3.5 # out of 5
+rating: 3.5
 published: 2013
 goodreads_id: 15810910
 

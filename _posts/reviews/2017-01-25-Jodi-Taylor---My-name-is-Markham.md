@@ -10,7 +10,7 @@ cover: chronicles-of-st-marys-7.6-my-name-is-markham.jpg
 series: Chronicles of St. Mary's
 series_order: 7.6
 
-rating: 5.0 # out of 5
+rating: 5.0
 published: 2016
 goodreads_id: 30197317
 

@@ -10,7 +10,7 @@ cover: discworld-9-eric.jpg
 series: Discworld
 series_order: 9
 
-rating: 3.5 # out of 5
+rating: 3.5
 published: 1990
 goodreads_id: 64218
 

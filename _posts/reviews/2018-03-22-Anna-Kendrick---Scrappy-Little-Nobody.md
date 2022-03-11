@@ -10,7 +10,7 @@ cover: scrappy-little-nobody.jpg
 # series: 
 # series_order: 1
 
-rating: 4.0 # out of 5
+rating: 4.0
 published: 2016
 goodreads_id: 29868610
 

@@ -1,7 +1,9 @@
 <div class="posts-dynamic posts-container ts-row grid count-0 masonry">
-    <div class="posts-wrap">
+    {% include pagination.html %}
+    
+    <div class="posts-wrap cf">
         {% for review in paginator.posts %}
-        <div class="col-6">
+        <div class="col-4 cf">
 
             <article class="grid-post post type-post format-standard has-post-thumbnail">
                 <div class="post-header cf">
@@ -17,8 +19,8 @@
                     <div class="meta-title">
                         <div class="post-meta post-meta-a">
                             <span class="post-cat">
-                                <a href="https://books.bramvandenbussche.be/category/reviews/humor"
-                                    class="category">Humor</a>
+                                <a href="/tag/{{ review.tags[0] | slugify }}"
+                                    class="category">{{ review.tags[0] }}</a>
                             </span>
 
                             <span class="meta-sep"></span>
@@ -37,8 +39,7 @@
                 </div><!-- .post-header -->
 
                 <div class="post-content post-excerpt cf">
-                    <p>{{ review.excerpt }}</p>
-
+                    <!-- <p>{{ review.excerpt }}</p> -->
                 </div><!-- .post-content -->
 
             </article>

@@ -5,6 +5,9 @@ pagination:
   enabled: true
 ---
 
+
+{% if jekyll.environment == 'production' %}
+
 <ul>
 {% for review in site.posts %}
   <li>
@@ -14,6 +17,11 @@ pagination:
   </li>
 {% endfor %}
 </ul>
-<!-- {% include recent-post.html %} -->
-<!-- <hr /> -->
-{% include posts.html %}
+
+{% else %}
+
+  <!-- {% include recent-post.html %} -->
+  <!-- <hr /> -->
+  {% include posts.html %}
+  
+{% endif %}

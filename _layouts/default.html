@@ -1,45 +1,10 @@
 ---
-layout: compress
+layout: main
 ---
 
-<!DOCTYPE html>
-<html lang="en">
+<div class="col-8 main-content">
+    {{ content }}
+</div>
+<!-- .main-content -->
 
-    <head>
-        {% include meta.html %}
-
-        {% if site.google_analytics and jekyll.environment == 'production' %}
-            {% include analytics.html %}
-        {% endif %}
-    </head>
-
-    <body class="post-template-default single single-post single-format-standard custom-background right-sidebar lazy-smart skin-fashion">
-
-        <div class="main-wrap" style="transform: none;">
-            {% include header.html %}
-            <!-- .main-head -->
-
-            <div class="main wrap" style="transform: none;">
-                <div class="ts-row cf">
-                    
-                    <div class="col-8 main-content cf">
-                        <div class="flex w-full mx-auto px-6 py-8">
-                            <div class="flex flex-col w-full h-full border-4 border-gray-900 border-dashed">
-                                {{ content }}
-                            </div>
-                        </div>
-                    </div>
-                    <!-- .main-content -->
-                   
-                    {% include sidebar.html %}
-                </div>
-            </div>
-            <!-- .main -->
-
-            {% include footer.html %}
-            <!-- .main-footer -->
-        </div>  
-        <!-- .main-wrap -->      
-    </body>
-
-</html>
+{% include sidebar.html %}

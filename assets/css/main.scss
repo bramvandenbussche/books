@@ -49,3 +49,28 @@ $theme-gray: #505050;
 .gr_grid_book_container {
     text-align: center;
 }
+
+.main-pagination {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.main-pagination .next {
+    text-align: right;
+}
+
+.main-pagination .next a, 
+.main-pagination .previous a {
+    float: none;
+}
+
+.main-pagination .page_number {    
+    padding-bottom: 3px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    font-size: 11px;
+    font-weight: 600;
+    border-bottom: 1px solid #ebebeb;
+    text-align: center;
+    margin: 0 auto;
+}

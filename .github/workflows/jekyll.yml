@@ -43,7 +43,7 @@ jobs:
       uses: sand4rt/ftp-deployer@v1.3
       with:
         # SFTP on
-        sftp: true # optional
+        # sftp: true # optional
         # FTP host URL like: ftp.host.com or sftp.host.com
         host: ${{ secrets.FTP_HOST }}
         # FTP port

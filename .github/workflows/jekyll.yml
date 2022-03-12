@@ -59,8 +59,7 @@ jobs:
         # Remove existing files inside FTP remote folder
         cleanup: true # optional
         # includes
-        # include: # optional
-        # exclude
-        exclude: ["wordpress_old"] # optional
+        # include: [] # optional
+        # exclude: []  # optional
         # passive
         pasive: true # optional

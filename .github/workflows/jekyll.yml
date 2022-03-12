@@ -27,9 +27,9 @@ jobs:
         # FTP host
         host: srv008.web.ichtushosting.com
         # FTP user
-        user: ${{ FTP_USR }}
+        user: ${{ secrets.FTP_USR }}
         # FTP password
-        password: ${{ FTP_PWD }}
+        password: ${{ secrets.FTP_PWD }}
         # Force SSL encryption
         forceSsl: true # optional, default is false
         # Local directory

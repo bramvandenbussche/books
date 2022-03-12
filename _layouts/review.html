@@ -7,7 +7,7 @@ layout: default
     <header class="post-header the-post-header cf">
         <div class="post-meta the-post-meta">
             <span class="post-cat">
-                <a href="/category/reviews" rel="category tag">Reviews</a>
+                <a href="{{ site.baseurl }}/category/reviews" rel="category tag">Reviews</a>
             </span>
             <h1 class="post-title">{{ page.author }} – {{ page.title }}</h1>
             <a href="{{ page.url }}" class="date-link">
@@ -26,7 +26,7 @@ layout: default
         <div class="tag-share cf">
             <div class="post-tags">
                 {% for tag in page.tags %}
-                <a href="/tag/{{ tag }}" rel="tag">{{ tag }}</a>
+                <a href="{{ site.baseurl }}/tag/{{ tag }}" rel="tag">{{ tag }}</a>
                 {% endfor %}
             </div>            
         </div>
@@ -42,7 +42,7 @@ layout: default
         <div class="content">
             <span class="author">
                 <span>Author</span>
-                <a href="https://books.bramvandenbussche.be/author/bramv" title="Posts by Bram Vandenbussche"
+                <a href="https://about.bramvandenbussche.be" title="Posts by Bram Vandenbussche"
                     rel="author">Bram Vandenbussche</a> </span>
         </div>
     </div>

@@ -5,23 +5,4 @@ pagination:
   enabled: true
 ---
 
-
-{% if jekyll.environment == 'production' %}
-
-<ul>
-{% for review in site.posts %}
-  <li>
-    <a href="{{ review.url }}">
-      {{ review.date | date_to_string }} | {{ review.author }} - {{ review.title }}
-    </a>
-  </li>
-{% endfor %}
-</ul>
-
-{% else %}
-
-  <!-- {% include recent-post.html %} -->
-  <!-- <hr /> -->
-  {% include posts.html %}
-  
-{% endif %}
+{% include posts.html %}

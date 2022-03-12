@@ -5,9 +5,9 @@
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Cormorant%3A600%2C700%2C700i');
 
-@import url('/assets/css/cheerup.css');
-@import url('/assets/css/skin-fashion.css');
-@import url('/assets/css/inline.css');
+@import url('{{ site.baseurl }}/assets/css/cheerup.css');
+@import url('{{ site.baseurl }}/assets/css/skin-fashion.css');
+@import url('{{ site.baseurl }}/assets/css/inline.css');
 
 
 $theme-teal: #0c6572;

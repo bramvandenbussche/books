@@ -9,7 +9,7 @@ instagram-handle: bram.plays.games
 linkedin-handle: bramvandenbussche
 
 # Base URL
-baseurl: "/_site/"
+baseurl: "/_site"
 url: "https://books.bramvandenbussche.be/_site/"
 google_analytics: UA-5000335-12
 

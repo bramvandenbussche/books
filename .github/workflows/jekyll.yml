@@ -61,6 +61,6 @@ jobs:
         # includes
         # include: # optional
         # exclude
-        exclude: wordpress_old # optional
+        exclude: ["wordpress_old"] # optional
         # passive
         pasive: true # optional

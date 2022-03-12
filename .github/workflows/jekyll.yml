@@ -55,7 +55,7 @@ jobs:
         # The remote folder location of your FTP server
         remote_folder: web/_site/ # optional
         # The local folder location
-        local_folder: _site/# optional, default is dist
+        local_folder: _site/ # optional, default is dist
         # Remove existing files inside FTP remote folder
         cleanup: true # optional
         # includes

@@ -11,7 +11,7 @@ series: Discworld
 series_order: 6
 
 rating: 5.0
-published: 1998
+published: 1988
 goodreads_id: 34504
 
 tags: ["Humor", "Fantasy"]

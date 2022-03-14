@@ -7,8 +7,8 @@ title: Jingo
 author: Terry Pratchett
 cover: discworld-21-jingo.jpg
 
-series: 
-series_order: 1
+series: Discworld
+series_order: 21
 
 rating: 5.0
 published: 1997

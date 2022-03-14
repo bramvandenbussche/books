@@ -5,7 +5,7 @@ layout: main
 <h1>Reviews for books tagged with <b>{% if page.autopages %}{{page.autopages.display_name}}{% endif %}</b> </h1>
 <!-- <h2>Page {{page.pagination_info.curr_page}} of {{page.pagination_info.total_pages}}</h2> -->
 
-<div class="col-12 main-content">
-    {% include posts.html %}
+<div class="col-12 main-content tag-content">
+    {% include posts-loop-4-col.html %}
 </div>
 

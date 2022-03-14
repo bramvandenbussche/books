@@ -1,0 +1,16 @@
+<div class="posts-dynamic posts-container ts-row grid count-0 masonry">
+    {% include pagination.html %}
+    
+    <div class="posts-wrap cf">
+        {% for review in paginator.posts %}
+        <div class="col-3 cf">
+
+            {% include post-list-item.html %}
+            
+        </div>
+        {% endfor %}
+
+    </div>
+
+    {% include pagination.html %}
+</div>

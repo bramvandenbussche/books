@@ -1,29 +1,23 @@
-<li id="bookserieswidget-2" class="widget widget_bookserieswidget">
-    <h5 class="widget-title"><span><span>Series: The Murderbot Diaries</span></span></h5>
+{% 
+    assign series = site.posts 
+                    | where_exp:"post", "post.series == page.series"
+                    | sort: post.series_order
+%}
+
+<li class="widget widget_bookserieswidget">
+    <h5 class="widget-title"><span><span>Series: {{ page.series }}</span></span></h5>
     <div class="book-series">
         <ul>
-
-            <li><a href="https://books.bramvandenbussche.be/423/martha-wells-all-systems-red"><img class=" lazyloaded"
-                        src="https://books.bramvandenbussche.be/wp-content/uploads/2018/05/AllSystemsRed-270x180.jpg"
-                        alt="[1] All Systems Red" title="[1] All Systems Red" width="88" height="132"
-                        data-src="https://books.bramvandenbussche.be/wp-content/uploads/2018/05/AllSystemsRed-270x180.jpg"></a>
+            {% for book in series %}
+            <li>
+                <a href="{{ site.baseurl }}{{ book.url }}">
+                <img class=" lazyloaded"
+                    src="{{ site.baseurl }}/assets/books/{{ book.cover }}"
+                    alt="[{{ book.series_order }}] {{ book.title }} ({{ book.published }})" title="[{{ book.series_order }}] {{ book.title }} ({{ book.published }})"
+                    />
+                </a>
             </li>
-            <li><a href="https://books.bramvandenbussche.be/505/martha-wells-artificial-condition"><img
-                        class=" lazyloaded"
-                        src="https://books.bramvandenbussche.be/wp-content/uploads/2018/06/ArtificialCondition-270x180.jpg"
-                        alt="[2] Artificial Condition" title="[2] Artificial Condition" width="88" height="132"
-                        data-src="https://books.bramvandenbussche.be/wp-content/uploads/2018/06/ArtificialCondition-270x180.jpg"></a>
-            </li>
-            <li><a href="https://books.bramvandenbussche.be/600/martha-wells-rogue-protocol"><img class=" lazyloaded"
-                        src="https://books.bramvandenbussche.be/wp-content/uploads/2018/08/Rogue-Protocol-270x180.jpg"
-                        alt="[3] Rogue Protocol" title="[3] Rogue Protocol" width="88" height="132"
-                        data-src="https://books.bramvandenbussche.be/wp-content/uploads/2018/08/Rogue-Protocol-270x180.jpg"></a>
-            </li>
-            <li><a href="https://books.bramvandenbussche.be/606/martha-wells-exit-strategy"><img class=" lazyloaded"
-                        src="https://books.bramvandenbussche.be/wp-content/uploads/2018/11/Martha-Wells-Exit-Strategy-270x180.jpg"
-                        alt="[4] Exit Strategy" title="[4] Exit Strategy" width="88" height="132"
-                        data-src="https://books.bramvandenbussche.be/wp-content/uploads/2018/11/Martha-Wells-Exit-Strategy-270x180.jpg"></a>
-            </li>
+            {% endfor %}
         </ul>
     </div>
     <div class="clearfix"></div>

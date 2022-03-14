@@ -83,3 +83,32 @@ footer .widget-about .image-circle {
     width: 50%;
     margin: 0 auto 25px;
 }
+
+#btnTop {
+    display: none; /* Hidden by default */
+    position: fixed; /* Fixed/sticky position */
+    bottom: 20px; /* Place the button at the bottom of the page */
+    right: 30px; /* Place the button 30px from the right */
+    z-index: 99; /* Make sure it does not overlap */
+    border: none; /* Remove borders */
+    outline: none; /* Remove outline */
+    background-color: $theme-teal; /* Set a background color */
+    color: $theme-lightgold; /* Text color */
+    cursor: pointer; /* Add a mouse pointer on hover */
+    padding: 15px; /* Some padding */
+    border-radius: 10px; /* Rounded corners */
+    font-size: 18px; /* Increase font size */
+  }
+  
+  #btnTop:hover {
+    color: $theme-gold;
+  }
+
+// Overriding menu item padding so we can fit more items
+.navigation .menu > li > a {
+    padding: 0 15px;
+}
+
+.author-box {
+    margin-top: 100px;
+}

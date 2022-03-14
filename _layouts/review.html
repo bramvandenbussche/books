@@ -26,14 +26,14 @@ layout: default
         <div class="tag-share cf">
             <div class="post-tags">
                 {% for tag in page.tags %}
-                <a href="{{ site.baseurl }}/tag/{{ tag }}" rel="tag">{{ tag }}</a>
+                <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" rel="tag">{{ tag }}</a>
                 {% endfor %}
             </div>            
         </div>
     </div>
     <!-- .post-footer -->
 
-    <div class="author-box">
+    <!-- <div class="author-box">
         <div class="image"><img alt=""
                 src="https://secure.gravatar.com/avatar/c7a55abd0698e17aa55659ab3d71e01e?s=82&amp;d=mm&amp;r=g"
                 srcset="https://secure.gravatar.com/avatar/c7a55abd0698e17aa55659ab3d71e01e?s=164&amp;d=mm&amp;r=g 2x"
@@ -45,7 +45,7 @@ layout: default
                 <a href="https://about.bramvandenbussche.be" title="Bram Vandenbussche"
                     rel="author">Bram Vandenbussche</a> </span>
         </div>
-    </div>
+    </div> -->
     <!-- .author-box -->
 
     {% include widgets/more-by-author.html %}

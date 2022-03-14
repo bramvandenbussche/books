@@ -20,7 +20,7 @@ $theme-lightgray: #aaaaaa;
 $theme-gray: #505050;
 
 .custom-background {
-    background-image: url('/assets/img/lightpaperfibers.png');
+    background-image: url('{{ site.baseurl }}/assets/img/lightpaperfibers.png');
     background-position: left top;
     background-size: auto;
     background-repeat: repeat;
@@ -28,7 +28,7 @@ $theme-gray: #505050;
 }
 
 .star-ratings-sprite {
-    background: url('/assets/img/star-rating-sprite.png') repeat-x;
+    background: url('{{ site.baseurl }}/assets/img/star-rating-sprite.png') repeat-x;
     font-size: 0;
     height: 21px;
     line-height: 0;
@@ -39,7 +39,7 @@ $theme-gray: #505050;
 }
 
 .star-ratings-sprite-rating {
-    background: url('/assets/img/star-rating-sprite.png') repeat-x;
+    background: url('{{ site.baseurl }}/assets/img/star-rating-sprite.png') repeat-x;
     background-position: 0 100%;
     float: left;
     height: 21px;

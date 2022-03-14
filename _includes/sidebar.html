@@ -8,12 +8,16 @@
                 {% if page.series %}
                     {% include widgets/book-series.html %}
                 {% endif %}
+
+            {% else %}
+
+                {% include widgets/currently-reading.html %}
+
+                {% include widgets/reading-challenge.html %}
                 
             {% endif %}
 
-            {% include widgets/currently-reading.html %}
-
-            {% include widgets/reading-challenge.html %}
+            
 
         </ul>
         

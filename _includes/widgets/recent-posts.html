@@ -1,0 +1,8 @@
+<h5 class="widget-title">Recent Reviews</h5>
+<ul>
+    {% for post in site.posts | limit:5 | sort: "date" %}
+    <li>
+        <a href="{{ site.baseurl }}/{{ post.url }}">{{ post.author }} – {{ post.title }}</a>
+    </li>
+    {% endfor %}
+</ul>

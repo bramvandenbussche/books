@@ -1,0 +1,9 @@
+<div class="tagcloud">
+
+    {% for tag in site.tags %}
+
+    <a href="{{ site.baseurl }}/tag/{{ tag }}" class="tag-cloud-link" style="font-size: 8pt;">{{ tag }}</a>
+
+    {% endfor %}
+    
+</div>

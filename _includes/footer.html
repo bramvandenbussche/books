@@ -2,6 +2,56 @@
 
     <section class="upper-footer">
         <div class="wrap">
+
+            <ul class="widgets ts-row cf">
+
+                <li id="block-3" class="widget column col-4 widget_block widget_media_image widget-about">
+                    <h5 class="widget-title"><span>About</span></h5>
+
+                    <div class="author-image image-circle">
+                        <img src="https://secure.gravatar.com/avatar/966ffc611efed95e5f9189873f63d295?s=250" alt="About Me">
+                    </div>
+
+
+                    <div class="text about-text">
+                        <p>{{ site.tagline }}</p>
+                    </div>
+                </li>
+
+                <li id="recent-posts-3" class="widget column col-4 widget_recent_entries">
+                    <h5 class="widget-title">Recent Reviews</h5>
+                    <ul>
+                        <li>
+                            <a href="https://books.bramvandenbussche.be/606/martha-wells-exit-strategy">Martha Wells –
+                                Exit Strategy</a>
+                        </li>
+                        <li>
+                            <a href="https://books.bramvandenbussche.be/600/martha-wells-rogue-protocol">Martha Wells –
+                                Rogue Protocol</a>
+                        </li>
+                        <li>
+                            <a href="https://books.bramvandenbussche.be/532/jodi-taylor-the-battersea-barricades">Jodi
+                                Taylor – The Battersea Barricades</a>
+                        </li>
+                        <li>
+                            <a href="https://books.bramvandenbussche.be/539/jodi-taylor-the-steam-pump-jump">Jodi Taylor
+                                – The Steam Pump Jump</a>
+                        </li>
+                        <li>
+                            <a href="https://books.bramvandenbussche.be/528/jodi-taylor-an-argumentation-of-historians">Jodi
+                                Taylor – An Argumentation of Historians</a>
+                        </li>
+                    </ul>
+
+                </li>
+                <li id="tag_cloud-2" class="widget column col-4 widget_tag_cloud">
+                    <h5 class="widget-title">Tags</h5>
+
+                    {% include widgets/tagcloud.html %}
+
+                </li>
+                
+            </ul>
         </div>
     </section>
 
@@ -11,9 +61,12 @@
 
     <section class="lower-footer cf">
         <div class="wrap">
-
+            <div class="footer-logo">
+                <img class="logo" src="https://books.bramvandenbussche.be/wp-content/uploads/2017/09/bonus_isildur_s_account.png" alt="Bram reads books" />
+            </div>
             <div class="bottom cf">
-                <p class="copyright">© 2022 by <a href="https://about.bramvandenbussche.be">Bram Vandenbussche</a> <i class="fa fa-heart red"></i></p>
+                <p class="copyright">© 2022 by <a href="https://about.bramvandenbussche.be">Bram Vandenbussche</a> <i
+                        class="fa fa-heart red"></i></p>
 
                 <ul class="social-icons">
                     <li>
@@ -22,23 +75,25 @@
                             <span class="label">Twitter</span>
                         </a>
                     </li>
-                
+
                     <li>
-                        <a href="https://www.instagram.com/{{ site.instagram-handle }}" class="social-link" target="_blank">
+                        <a href="https://www.instagram.com/{{ site.instagram-handle }}" class="social-link"
+                            target="_blank">
                             <i class="fa fa-instagram"></i>
                             <span class="label">Instagram</span>
                         </a>
                     </li>
-                
+
                     <li>
-                        <a href="https://www.linkedin.com/in/{{ site.linkedin-handle }}" class="social-link" target="_blank">
+                        <a href="https://www.linkedin.com/in/{{ site.linkedin-handle }}" class="social-link"
+                            target="_blank">
                             <i class="fa fa-linkedin"></i>
                             <span class="label">LinkedIn</span>
                         </a>
                     </li>
                 </ul>
 
-                
+
             </div>
         </div>
     </section>

@@ -113,8 +113,45 @@ footer .widget-about .image-circle {
     margin-top: 100px;
 }
 
-.widget_bookserieswidget li img {
-    float: left;
+
+.widget_bookserieswidget ul {
+    display: flex;
+    flex-flow: row wrap;
+    margin-left: -2px; /* Adjustment for the gutter */
+    width: 100%;
+}
+
+.widget_bookserieswidget li {
     width: 80px;
-    margin: 2px 2px 0 0;
+    flex: auto;
+    margin: 0 2px 2px 0; 
+}
+
+#books-by-author {
+    margin-top: 35px;
+    border-top: 1px solid #ebebeb;
+    padding-top: 25px;
+}
+
+#books-by-author h1 {
+    text-align: center;
+    color: $theme-teal;
+    line-height: 20px;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-bottom: 25px;
+}
+
+#books-by-author ul {
+    display: flex;
+    flex-flow: row wrap;
+    margin-left: -8px; /* Adjustment for the gutter */
+    width: 100%;
+}
+
+#books-by-author ul li {
+    width: 100px;
+    flex: auto;
+    margin: 0 8px 8px 0; /* Some gutter */
 }

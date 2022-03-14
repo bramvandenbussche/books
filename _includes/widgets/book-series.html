@@ -1,7 +1,7 @@
 {% 
     assign series = site.posts 
                     | where_exp:"post", "post.series == page.series"
-                    | sort: post.series_order
+                    | sort: "series_order"
 %}
 
 <li class="widget widget_bookserieswidget">

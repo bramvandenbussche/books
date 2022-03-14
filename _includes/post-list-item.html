@@ -1,7 +1,7 @@
 <article class="grid-post post type-post format-standard has-post-thumbnail">
     <div class="post-header cf">
         <div class="post-thumb">
-            <a href="{{ site.baseurl }}/{{ review.url }}" class="image-link">
+            <a href="{{ site.baseurl }}{{ review.url }}" class="image-link">
                 <img src="{{ site.baseurl }}/assets/books/{{ review.cover }}"
                     class="attachment-large size-large wp-post-image"
                     alt="{{ review.author }} – {{ review.title }}"
@@ -17,12 +17,12 @@
 
                 <span class="meta-sep"></span>
 
-                <a href="{{ site.baseurl }}/{{ review.url }}" class="date-link">
+                <a href="{{ site.baseurl }}{{ review.url }}" class="date-link">
                     <time class="post-date" datetime="{{ review.date }}">{{ review.date | date_to_string: "ordinal", "US" }}</time>
                 </a>
 
                 <h2 class="post-title-alt">
-                    <a href="{{ site.baseurl }}/{{ review.url }}">
+                    <a href="{{ site.baseurl }}{{ review.url }}">
                         {{ review.author }} – {{ review.title }}
                     </a>
                 </h2>

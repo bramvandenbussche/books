@@ -2,7 +2,7 @@
 
     {% for tag in site.tags %}
 
-    <a href="{{ site.baseurl }}/tag/{{ tag }}" class="tag-cloud-link" style="font-size: 8pt;">{{ tag }}</a>
+    <a href="{{ site.baseurl }}/tag/{{ tag[0] | slugify }}" class="tag-cloud-link" style="font-size: 8pt;">{{ tag[0] }} ({{ tag[1].size }})</a>
 
     {% endfor %}
     

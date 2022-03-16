@@ -17,6 +17,6 @@ goodreads_id: 38312874
 tags: ["Science Fiction", "Humor", "Short Story"]
 ---
 
-This short story s surprisingly good as it narrates the events at the Battersea Barricades through the eyes of the heads of Wardrobe and the kitchen and Peterson's assistent. The writing was excellent, as I've come to expect from Jodi Taylor, and the humor was spot on as usual.
+This short story is surprisingly good as it narrates the events at the Battersea Barricades through the eyes of the heads of Wardrobe and the kitchen and Peterson's assistent. The writing was excellent, as I've come to expect from Jodi Taylor, and the humor was spot on as usual.
 
 Great read!

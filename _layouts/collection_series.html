@@ -1,0 +1,52 @@
+---
+layout: main
+---
+
+{% assign author = site.authors | where:"name", page.author | first %}
+
+<article class="the-post post type-post format-standard">
+
+    <header class="post-header the-post-header cf">
+        <div class="post-meta the-post-meta">
+            <span class="post-cat">
+                <a href="{{ site.baseurl }}{{ author.url }}">{{ page.author }}</a>
+            </span>
+            <h1 class="post-title">{{ page.name }}</h1>
+            <a href="https://www.goodreads.com/series/{{ page.goodreads_id }}" target="_blank" class="date-link">
+                <i class="fa-brands fa-goodreads"></i>
+                View on Goodreads
+            </a>
+        </div>
+    </header>
+    <!-- .post-header -->
+
+    <div class="post-content description cf">
+        {{ content }}
+    </div>
+    <!-- .post-content -->
+
+<hr />
+
+{% 
+    assign series = site.posts 
+                    | where_exp:"post", "post.series == page.name"
+                    | sort: "series_order"
+%}
+
+<div class="book-series">
+    <ul>
+        {% for book in series %}
+        <li>
+            <a href="{{ site.baseurl }}{{ book.url }}">
+            <img class=" lazyloaded"
+                src="{{ site.baseurl }}/assets/books/{{ book.cover }}"
+                alt="[{{ book.series_order }}] {{ book.title }} ({{ book.published }})" title="[{{ book.series_order }}] {{ book.title }} ({{ book.published }})"
+                />
+            </a>
+        </li>
+        {% endfor %}
+    </ul>
+    <div class="clearfix"></div>
+</div> 
+
+</article>

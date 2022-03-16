@@ -1,3 +1,7 @@
+{% assign series = site.series | where: "name", page.series | first %}
+
+{% assign author = site.authors | where:"name", page.author | first %}
+
 <li id="bookmetadatawidget" class="widget widget_bookmetadatawidget">
     <h5 class="widget-title">
         <span>
@@ -22,12 +26,28 @@
                 </tr>
                 <tr class="book-meta-autdor">
                     <td>Author</td>
-                    <td>{{ page.author }}</td>
+                    <td>
+                        {% if author %}
+                            <a href="{{ site.baseurl }}{{ author.url }}">
+                                {{ page.author }}
+                            </a>
+                        {% else %}
+                            {{ page.author }}
+                        {% endif %}
+                    </td>
                 </tr>
                 {% if page.series %}
                 <tr class="book-meta-series">
                     <td>Series</td>
-                    <td>{{ page.series }} [{{ page.series_order}}]</td>
+                    <td>
+                        {% if series %}
+                            <a href="{{ site.baseurl }}{{ series.url }}">
+                                {{ page.series }} [{{ page.series_order}}]
+                            </a>
+                        {% else %}
+                            {{ page.series }} [{{ page.series_order}}]
+                        {% endif %}
+                    </td>
                 </tr>
                 {% endif %}
                 <tr class="book-meta-published">

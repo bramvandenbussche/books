@@ -42,6 +42,26 @@ highlighter: rouge
 # Default Markdown Engine
 markdown: kramdown
 
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "series"
+    values:
+      layout: "collection_series"
+  -
+    scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "collection_authors"
+
+collections:
+  series:
+    output: true
+  authors:
+    output: true
+
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
 # The values here represent the defaults if nothing is set
@@ -128,15 +148,17 @@ autopages:
   #     case: false       # Whether to replace all uppercase letters with their lowercase counterparts
 
   # Collection pages, omit to disable
-  # collections:
-  #   layouts: 
-  #     - 'autopage_collection.html'
-  #   title: 'Posts in collection :coll' # :coll is replaced by the collection name
-  #   permalink: '/collection/:coll'
-  #   silent: false
-  #   slugify:
-  #     mode: 'default'   # :coll is slugified.
-  #     case: false 
+  collections:
+    layouts: 
+      - 'autopage_collection.html'
+      # - 'autopage_collection_series.html'
+      # - 'autopage_collection_tags.html'
+    title: 'Posts in collection :coll' # :coll is replaced by the collection name
+    permalink: '/collection/:coll'
+    silent: false
+    slugify:
+      mode: 'default'   # :coll is slugified.
+      case: false 
   
   # Tag pages, omit to disable
   tags:

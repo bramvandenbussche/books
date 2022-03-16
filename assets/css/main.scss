@@ -50,6 +50,10 @@ $theme-gray: #505050;
     text-align: center;
 }
 
+small {
+    font-size: .5em;
+}
+
 .main-pagination {
     margin-top: 10px;
     margin-bottom: 10px;
@@ -114,11 +118,16 @@ footer .widget-about .image-circle {
 }
 
 
-.widget_bookserieswidget ul {
+.book-series ul {
     display: flex;
     flex-flow: row wrap;
     margin-left: -2px; /* Adjustment for the gutter */
     width: 100%;
+}
+
+.book-series li {
+    width: 200px;
+    margin: 0 4px 4px 0;    
 }
 
 .widget_bookserieswidget li {

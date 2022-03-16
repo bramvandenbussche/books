@@ -5,6 +5,24 @@ layout: main
 <h1>Reviews for books collected with <b>{% if page.autopages %}{{page.autopages.display_name}}{% endif %}</b> </h1>
 
 <div class="col-12 main-content">
-    {% include posts-loop-4-col.html %}
+    <div class="posts-dynamic posts-container ts-row grid count-0 masonry">
+        {% include pagination.html %}
+        
+        <div class="posts-wrap cf">
+            {% for item in paginator.posts %}
+            <div class="col-3 cf">
+    
+                <a href="{{ site.baseurl }}{{ item.url }}">
+                    <h5>{{ item.name }}</h5>
+                    <span class="author">{{ item.author }}</span>
+                </a>
+                
+            </div>
+            {% endfor %}
+    
+        </div>
+    
+        {% include pagination.html %}
+    </div>
 </div>
 

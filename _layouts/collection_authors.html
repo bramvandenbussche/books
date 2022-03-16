@@ -1,0 +1,30 @@
+---
+layout: main
+---
+
+<h1>{{ page.name }}</h1>
+
+<blockquote>{{ content }}</blockquote>
+
+<hr />
+
+{% 
+    assign author = site.posts 
+                    | where_exp:"post", "post.author == page.name"
+                    | sort: "name"
+%}
+
+<div class="books-by-author">
+    <ul>
+        {% for book in author %}
+        <li>
+            <a href="{{ site.baseurl }}{{ book.url }}">
+            <img class=" lazyloaded"
+                src="{{ site.baseurl }}/assets/books/{{ book.cover }}"
+                alt="[{{ book.series_order }}] {{ book.title }} ({{ book.published }})" title="[{{ book.series_order }}] {{ book.title }} ({{ book.published }})"
+                />
+            </a>
+        </li>
+        {% endfor %}
+    </ul>
+<div class="clearfix"></div>

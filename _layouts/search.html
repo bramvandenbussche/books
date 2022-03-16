@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        {% include meta.html %}
+
+        {% if site.google_analytics and jekyll.environment == 'production' %}
+            {% include analytics.html %}
+        {% endif %}
+    </head>
+
+    <body class="post-template-default single single-post single-format-standard custom-background right-sidebar lazy-smart skin-fashion">
+
+        <div class="main-wrap" style="transform: none;">
+            {% include header.html %}
+            <!-- .main-head -->
+
+            <div class="archive-head">
+			
+                <span class="sub-title"><span id="result-count">0</span> Results</span>
+                <h2 class="title" id="search-term">flamingo</h2>
+                
+                <i class="background">Search</i>
+            </div>
+
+            <div class="main wrap" style="transform: none;">
+                <div class="ts-row cf">
+                    
+                    {{ content }}
+                    
+                </div>
+            </div>
+            <!-- .main -->
+
+            {% include footer.html %}
+            <!-- .main-footer -->
+        </div>  
+        <!-- .main-wrap -->
+        
+        {% include back-to-top-button.html %}
+    </body>
+
+</html>

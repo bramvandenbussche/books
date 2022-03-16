@@ -1,0 +1,54 @@
+---
+layout: search
+---
+
+
+<div class="col-12 main-content cf">
+		
+    <article id="search-no-results">
+        <div class="post-content">
+            <h1 class="post-title">Nothing Found!</h1>
+            <p>Apologies, but no results were found for the requested archive. Try using the search with a relevant phrase to find the post you are looking for.</p>
+            <form method="get" class="search-form" action="{{ site.baseurl }}/search.html">
+                <label>
+                    <span class="screen-reader-text">Search for:</span>
+                    <input id="search-box" type="search" class="search-field" placeholder="Type and hit enter..." value="flamingo" name="s" title="Search for:">
+                </label>
+                <button type="submit" class="search-submit"><i class="fa fa-search"></i></button>
+            </form>
+        </div><!-- .entry-content -->
+    </article><!-- #post-0 -->
+
+    <div id="search-results-wrapper" class="posts-dynamic posts-container ts-row grid count-0 masonry">
+        
+        <div class="posts-wrap cf">
+
+            <div class="col-3 cf">
+    
+                {% include post-list-item.html %}
+                
+            </div>
+    
+        </div>
+    
+    </div>
+
+</div>
+
+<script>
+window.store = {
+    {% for post in site.posts %}
+    "{{ post.url | slugify }}": {
+        "title": "{{ post.title | xml_escape }}",
+        "author": "{{ post.author | xml_escape }}",
+        "category": "{{ post.category | xml_escape }}",
+        "content": {{ post.content | strip_html | strip_newlines | jsonify }},
+        "url": "{{ post.url | xml_escape }}",
+        "cover": "{{ site.baseurl }}/assets/books/{{ post.cover | xml_escape }}"
+    }
+    {% unless forloop.last %},{% endunless %}
+    {% endfor %}
+};
+</script>
+<script src="{{ site.baseurl }}/assets/js/lunr.js"></script>
+<script src="{{ site.baseurl }}/assets/js/search.js"></script>

@@ -23,7 +23,7 @@ Spell or High Water is the second installment in the Magic 2.0 series by Scott M
 
 ## Conclusion
 
-Spell or High Water picks up a few months after [Off to Be the Wizard]({% post_url reviews/2017-09-07-Scott-Meyer---Off-to-be-the-Wizard %}) ends. I find it hard to critique this. It wasn’t particulary suspenseful, and the humor is still quite cheap, but there is good entertainment value in this series, the science makes sense, for the most part and the charaters are likeable (or not, when they aren’t supposed to be).
+Spell or High Water picks up a few months after [Off to Be the Wizard]({% post_url 2017-09-07-Scott-Meyer---Off-to-be-the-Wizard %}) ends. I find it hard to critique this. It wasn’t particulary suspenseful, and the humor is still quite cheap, but there is good entertainment value in this series, the science makes sense, for the most part and the charaters are likeable (or not, when they aren’t supposed to be).
 
 I did really like the representation of Atlantis and the way everything is organized. The men vs women situation turned on his head was entertaining as well, with the way men defined “mens work” by it being the work that a man has to do in Atlantis (cooking, cleaning, gardening, chores and the likes, basically work that is unfit for a woman).
 

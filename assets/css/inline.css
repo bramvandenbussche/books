@@ -1,5 +1,7 @@
+---
+---
 .main-head > .inner { 
-    background-image: url('/assets/img/LoadOfBooks-Header.jpg'); 
+    background-image: url('{{ site.baseurl }}/assets/img/LoadOfBooks-Header.jpg'); 
     background-position: top center;
     background-repeat: no-repeat; 
     background-position: center center; 

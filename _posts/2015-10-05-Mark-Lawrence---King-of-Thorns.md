@@ -1,7 +1,5 @@
 ---
-layout: review
-
-date: 2015-10-05 11:05:00 +0100
+date: 2015-10-05
 
 title: King of Thorns
 author: Mark Lawrence

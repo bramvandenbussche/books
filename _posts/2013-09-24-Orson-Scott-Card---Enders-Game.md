@@ -1,7 +1,5 @@
 ---
-layout: review
-
-date: 2013-09-24 11:05:00 +0100
+date: 2013-09-24
 
 author: Orson Scott Card
 title: Enders' Game

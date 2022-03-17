@@ -1,7 +1,5 @@
 ---
-layout: review
-
-date: 2016-04-14 10:36:00 +0100
+date: 2016-04-14
 
 title: The Thousand Names
 author: Django Wexler

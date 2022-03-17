@@ -1,7 +1,5 @@
 ---
-layout: review
-
-date: 2014-02-13 11:05:00 +0100
+date: 2014-02-13
 
 author: Joe Abercrombie
 title: Before They Are Hanged
@@ -15,7 +13,7 @@ goodreads_id: 902715
 tags: ["Dark", "Fantasy"]
 ---
 
-Some introduction text
+// TODO: Write review
 
 <!--more-->
 

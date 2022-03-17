@@ -1,7 +1,5 @@
 ---
-layout: review
-
-date: 2015-03-20 23:42:00 +0100
+date: 2015-03-20
 
 title: The Color of Magic
 author: Terry Pratchett

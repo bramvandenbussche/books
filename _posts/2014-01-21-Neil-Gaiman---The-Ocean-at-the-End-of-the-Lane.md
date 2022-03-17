@@ -1,7 +1,5 @@
 ---
-layout: review
-
-date: 2014-01-21 11:05:00 +0100
+date: 2014-01-21
 
 author: Neil Gaiman
 title: The Ocean at the End of the Lane

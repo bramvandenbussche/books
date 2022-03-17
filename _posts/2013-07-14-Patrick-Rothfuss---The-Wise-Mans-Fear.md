@@ -1,7 +1,5 @@
 ---
-layout: review
-
-date: 2013-07-14 14:05:00 +0100
+date: 2013-07-14
 
 title: The Wise Man's Fear
 author: Patrick Rothfuss

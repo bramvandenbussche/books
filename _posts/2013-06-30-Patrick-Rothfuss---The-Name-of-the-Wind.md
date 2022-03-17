@@ -1,7 +1,5 @@
 ---
-layout: review
-
-date: 2013-06-30 11:05:00 +0100
+date: 2013-06-30
 
 title: The Name of the Wind
 author: Patrick Rothfuss

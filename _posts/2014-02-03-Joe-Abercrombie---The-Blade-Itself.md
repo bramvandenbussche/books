@@ -1,7 +1,5 @@
 ---
-layout: review
-
-date: 2014-02-03 11:05:00 +0100
+date: 2014-02-03
 
 author: Joe Abercrombie
 title: The Blade Itself
@@ -16,7 +14,7 @@ goodreads_id: 886955
 tags: ["Dark", "Fantasy"]
 ---
 
-Some introduction text
+// TODO: Write review
 
 <!--more-->
 

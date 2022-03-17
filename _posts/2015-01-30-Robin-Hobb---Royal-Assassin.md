@@ -1,7 +1,5 @@
 ---
-layout: review
-
-date: 2015-01-30 15:14:00 +0100
+date: 2015-01-30
 
 title: Royal Assassin
 author: Robin Hobb

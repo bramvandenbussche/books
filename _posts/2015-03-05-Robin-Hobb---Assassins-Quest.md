@@ -1,7 +1,5 @@
 ---
-layout: review
-
-date: 2015-03-05 11:42:00 +0100
+date: 2015-03-05
 
 title: Assassin’s Quest
 author: Robin Hobb

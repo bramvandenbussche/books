@@ -1,7 +1,5 @@
 ---
-layout: review
-
-date: 2016-06-18 11:05:00 +0100
+date: 2016-06-18
 
 author: 
 title: 
@@ -13,7 +11,7 @@ rating: 5.0
 published: 2000
 goodreads_id: 123
 
-tags: ["Science Fiction", "Humor", "Dark", "Mystery", "Fantasy", "Thriller", "Short Story"]
+tags: ["Science Fiction", "Fantasy", "Thriller", "Short Story", "Humor", "Dark", "Mystery"]
 ---
 
 Some introduction text

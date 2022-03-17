@@ -1,7 +1,5 @@
 ---
-layout: review
-
-date: 2013-07-22 11:05:00 +0100
+date: 2013-07-22
 
 title: The Way of Shadows
 author: Brent Weeks

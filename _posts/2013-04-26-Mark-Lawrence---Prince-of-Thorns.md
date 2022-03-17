@@ -1,7 +1,5 @@
 ---
-layout: review
-
-date: 2013-04-26 11:05:00 +0100
+date: 2013-04-26
 
 title: Prince of Thorns
 author: Mark Lawrence

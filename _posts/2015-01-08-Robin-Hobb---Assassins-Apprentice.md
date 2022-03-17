@@ -1,7 +1,5 @@
 ---
-layout: review
-
-date: 2015-01-08 09:42:00 +0100
+date: 2015-01-08
 
 title: Assassin’s Apprentice
 author: Robin Hobb

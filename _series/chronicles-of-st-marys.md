@@ -1,5 +1,5 @@
 ---
-name: The Chronicles of St. Mary's
+name: Chronicles of St. Mary's
 author: Jodi Taylor
 goodreads_id: 109102
 ---

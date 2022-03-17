@@ -3,9 +3,9 @@ date: 2013-11-10
 
 author: Michael J. Sullivan
 title: Heir of Novron
-series: The Riyria Chronicles
+series: The Riyria Revelations
 series_order: 3
-cover: riyria-chronicles-3-heir-of-novron.jpg
+cover: riyria-revelations-3-heir-of-novron.jpg
 
 rating: 5.0
 published: 2012

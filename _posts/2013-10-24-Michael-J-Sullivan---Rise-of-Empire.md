@@ -3,9 +3,9 @@ date: 2013-10-24
 
 author: Michael J. Sullivan
 title: Rise of Empire
-series: The Riyria Chronicles
+series: The Riyria Revelations
 series_order: 3
-cover: riyria-chronicles-2-rise-of-empires.jpg
+cover: riyria-revelations-2-rise-of-empires.jpg
 
 rating: 5.0
 published: 2010

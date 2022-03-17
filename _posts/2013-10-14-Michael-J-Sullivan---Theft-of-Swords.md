@@ -3,9 +3,9 @@ date: 2013-10-14
 
 author: Michael J. Sullivan
 title: Theft of Swords
-series: The Riyria Chronicles
+series: The Riyria Revelations
 series_order: 1
-cover: riyria-chronicles-1-theft-of-swords.jpg
+cover: riyria-revelations-1-theft-of-swords.jpg
 
 rating: 4.0
 published: 2011

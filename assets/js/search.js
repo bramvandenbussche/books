@@ -34,9 +34,10 @@
                                     
                                             '<div class="meta-title">' +
                                                 '<div class="post-meta post-meta-a">' +
+                                                    '<span class="post-cat">' + item.author + '</span>' +
                                                     '<h2 class="post-title-alt">' +
                                                         '<a href="' + item.url + '">' +
-                                                        item.author + ' – ' + item.title +
+                                                        item.title +
                                                         '</a>' +
                                                     '</h2>' +
                                                 '</div>' +

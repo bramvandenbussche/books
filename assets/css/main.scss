@@ -36,6 +36,39 @@ small {
     font-size: .5em;
 }
 
+a:visited,
+a:active,
+a:link {
+    color: $theme-teal;
+}
+
+a:hover,
+a:focus {
+    color: $theme-gold;
+}
+
+.text-red {
+    color: red;
+}
+
+footer .widget-about .image-circle {
+    width: 50%;
+    margin: 0 auto 25px;
+}
+
+// Overriding menu item padding so we can fit more items
+.navigation .menu > li > a {
+    padding: 0 15px;
+}
+
+.author-box {
+    margin-top: 100px;
+}
+
+
+////////////////////////
+// Pagination
+
 .main-pagination {
     margin-top: 10px;
     margin-bottom: 10px;
@@ -61,14 +94,9 @@ small {
     margin: 0 auto;
 }
 
-.text-red {
-    color: red;
-}
 
-footer .widget-about .image-circle {
-    width: 50%;
-    margin: 0 auto 25px;
-}
+////////////////////////
+// Back to top button
 
 #btnTop {
     display: none; /* Hidden by default */
@@ -90,15 +118,9 @@ footer .widget-about .image-circle {
     color: $theme-gold;
 }
 
-// Overriding menu item padding so we can fit more items
-.navigation .menu > li > a {
-    padding: 0 15px;
-}
 
-.author-box {
-    margin-top: 100px;
-}
-
+////////////////////////
+// Book series
 
 .book-series ul {
     display: flex;
@@ -113,10 +135,14 @@ footer .widget-about .image-circle {
 }
 
 .widget_bookserieswidget li {
-    width: 80px;
-    flex: auto;
+    width: 83px;
+    // flex: auto;
     margin: 0 2px 2px 0; 
 }
+
+
+////////////////////////
+// Books by author
 
 .books-by-author {
     margin-top: 35px;
@@ -147,6 +173,8 @@ footer .widget-about .image-circle {
     margin: 0 8px 8px 0; /* Some gutter */
 }
 
+////////////////////////
+// Spoiler tags
 
 spoiler {
     background: #454545;

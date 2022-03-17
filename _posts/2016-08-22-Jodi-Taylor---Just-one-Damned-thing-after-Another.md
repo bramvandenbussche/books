@@ -1,7 +1,5 @@
 ---
-layout: review
-
-date: 2016-08-22 13:05:00 +0100
+date: 2016-08-22
 
 title: Just One Damned Thing After Another
 author: Jodi Taylor

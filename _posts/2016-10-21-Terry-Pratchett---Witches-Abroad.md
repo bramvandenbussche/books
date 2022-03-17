@@ -1,7 +1,5 @@
 ---
-layout: review
-
-date: 2016-10-21 11:05:00 +0100
+date: 2016-10-21
 
 title: Witches Abroad
 author: Terry Pratchett

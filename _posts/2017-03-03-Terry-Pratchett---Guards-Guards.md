@@ -1,7 +1,5 @@
 ---
-layout: review
-
-date: 2017-03-03 13:56:00 +0100
+date: 2017-03-03
 
 title: Guards! Guards!
 author: Terry Pratchett

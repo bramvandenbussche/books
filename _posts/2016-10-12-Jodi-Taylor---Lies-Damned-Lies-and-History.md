@@ -1,7 +1,5 @@
 ---
-layout: review
-
-date: 2016-10-12 11:05:00 +0100
+date: 2016-10-12
 
 title: Lies, Damned Lies and History
 author: Jodi Taylor

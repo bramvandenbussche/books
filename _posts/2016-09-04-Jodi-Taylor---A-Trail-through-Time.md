@@ -1,7 +1,5 @@
 ---
-layout: review
-
-date: 2016-09-04 08:49:00 +0100
+date: 2016-09-04
 
 title: A Trail Through Time
 author: Jodi Taylor

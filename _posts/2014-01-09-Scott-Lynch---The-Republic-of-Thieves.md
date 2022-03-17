@@ -20,4 +20,4 @@ The Republic of Thieves opens strong, with a good ploy to kick things into gear.
 
 In the middle the story kind of slows down and I even got annoyed with Locke because of his blind stupidity. The end game of their ploy was nice though, and well thought through. The conclusion in the end and the major cliffhanger are both very insightfull and a nice addition as it is annoying. Who ends a trilogy with a cliffhanger like that?
 
-Overall the series was quite enjoyable, but in hindsight I still think that [The Lies of Locke Lamora]({% post_url 2013-12-01-Scott-Lynch---The-Lies-of-Locke-Lamora %}) was the strongest book while [Red Seas Under Red Skies]({% post_url 2013-12-19-Scott-Lynch---Red-Seas-under-Red-Skies %}) and [The Republic of Thieves]() are both on the same level.
+Overall the series was quite enjoyable, but in hindsight I still think that [The Lies of Locke Lamora](2013-12-01-Scott-Lynch---The-Lies-of-Locke-Lamora.md) was the strongest book while [Red Seas Under Red Skies](2013-12-19-Scott-Lynch---Red-Seas-under-Red-Skies.md) and [The Republic of Thieves]() are both on the same level.

@@ -1,7 +1,5 @@
 ---
-layout: review
-
-date: 2018-11-18 11:05:00 +0100
+date: 2018-11-18
 
 title: White Silence
 author: Jodi Taylor

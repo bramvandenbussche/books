@@ -1,7 +1,5 @@
 ---
-layout: review
-
-date: 2017-08-31 15:14:00 +0100
+date: 2017-08-31
 
 title: Dark Matter
 author: Blake Crouch
@@ -17,7 +15,7 @@ goodreads_id: 27833670
 tags: ["Thriller"]
 ---
 
-Although there are some sci-fi elements to the plot, I would classify it foremost as a thriller, which is a rather unknown genre for me, but that said, it was great fun!Some introduction text
+Although there are some sci-fi elements to the plot, I would classify it foremost as a thriller, which is a rather unknown genre for me, but that said, it was great fun!
 
 <!--more-->
 

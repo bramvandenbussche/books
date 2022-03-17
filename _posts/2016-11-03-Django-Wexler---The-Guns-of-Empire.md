@@ -1,7 +1,5 @@
 ---
-layout: review
-
-date: 2016-11-03 17:14:00 +0100
+date: 2016-11-03
 
 title: The Guns of Empire
 author: Django Wexler

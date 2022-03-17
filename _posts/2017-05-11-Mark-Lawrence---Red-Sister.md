@@ -1,7 +1,5 @@
 ---
-layout: review
-
-date: 2017-05-11 11:05:00 +0100
+date: 2017-05-11
 
 author: Mark Lawrence
 title: Red Sister

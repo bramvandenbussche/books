@@ -1,7 +1,5 @@
 ---
-layout: review
-
-date: 2018-07-18 06:32:00 +0100
+date: 2018-07-18
 
 title: An Argumentation of Historians
 author: Jodi Taylor
@@ -17,7 +15,7 @@ goodreads_id: 35659214
 tags: ["Science Fiction", "Humor"]
 ---
 
-After the heartwrench that was And the Rest is History comes An Argumentation of Historians, the long awaited sequel. Luckily we were able to get our intermittent fix with 3 short stories but still my heart yearned for more, and boy does Jodi Taylor deliver!
+After the heartwrench that was And the Rest is History comes An Argumentation of Historians, the long awaited sequel. Luckily we were able to get our intermittent fix with 3 short stories but still my heart yearned for more, and boy does [Jodi Taylor](../_authors/jodi-taylor.md) deliver!
 
 <!--more-->
 
@@ -37,7 +35,7 @@ Well, there’s all the usual suspects, with Max taking up most of the forefront
 
 ## Writing
 
-We get the usual witty Jody Taylor humor with lots of asides filled with absurdities and odd little tidbits of history, which is all very easily digestable and very enjoying to read.
+We get the usual witty [Jodi Taylor](../authors/../_authors/jodi-taylor.md) humor with lots of asides filled with absurdities and odd little tidbits of history, which is all very easily digestable and very enjoying to read.
 
 The narration by Zara Ramm is, also as usual, spot on, with her clear sound, different character voices and cool british accent.
 

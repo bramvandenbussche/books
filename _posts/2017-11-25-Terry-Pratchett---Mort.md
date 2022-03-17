@@ -1,7 +1,5 @@
 ---
-layout: review
-
-date: 2017-11-25 09:10:00 +0100
+date: 2017-11-25
 
 title: Mort
 author: Terry Pratchett

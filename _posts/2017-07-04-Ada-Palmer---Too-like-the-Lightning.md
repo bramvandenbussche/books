@@ -1,7 +1,5 @@
 ---
-layout: review
-
-date: 2017-07-04 10:43:00 +0100
+date: 2017-07-04
 
 title: Too like the Lightning
 author: Ada Palmer

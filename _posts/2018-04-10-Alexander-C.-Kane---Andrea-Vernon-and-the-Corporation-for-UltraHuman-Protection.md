@@ -1,20 +1,18 @@
 ---
-layout: review
-
-date: 2018-06-18 11:05:00 +0100
+date: 2018-06-18
 
 title: Andrea Vernon and the Corporation for UltraHuman Protection
 author: Alexander C. Kane
 cover: andrea-vernon-and-the-corporation-for-ultrahuman-protection.jpg
 
-# series: 
-# series_order: 1
+series: Andrea Vernon
+series_order: 1
 
 rating: 3.5
 published: 2017
 goodreads_id: 36130625
 
-tags: ["Science Fiction", "Humor", "Dark", "Mystery", "Fantasy", "Thriller"]
+tags: ["Science Fiction", "Humor"]
 ---
 
 This was recommended to me by a friend/collegue and I listened to the audiobook on the way to and back from a 3 day trip to a theme park. It’s not exactly what you’d call ‘high literature’, but it was perfect to pass away the boring hours spent on Europe’s highways.

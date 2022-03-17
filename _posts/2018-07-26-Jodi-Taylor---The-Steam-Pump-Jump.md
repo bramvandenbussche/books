@@ -1,7 +1,5 @@
 ---
-layout: review
-
-date: 2018-07-26 23:05:00 +0100
+date: 2018-07-26
 
 title: The Steam Pump Jump
 author: Jodi Taylor

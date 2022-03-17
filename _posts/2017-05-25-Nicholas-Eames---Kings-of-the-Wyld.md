@@ -1,7 +1,5 @@
 ---
-layout: review
-
-date: 2017-05-25 10:32:00 +0100
+date: 2017-05-25
 
 title: Kings of the Wyld
 author: Nicholas Eames

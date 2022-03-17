@@ -14,7 +14,7 @@ goodreads_id: 22852698
 tags: ["Fantasy"]
 ---
 
-Something **must** be wrong with me.. This book comes so highly recommended, has so many praising reviews and a great score, and yet, I didn't like it. To be honest, I didn't like [Prince of Thorns]({% post_url 2013-04-26-Mark-Lawrence---Prince-of-Thorns %}) either, so maybe it's related.
+Something **must** be wrong with me.. This book comes so highly recommended, has so many praising reviews and a great score, and yet, I didn't like it. To be honest, I didn't like [Prince of Thorns](2013-04-26-Mark-Lawrence---Prince-of-Thorns.md) either, so maybe it's related.
 
 <!--more-->
 
@@ -26,7 +26,7 @@ Something **must** be wrong with me.. This book comes so highly recommended, has
 
 ## The Bad
 
-- The **main protagonist** is, just like [Prince of Thorns]({% post_url 2013-04-26-Mark-Lawrence---Prince-of-Thorns %}), a typical anti-hero, with not many redeeming qualities. Jalan isn't a sadist, like Jog is, but he's a pathological coward, scared of his own shadow, and this character trait is combined with a juvenile lust for life (which basically translates to "bang anything that moves" and "get drunk as often as you can"). This put me off so badly from page one and it never got better. It might have helped if these character traits would have become less obvious as the story continued, but no, it goes on to the very last page.
+- The **main protagonist** is, just like [Prince of Thorns](2013-04-26-Mark-Lawrence---Prince-of-Thorns.md), a typical anti-hero, with not many redeeming qualities. Jalan isn't a sadist, like Jog is, but he's a pathological coward, scared of his own shadow, and this character trait is combined with a juvenile lust for life (which basically translates to "bang anything that moves" and "get drunk as often as you can"). This put me off so badly from page one and it never got better. It might have helped if these character traits would have become less obvious as the story continued, but no, it goes on to the very last page.
 - The **story** didn't really interest me and it never had me into it, I don't really know why, maybe because the previous flaw had me constantly sighing?
 - The **world building** is confusing to me, it seems to be some alternate medieval history that takes place in Europe and references christianity and norse mythology quite often, but never goes into much detail about it.
 

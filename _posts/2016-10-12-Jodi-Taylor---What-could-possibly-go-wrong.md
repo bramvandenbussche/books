@@ -1,7 +1,5 @@
 ---
-layout: review
-
-date: 2016-10-12 16:42:00 +0100
+date: 2016-10-12
 
 title: What Could Possibly Go Wrong?
 author: Jodi Taylor
@@ -18,4 +16,5 @@ tags: ["Science Fiction", "Humor"]
 ---
 
 The title of this book is so representative for the entire series. I lost count of how many times this book made me laugh out loud.
+
 The cast feels so familiar by now that reading it feels like coming home.

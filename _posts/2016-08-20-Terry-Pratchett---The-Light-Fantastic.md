@@ -1,7 +1,5 @@
 ---
-layout: review
-
-date: 2016-08-20 11:05:00 +0100
+date: 2016-08-20
 
 title: The Light Fantastic
 author: Terry Pratchett

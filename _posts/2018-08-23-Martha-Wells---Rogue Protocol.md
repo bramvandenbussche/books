@@ -1,13 +1,11 @@
 ---
-layout: review
-
-date: 2018-08-23 9:00:00 +0100
+date: 2018-08-23
 
 title: Rogue Protocol
 author: Martha Wells
 cover: murderbot-4-rogue-protocol.jpg
 
-series: Murderbot Diaries
+series: The Murderbot Diaries
 series_order: 3
 
 rating: 5.0
@@ -31,7 +29,7 @@ I finally figured out what has been bothering me about the previous 2 books and 
 
 ## Writing
 
-I’m really enjoying Martha Wells’ writing style here. Not too many frills, but always with a witty edge to it.
+I’m really enjoying [Martha Wells](../_authors/martha-wells.md)’ writing style here. Not too many frills, but always with a witty edge to it.
 
 ## Conclusion
 

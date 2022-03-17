@@ -1,7 +1,5 @@
 ---
-layout: review
-
-date: 2016-10-14 17:21:00 +0100
+date: 2016-10-14
 
 title: Wyrd Sisters
 author: Terry Pratchett

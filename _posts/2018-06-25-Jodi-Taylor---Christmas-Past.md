@@ -1,7 +1,5 @@
 ---
-layout: review
-
-date: 2018-06-25 14:51:00 +0100
+date: 2018-06-25
 
 title: Christmas Past
 author: Jodi Taylor

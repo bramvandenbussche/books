@@ -184,7 +184,8 @@ spoiler {
 }
 spoiler:hover {
     background: transparent;
-    color: inherit;
+    color: $theme-teal;
+    border-bottom: 1px dotted $theme-gold;
     transition: background 0.3s ease 0.2s, color 0.2s ease 0.25s;
 }
 

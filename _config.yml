@@ -18,6 +18,7 @@ google_analytics: UA-5000335-12
 # Build settings
 date_format: "%b %-d, %Y"
 excerpt_separator: <!--more-->
+star-rating-icon: fa-solid fa-star
 
 # Compress
 compress_html:

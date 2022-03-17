@@ -47,6 +47,19 @@ a:focus {
     color: $theme-gold;
 }
 
+.post-content a:visited,
+.post-content a:active,
+.post-content a:link {
+    color: $theme-teal;
+    border-bottom: 1px dotted $theme-gold;
+}
+
+.post-content a:hover,
+.post-content a:focus {
+    color: $theme-gold;
+    border-bottom: none;
+}
+
 .text-red {
     color: red;
 }

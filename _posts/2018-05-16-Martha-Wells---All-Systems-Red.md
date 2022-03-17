@@ -1,13 +1,11 @@
 ---
-layout: review
-
-date: 2018-05-16 11:05:00 +0100
+date: 2018-05-16
 
 title: All Systems Red
 author: Martha Wells
 cover: murderbot-1-all-systems-red.jpg
 
-series: Murderbot Diaries
+series: The Murderbot Diaries
 series_order: 1
 
 rating: 5.0

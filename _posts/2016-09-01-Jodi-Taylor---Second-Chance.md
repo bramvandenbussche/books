@@ -1,7 +1,5 @@
 ---
-layout: review
-
-date: 2016-09-01 08:49:00 +0100
+date: 2016-09-01
 
 title: A Second Chance
 author: Jodi Taylor

@@ -1,7 +1,5 @@
 ---
-layout: review
-
-date: 2017-06-02 11:05:00 +0100
+date: 2017-06-02
 
 title: Road Brothers
 author: Mark Lawrence

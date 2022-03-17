@@ -1,13 +1,11 @@
 ---
-layout: review
-
-date: 2018-10-15 09:30:00 +0100
+date: 2018-10-15
 
 title: Exit Strategy
 author: Martha Wells
 cover: murderbot-4-exit-strategy.jpg
 
-series: Murderbot Diaries
+series: The Murderbot Diaries
 series_order: 4
 
 rating: 5.0

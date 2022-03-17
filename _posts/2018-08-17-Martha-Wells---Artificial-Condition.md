@@ -1,9 +1,7 @@
 ---
-layout: review
+date: 2018-08-17
 
-date: 2018-08-17 10:24:31 +0100
-
-title: Artificial Condition
+title: The Murderbot Diaries
 author: Martha Wells
 cover: murderbot-2-artificial-condition.jpg
 
@@ -17,7 +15,7 @@ goodreads_id: 36223860
 tags: ["Science Fiction", "Humor", "Short Story"]
 ---
 
-In this follow-up to [All Systems Red]({% post_url 2018-05-16-Martha-Wells---All-Systems-Red%}) we continue our journey with the nameless rogue Murderbot as it returns to where it all began, in search of answers to its (literal) character-defining moment.
+In this follow-up to [All Systems Red](2018-05-16-Martha-Wells---All-Systems-Red.md) we continue our journey with the nameless rogue Murderbot as it returns to where it all began, in search of answers to its (literal) character-defining moment.
 
 <!--more-->
 
@@ -37,6 +35,6 @@ Apart from the wicked cool protagonist, we are treated to an out-of-proportion s
 
 Both are equally lovable though.
 
-The story follows our murderbot as it travels to the scene of the “incident” in order to find out what exactly happened, meanwhile there’s his cover story that plays out in interesting ways and challenges certain views and habits he has developed over the course of his lifetime. There’s less action going around as opposed to [All Systems Red]({% post_url 2018-05-16-Martha-Wells---All-Systems-Red%}), but it in no way felt any less for it.
+The story follows our murderbot as it travels to the scene of the “incident” in order to find out what exactly happened, meanwhile there’s his cover story that plays out in interesting ways and challenges certain views and habits he has developed over the course of his lifetime. There’s less action going around as opposed to [All Systems Red](2018-05-16-Martha-Wells---All-Systems-Red.md), but it in no way felt any less for it.
 
 I really loved this second installment and can’t wait to get me some more murderbot!

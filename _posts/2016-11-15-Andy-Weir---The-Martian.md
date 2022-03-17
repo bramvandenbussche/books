@@ -1,7 +1,5 @@
 ---
-layout: review
-
-date: 2016-11-15 07:54:00 +0100
+date: 2016-11-15
 
 title: The Martian
 author: Andy Weir

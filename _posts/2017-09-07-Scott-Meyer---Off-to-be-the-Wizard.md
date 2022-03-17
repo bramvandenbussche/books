@@ -1,7 +1,5 @@
 ---
-layout: review
-
-date: 2017-09-07 10:12:00 +0100
+date: 2017-09-07
 
 title: Off to be the Wizard
 author: Scott Meyer

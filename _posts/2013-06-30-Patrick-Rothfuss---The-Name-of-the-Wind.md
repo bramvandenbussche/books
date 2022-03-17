@@ -31,7 +31,7 @@ Epic fantasy, well that one is a bit more tricky. It’s not an epic battle of g
 
 ## Pacing & writing
 
-As with most fantasy novels, it takes you a while to get involved in the story, and this was no exception. However, seeing as how I read this immediately after [A Memory of Light],() I was amazed at how fast the story actually drew me in. The first 100 pages were a bit of a slur while I waited for something to actually happen, but in honesty, basics must be set before any good story can take off.
+As with most fantasy novels, it takes you a while to get involved in the story, and this was no exception. However, seeing as how I read this immediately after [A Memory of Light](2013-06-19-Brandon-Sanderson---A-Memory-of-Light.md), I was amazed at how fast the story actually drew me in. The first 100 pages were a bit of a slur while I waited for something to actually happen, but in honesty, basics must be set before any good story can take off.
 
 After that initial set-up, the story gallops on at a steady, pleasant page, and it’s hard to turn it down. The writing style is very likeable, lighthearted and full of wit. This creates some great moments that made me chuckle out loud.
 

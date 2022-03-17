@@ -1,7 +1,5 @@
 ---
-layout: review
-
-date: 2018-03-22 16:42:00 +0100
+date: 2018-03-22
 
 title: Scrappy Little Nobody
 author: Anna Kendrick

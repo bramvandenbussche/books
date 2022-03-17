@@ -1,7 +1,5 @@
 ---
-layout: review
-
-date: 2016-09-13 17:05:00 +0100
+date: 2016-09-13
 
 title: Roman Holiday
 author: Jodi Taylor

@@ -1,7 +1,5 @@
 ---
-layout: review
-
-date: 2017-12-19 10:56:00 +0100
+date: 2017-12-19
 
 title: Men at Arms
 author: Terry Pratchett
@@ -17,13 +15,13 @@ goodreads_id: 400354
 tags: ["Humor", "Fantasy"]
 ---
 
-Reading Men at Arms and reconnecting with Cpl. Carrot, Cpt. Vimes and the guys felt like coming home. I thoroughly enjoyed  [Guards Guards!]() and coming back to the Night Watch was an awesome experience, like slipping back into a comfortable pair of slacks.
+Reading [Men at Arms]() and reconnecting with Cpl. Carrot, Cpt. Vimes and the guys felt like coming home. I thoroughly enjoyed  [Guards Guards!](2017-03-03-Terry-Pratchett---Guards-Guards.md) and coming back to the Night Watch was an awesome experience, like slipping back into a comfortable pair of slacks.
 
 <!--more-->
 
 ## Story
 
-The main storyline is a murder mystery, wrapped into the regular Discworld crazyness. This time the not-so-subtle undercurrent is a social critique on ethnic diversity, and as usual, it’s handled with aplomb and buckets of absurdities.
+The main storyline is a murder mystery, wrapped into the regular [Discworld](../_series/discworld.md) crazyness. This time the not-so-subtle undercurrent is a social critique on ethnic diversity, and as usual, it’s handled with aplomb and buckets of absurdities.
 
 ## World-building
 
@@ -35,7 +33,7 @@ Apart from the warm welcome with the returning Nightwatch cast, we meet some new
 
 ## Writing
 
-Well, it’s a Pratchett novel… As usual I have a whole list of passages that I’ve highlighted, so here’s some of my favorites:
+Well, it’s a [Pratchett](../_authors/terry-pratchett.md) novel… As usual I have a whole list of passages that I’ve highlighted, so here’s some of my favorites:
 
 > “We’re Watchmen,” said Cuddy. “Our job is to keep the peace.”
 “Good,” said Stronginthearm. “Go and keep it safe somewhere until we need it.”

@@ -1,7 +1,5 @@
 ---
-layout: review
-
-date: 2017-09-20 13:11:00 +0100
+date: 2017-09-20
 
 title: Beyond Redemption
 author: Michael Fletcher
@@ -17,7 +15,7 @@ goodreads_id: 23287202
 tags: ["Dark", "Fantasy"]
 ---
 
-Wow. Just… Wow. This book is a gem in the genre. Michael R. Fletcher, you just got yourself a new fan.
+Wow. Just… Wow. This book is a gem in the genre. [Michael R. Fletcher](), you just got yourself a new fan.
 
 <!--more-->
 

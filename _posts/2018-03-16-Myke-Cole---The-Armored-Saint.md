@@ -1,7 +1,5 @@
 ---
-layout: review
-
-date: 2018-03-16 11:05:00 +0100
+date: 2018-03-16
 
 title: The Armored Saint
 author: Myke Cole
@@ -29,7 +27,7 @@ All in all the story is quite simple and doesn’t really need me to write much 
 
 ## Characters
 
-The Armored Saint has a relatively small cast, with Heloise as our main protagonist. The story is written entirely from her point of view, a thing that isn’t always best and in this case it actually bothered me quite a lot. If I had known that this was a YA novel before I started, I probably never would have picked it up. As I didn’t know, I did, and I am now reminded why I don’t read YA.
+[The Armored Saint]() has a relatively small cast, with Heloise as our main protagonist. The story is written entirely from her point of view, a thing that isn’t always best and in this case it actually bothered me quite a lot. If I had known that this was a YA novel before I started, I probably never would have picked it up. As I didn’t know, I did, and I am now reminded why I don’t read YA.
 
 Heloise is a 16 year old woman (a woman **grown** even, the book goes to great lenghts to remind us of this fact multiple times using that exact same wording EVERY. DAMN. TIME.) who I would have pegged as an 11 year old girl after meeting her (and not knowing her age). The way she thinks and acts does not match her age. A fact that is demonstrated from the get-go as in the opening scene we see her do one stupid thing after another, showing a staggering lack of self-control or any common sense. It got me sighing and eye-rolling almost instantly.
 

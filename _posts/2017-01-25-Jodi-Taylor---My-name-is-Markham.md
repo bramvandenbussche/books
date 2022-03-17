@@ -1,7 +1,5 @@
 ---
-layout: review
-
-date: 2017-01-25 11:05:00 +0100
+date: 2017-01-25
 
 title: My Name is Markham
 author: Jodi Taylor

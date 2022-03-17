@@ -1,7 +1,5 @@
 ---
-layout: review
-
-date: 2018-06-21 09:30:00 +0100
+date: 2018-06-21
 
 title: Differently Morpheus
 author: Yahtzee Croshaw

@@ -1,7 +1,5 @@
 ---
-layout: review
-
-date: 2018-12-04 11:05:00 +0100
+date: 2018-12-04
 
 title: Dark Light
 author: Jodi Taylor

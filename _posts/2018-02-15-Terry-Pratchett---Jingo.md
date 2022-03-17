@@ -1,7 +1,5 @@
 ---
-layout: review
-
-date: 2018-02-15 09:11:00 +0100
+date: 2018-02-15
 
 title: Jingo
 author: Terry Pratchett
@@ -21,9 +19,9 @@ The sudden appearance of the lost island of Lesh triggers diplomatic tensions be
 
 <!--more-->
 
-In Jingo, Pratchett takes full advantage of the story to aim his arrows on warfare and the bullshit reasons wars are started in the first place, all set against another mystery for the Guards to solve.
+In [Jingo](), [Pratchett](../_authors/terry-pratchett.md) takes full advantage of the story to aim his arrows on warfare and the bullshit reasons wars are started in the first place, all set against another mystery for the Guards to solve.
 
-Sadly Angua takes a bit of a backseat thoughout this one, but Pratchett makes up for it by having Cpl. Nobs and Sgt. Colon take on a secret mission for the Patrician. Luckily we can still count on the usual suspects to keep us entertained, like Detritus and the ever-stoic Cmdr Vimes:
+Sadly Angua takes a bit of a backseat thoughout this one, but [Pratchett](../_authors/terry-pratchett.md) makes up for it by having Cpl. Nobs and Sgt. Colon take on a secret mission for the Patrician. Luckily we can still count on the usual suspects to keep us entertained, like Detritus and the ever-stoic Cmdr Vimes:
 
 > “Aagragaah,” said Detritus, mournfully. “Don’t mind me, just don’t spit it on my boot,” said Vimes. “It mean—” Detritus waved a huge hand, “like…dem things, what only comes in…” he paused and looked at his fingers, while his lips moved “…fours. Aagragaah. It mean lit’rally der time when you see dem little pebbles and you jus’ know dere’s gonna be a great big landslide on toppa you and it already too late to run. Dat moment, dat’s aagragaah.”
 >

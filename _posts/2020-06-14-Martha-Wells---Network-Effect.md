@@ -1,13 +1,11 @@
 ---
-layout: review
-
-date: 2020-06-14 11:05:00 +0100
+date: 2020-06-14
 
 title: Network Effect
 author: Martha Wells
 cover: murderbot-5-network-effect.jpg
 
-series: Murderbot
+series: The Murderbot Diaries
 series_order: 5
 
 rating: 4.5

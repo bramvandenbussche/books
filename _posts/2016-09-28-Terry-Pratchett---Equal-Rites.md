@@ -1,7 +1,5 @@
 ---
-layout: review
-
-date: 2016-09-28 11:05:00 +0100
+date: 2016-09-28
 
 title: Equal Rites
 author: Terry Pratchett

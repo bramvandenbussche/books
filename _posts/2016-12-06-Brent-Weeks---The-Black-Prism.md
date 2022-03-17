@@ -1,7 +1,5 @@
 ---
-layout: review
-
-date: 2016-12-06 11:05:00 +0100
+date: 2016-12-06
 
 title: The Black Prism
 author: Brent Weeks

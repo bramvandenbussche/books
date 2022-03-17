@@ -1,7 +1,5 @@
 ---
-layout: review
-
-date: 2017-07-30 13:47:00 +0100
+date: 2017-07-30
 
 title: The Waking Fire
 author: Anthony Ryan
@@ -41,7 +39,7 @@ This would be my other gripe. The writing isn’t bad, but it’s not exceptiona
 
 ## Conclusion
 
-Overall, I really liked this. It’s an epic steampunk fantasy, with plenty of action, interesting characters, and a nice overarching plot. I’m looking forward to [The Legion of Flame]({% post_url 2017-08-08-Anthony-Ryan---The-Legion-of-Flame %}).
+Overall, I really liked this. It’s an epic steampunk fantasy, with plenty of action, interesting characters, and a nice overarching plot. I’m looking forward to [The Legion of Flame](2017-08-08-Anthony-Ryan---The-Legion-of-Flame.md).
 
 This is a 4.5 stars for me.
 

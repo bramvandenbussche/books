@@ -1,7 +1,5 @@
 ---
-layout: review
-
-date: 2018-05-15 11:05:00 +0100
+date: 2018-05-15
 
 title: The Infernal Battalion
 author: Django Wexler
@@ -17,13 +15,13 @@ goodreads_id: 25845205
 tags: ["Fantasy", "Military"]
 ---
 
-Infernal Battalion concludes the excellent 5-part flintlock series, The Shadow Campaigns. But is it the epic conclusion we have been waiting for ? It sure tries...
+[Infernal Battalion]() concludes the excellent 5-part flintlock series, [The Shadow Campaigns](../_series/shadow-campaigns.md). But is it the epic conclusion we have been waiting for ? It sure tries...
 
 <!--more-->
 
 ## Story
 
-It's hard to talk about the story without getting into spoilers, but as [The Guns of Empire]({% post_url 2016-11-03-Django-Wexler---The-Guns-of-Empire %}) ended with a major cliffhanger, I can say that it picks up a short while after that, with most of the dust settled. Not exactly the point I wanted it to pick up but then that rarely happens. Author's freedom and everything.
+It's hard to talk about the story without getting into spoilers, but as [The Guns of Empire](2016-11-03-Django-Wexler---The-Guns-of-Empire.md) ended with a major cliffhanger, I can say that it picks up a short while after that, with most of the dust settled. Not exactly the point I wanted it to pick up but then that rarely happens. Author's freedom and everything.
 
 The rest of the story is pretty uneventful with some (not many) battles and a lot of political intrigue. As a whole I felt it fell a bit flat. There's 3 major plot lines going on, that eventually, inevitably meet up at the end.
 
@@ -45,4 +43,4 @@ Solid as ever in this series.
 
 ## Conclusion
 
-I don't really know why this didn't click with me as I'd hoped, but since it took me the better part of a month to write this review, it's clear to say that it wasn't a wholehearted success for me. There's many good ingredients here to make a good book, but I was hoping for a more spectacular, compelling ending to an otherwise excellent series. I did enjoy reading this, but missed some of the elation I felt in, for instance, [The Guns of Empire]({% post_url 2016-11-03-Django-Wexler---The-Guns-of-Empire %}) or [The Price of Valor]({% post_url 2016-06-10-Django-Wexler---The-Price-of-Valour %}). 3 stars.
+I don't really know why this didn't click with me as I'd hoped, but since it took me the better part of a month to write this review, it's clear to say that it wasn't a wholehearted success for me. There's many good ingredients here to make a good book, but I was hoping for a more spectacular, compelling ending to an otherwise excellent series. I did enjoy reading this, but missed some of the elation I felt in, for instance, [The Guns of Empire](2016-11-03-Django-Wexler---The-Guns-of-Empire.md) or [The Price of Valor](2016-06-10-Django-Wexler---The-Price-of-Valour.md). 3 stars.

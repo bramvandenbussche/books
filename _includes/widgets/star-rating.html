@@ -1,0 +1,19 @@
+{% assign iconClass = site.star-rating-icon | default: "fa fa-star" %}
+
+<div class="star-rating" title="{{ include.rating | default: 0 }} stars">
+    <div class="back-stars">
+        <i class="{{ iconClass }}" aria-hidden="true"></i>
+        <i class="{{ iconClass }}" aria-hidden="true"></i>
+        <i class="{{ iconClass }}" aria-hidden="true"></i>
+        <i class="{{ iconClass }}" aria-hidden="true"></i>
+        <i class="{{ iconClass }}" aria-hidden="true"></i>
+        
+        <div class="front-stars" style="width: {{ include.rating | times: 20 | default: 0 }}%">
+            <i class="{{ iconClass }}" aria-hidden="true"></i>
+            <i class="{{ iconClass }}" aria-hidden="true"></i>
+            <i class="{{ iconClass }}" aria-hidden="true"></i>
+            <i class="{{ iconClass }}" aria-hidden="true"></i>
+            <i class="{{ iconClass }}" aria-hidden="true"></i>
+        </div>
+    </div>
+</div>  

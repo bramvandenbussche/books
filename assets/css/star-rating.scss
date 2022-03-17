@@ -1,0 +1,31 @@
+---
+---
+
+/*---------- star rating ----------*/
+
+.star-rating {
+    display: flex;
+    align-items: center;
+    font-size: 2em;
+    justify-content: center;
+    margin: 10px auto 20px;
+    line-height: 2em;
+}
+.back-stars {
+    display: flex;
+    color: #a8a8a8;
+    position: relative;
+    text-shadow: 2px 2px 2px rgb(94, 94, 94);
+    padding: 2px;
+}
+.front-stars {
+    display: flex;
+    color: #f1bc29;
+    overflow-x: hidden;
+    position: absolute;
+    top: 0;
+    left: 0;
+    text-shadow: 2px 2px 2px #b4870a;
+    padding: 2px;
+    transition: all .5s
+}

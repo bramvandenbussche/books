@@ -8,6 +8,7 @@
 @import url('{{ site.baseurl }}/assets/css/cheerup.css');
 @import url('{{ site.baseurl }}/assets/css/skin-fashion.css');
 @import url('{{ site.baseurl }}/assets/css/inline.css');
+@import url('{{ site.baseurl }}/assets/css/star-rating.css');
 
 
 $theme-teal: #0c6572;
@@ -25,25 +26,6 @@ $theme-gray: #505050;
     background-size: auto;
     background-repeat: repeat;
     background-attachment: scroll;
-}
-
-.star-ratings-sprite {
-    background: url('{{ site.baseurl }}/assets/img/star-rating-sprite.png') repeat-x;
-    font-size: 0;
-    height: 21px;
-    line-height: 0;
-    overflow: hidden;
-    text-indent: -999em;
-    width: 110px;
-    margin: 10px auto;
-}
-
-.star-ratings-sprite-rating {
-    background: url('{{ site.baseurl }}/assets/img/star-rating-sprite.png') repeat-x;
-    background-position: 0 100%;
-    float: left;
-    height: 21px;
-    display: block;
 }
 
 .gr_grid_book_container {

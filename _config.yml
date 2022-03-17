@@ -24,7 +24,7 @@ star-rating-icon: fa-solid fa-star
 compress_html:
   clippings: all
 
-# Exclude
+# Exclude files from build
 exclude:
   - .sass-cache/
   - .jekyll-cache/
@@ -39,13 +39,21 @@ exclude:
 
 plugins: 
   - jekyll-paginate-v2
+  - jekyll-relative-links
 
 highlighter: rouge
 
 # Default Markdown Engine
 markdown: kramdown
 
+# Sitewide default settings
 defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "review"
   -
     scope:
       path: "" # an empty string here means all files in the project
@@ -59,11 +67,18 @@ defaults:
     values:
       layout: "collection_authors"
 
+# Define custom collections
 collections:
   series:
     output: true
   authors:
     output: true
+
+# Relative links configuration
+# See: https://github.com/benbalter/jekyll-relative-links
+relative_links:
+  enabled:     true
+  collections: true
 
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem

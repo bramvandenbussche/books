@@ -1,7 +1,23 @@
+---
+---
+
 (function() {
 
+    var dataUri = "{{ site.baseurl }}/search-index.json";
     var lunrIdx = null;
 
+    function readTextFile(file, callback) {
+        var rawFile = new XMLHttpRequest();
+        rawFile.overrideMimeType("application/json");
+        rawFile.open("GET", file, true);
+        rawFile.onreadystatechange = function() {
+            if (rawFile.readyState === 4 && rawFile.status == "200") {
+                callback(rawFile.responseText);
+            }
+        }
+        rawFile.send(null);
+    }
+    
     function displaySearchResults(results, store) {
         var noResultsDiv = document.getElementById('search-no-results');
         var searchResultsWrapper = document.getElementById('search-results-wrapper');
@@ -70,10 +86,8 @@
         }
     }
 
-    function initialiseIndex() {        
+    function buildIndex() {        
         console.info("building full text index");
-
-        // TODO: get index data from json file on server
 
         // Initalize lunr with the fields it will be searching on. I've given title
         // a boost of 10 to indicate matches on this field are more important.
@@ -97,19 +111,26 @@
             }
         });        
     }
-    
-    initialiseIndex();
-  
-    var searchTerm = getQueryVariable('query');
-  
-    if (searchTerm) {
-        document.getElementById('search-box').setAttribute("value", searchTerm);
-        document.getElementById('search-term').innerHTML = searchTerm;
 
-        var results = lunrIdx.search(searchTerm); // Get lunr to perform a search
-        displaySearchResults(results, window.store);
+    function doSearch() {
+        var searchTerm = getQueryVariable('query');
+  
+        if (searchTerm) {
+            document.getElementById('search-box').setAttribute("value", searchTerm);
+            document.getElementById('search-term').innerHTML = searchTerm;
+
+            var results = lunrIdx.search(searchTerm); // Get lunr to perform a search
+            displaySearchResults(results, window.store);
+        }
     }
+    
+    // Initialise loading data, build index and perform search
+    readTextFile(dataUri, function(text){
+        window.store = JSON.parse(text);
+        buildIndex();
 
+        doSearch();
+    });
     
   })();
   

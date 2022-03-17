@@ -1,7 +1,5 @@
 ---
-layout: review
-
-date: 2016-07-13 09:37:00 +0100
+date: 2016-07-13
 
 title: The Shadow Throne
 author: Django Wexler

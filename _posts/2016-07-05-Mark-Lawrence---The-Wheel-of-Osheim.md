@@ -1,7 +1,5 @@
 ---
-layout: review
-
-date: 2015-07-01 11:05:00 +0100
+date: 2015-07-01
 
 author: Mark Lawrence
 title: The Wheel of Osheim
@@ -16,14 +14,14 @@ goodreads_id: 27154427
 tags: ["Fantasy"]
 ---
 
-**Warning!** The following review is broader than just The Wheel of Osheim as it talks of my journey (love-hate relationship) with Mark Lawrence throughout the years.
+This review is broader than just [The Wheel of Osheim]() as it talks of my journey (love-hate relationship) with [Mark Lawrence]({{ site.baseurl }}/author/mark-lawrence.html) throughout the years.
 
 <!--more-->
 
-I seem to have a weird relationship with Mark Lawrence's books. It started with reading [Prince of Thorns] in the The Broken Empire Series in april 2013. Because it came so heavily recommended on [Goodreads](https://www.goodreads.com/book/show/9579634) and received loads of praise, I decided to give a go. I immediately took a disliking to the main character (for not having any good qualities) and didn't seem to find the storyline anywhere, despite some very solid writing and narrative style. I read the thing and then put it aside, vowing to never pick it up again. It was the first ever dark fantasy book I ever read.
+I seem to have a weird relationship with Mark Lawrence's books. It started with reading [Prince of Thorns] in the [The Broken Empire Series]({{ site.baseurl}}/series/red-queens-war.html) in april 2013. Because it came so heavily recommended on [Goodreads](https://www.goodreads.com/book/show/9579634) and received loads of praise, I decided to give a go. I immediately took a disliking to the main character (for not having any redeeming qualities) and didn't seem to find the storyline anywhere, despite some very solid writing and narrative style. I read the thing and then put it aside, vowing to never pick it up again. It was the first ever "dark" fantasy book I ever read.
 
 Fast forward a year and a half to september 2014 and behold, another series from Mark Lawrence, with a completely different main character and again receiving tons of praise, emerged.
-After [Prince of Fools]() kept popping up in my newsfeed so much it became too hard to ignore, I decided to try again, since I did like Mark Lawrence's style. But alas, it wasn't to be. I immediately took a strong disliking to Jalan and had a hard time figuring out what the hell the story was actually about. It got rewarded with 2 stars and a vow to never pick up the sequels.
+After [Prince of Fools]({% post_url 2014-09-25-Mark-Lawrence---Prince-of-Fools %}) kept popping up in my newsfeed so much it became too hard to ignore, I decided to try again, since I did like Mark Lawrence's style. But alas, it wasn't to be. I immediately took a strong disliking to Jalan and had a hard time figuring out what the hell the story was actually about. It got rewarded with 2 stars and a vow to never pick up the sequels.
 
 But a strange thing happened. I had read some other books from the dark fantasy genre in between (the likes of Joe Abercrombie) and had gathered a bit of a taste for it. When [The Liar's Key]() came out (and was featured all over the place) I found that, although I did NOT like Jalan one bit, I did still have vivid memories of him, and Snorri. I don't usually recall characters after a few months unless they were actually worth remembering. So I decided to give [The Liar's Key]() a chance. I still disliked Jalan throughout most of the story but the solid writing, and the ever fun Snorri ver Snuggerson, kept me going and by the end I found he had started to grow on me. For that I rewarded it with 4 stars.
 

@@ -1,7 +1,5 @@
 ---
-layout: review
-
-date: 2016-06-10 11:54:00 +0100
+date: 2016-06-10
 
 title: The Price of Valour
 author: Django Wexler
@@ -21,4 +19,4 @@ Non stop thrilling ride from start to finish. Great, loveable characters and det
 
 <!--more-->
 
-I couldn’t put it down and raced on to the finish, only to get caught in an emotional rollercoaster at the end. Damn you Wexler for putting me through that. I’m not sure how I’m going to survive ’till august for the final installment.
+I couldn’t put it down and raced on to the finish, only to get caught in an emotional rollercoaster at the end. Damn you Wexler for putting me through that. I’m not sure how I’m going to survive ’till august for [the final installment]({% post_url 2016-11-03-Django-Wexler---The-Guns-of-Empire %}).

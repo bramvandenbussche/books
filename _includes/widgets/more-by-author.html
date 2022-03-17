@@ -3,7 +3,7 @@
                     | where_exp:"post", "post.author == page.author"
                     | sort: "published"
 %}
-<div id="books-by-author">
+<div class="books-by-author">
     <h1>More by {{ page.author }}</h1>
     <ul>
         {% for book in author_books %}

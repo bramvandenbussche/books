@@ -84,11 +84,11 @@ footer .widget-about .image-circle {
     padding: 15px; /* Some padding */
     border-radius: 10px; /* Rounded corners */
     font-size: 18px; /* Increase font size */
-  }
+}
   
-  #btnTop:hover {
+#btnTop:hover {
     color: $theme-gold;
-  }
+}
 
 // Overriding menu item padding so we can fit more items
 .navigation .menu > li > a {
@@ -118,13 +118,13 @@ footer .widget-about .image-circle {
     margin: 0 2px 2px 0; 
 }
 
-#books-by-author {
+.books-by-author {
     margin-top: 35px;
     border-top: 1px solid #ebebeb;
     padding-top: 25px;
 }
 
-#books-by-author h1 {
+.books-by-author h1 {
     text-align: center;
     color: $theme-teal;
     line-height: 20px;
@@ -134,18 +134,19 @@ footer .widget-about .image-circle {
     margin-bottom: 25px;
 }
 
-#books-by-author ul {
+.books-by-author ul {
     display: flex;
     flex-flow: row wrap;
     margin-left: -8px; /* Adjustment for the gutter */
     width: 100%;
 }
 
-#books-by-author ul li {
-    width: 100px;
-    flex: auto;
+.books-by-author ul li {
+    width: 180px;
+    // flex: auto;
     margin: 0 8px 8px 0; /* Some gutter */
 }
+
 
 spoiler {
     background: #454545;

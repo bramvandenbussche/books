@@ -96,6 +96,7 @@
             this.field('title', { boost: 10 });
             this.field('author');
             this.field('category');
+            this.field('series');
             this.field('content');
             this.field('cover');
 
@@ -105,6 +106,7 @@
                     'title': window.store[key].title,
                     'author': window.store[key].author,
                     'category': window.store[key].category,
+                    'series': window.store[key].series,
                     'content': window.store[key].content,
                     'cover': window.store[key].cover
                 });

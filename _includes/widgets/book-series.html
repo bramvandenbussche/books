@@ -11,10 +11,12 @@
             {% for book in series %}
             <li>
                 <a href="{{ site.baseurl }}{{ book.url }}">
-                <img class=" lazyloaded"
-                    src="{{ site.baseurl }}/assets/books/{{ book.cover }}"
-                    alt="[{{ book.series_order }}] {{ book.title }} ({{ book.published }})" title="[{{ book.series_order }}] {{ book.title }} ({{ book.published }})"
-                    />
+                    {% responsive_image_block %}
+                        path: "assets/books/{{ book.cover }}"
+                        alt: "[{{ book.series_order }}] {{ book.title }} ({{ book.published }})"
+                        title: "[{{ book.series_order }}] {{ book.title }} ({{ book.published }})"
+                        cache: true
+                    {% endresponsive_image_block %}
                 </a>
             </li>
             {% endfor %}

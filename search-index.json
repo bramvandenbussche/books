@@ -10,7 +10,10 @@ layout: compress
         "series": "{{ post.series | xml_escape }}",
         "content": {{ post.content | strip_html | strip_newlines | jsonify }},
         "url": "{{ site.baseurl }}{{ post.url | xml_escape }}",
-        "cover": "{{ site.baseurl }}/assets/books/{{ post.cover | xml_escape }}"
+        "cover": "{% responsive_image_block %}
+                    path: assets/books/{{ post.cover | xml_escape }}
+                    template: _includes/search-result-image-uri.html 
+                  {% endresponsive_image_block  %}"
     }
     {% unless forloop.last %},{% endunless %}
     {% endfor %}

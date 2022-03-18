@@ -10,7 +10,12 @@
     </h5>
 
     <div class="attachment-medium_large size-medium_large wp-post-image lazyloaded">
-        <img src="{{ site.baseurl }}/assets/books/{{ page.cover }}" class="" alt="{{ page.author }} - {{ page.title }}" />
+        {% responsive_image_block %}
+            path: assets/books/{{ page.cover }}
+            alt: {{ page.author }} - {{ page.title }}
+            title: {{ page.author }} - {{ page.title }}
+            cache: true
+        {% endresponsive_image_block %}
     </div>
 
     {% include widgets/star-rating.html rating=page.rating %}

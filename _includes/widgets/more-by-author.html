@@ -24,11 +24,15 @@
         {% for book in author_books %}
         <article class="post col-4">                
             <a href="{{ site.baseurl }}{{ book.uri }}" title="{{ book.title }}" class="image-link">
-                <img width="270" height="180" 
-                     src="{{ site.baseurl }}/assets/books/{{ book.cover }}" loading="lazy"
-                     class="image wp-post-image lazyloaded" 
-                     alt="{{ book.author }} - {{ book.title }}"
-                     title="{{ book.author }} - {{ book.title }}" />
+                {% responsive_image_block %}
+                    path: "assets/books/{{ book.cover }}"
+                    alt: "{{ book.author }} - {{ book.title }}"
+                    title: "{{ book.author }} - {{ book.title }}"
+                    class: "image wp-post-image lazyloaded"
+                    width: "270"
+                    height: "180" 
+                    cache: true
+                {% endresponsive_image_block %}
             </a>
         
             <div class="content">                

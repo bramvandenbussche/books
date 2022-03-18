@@ -40,6 +40,7 @@ exclude:
 plugins: 
   - jekyll-paginate-v2
   - jekyll-relative-links
+  - jekyll-responsive-image
 
 highlighter: rouge
 
@@ -80,9 +81,22 @@ relative_links:
   enabled:     true
   collections: true
 
+# Responsive image configuration
+# See: https://github.com/wildlyinaccurate/jekyll-responsive-image
+responsive_image:
+  template: _includes/responsive-image.html
+  sizes:
+    - width: 83
+    - width: 170
+    - width: 250
+    - width: 270
+    - width: 340
+    - width: 800
+
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
 # The values here represent the defaults if nothing is set
+# https://github.com/sverrirs/jekyll-paginate-v2
 pagination:
   
   # Site-wide kill switch, disabled here it doesn't run at all 

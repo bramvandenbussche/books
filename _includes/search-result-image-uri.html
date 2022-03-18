@@ -1,0 +1,2 @@
+{% assign smallest_needed = resized | where_exp: 'item', "item.width >= 170" | sort: 'width' | first %}
+{{ site.baseurl}}/{{ smallest_needed.path }}

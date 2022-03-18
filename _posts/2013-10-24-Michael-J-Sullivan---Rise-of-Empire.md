@@ -8,7 +8,7 @@ series_order: 3
 cover: riyria-revelations-2-rise-of-empires.jpg
 
 rating: 5.0
-published: 2010
+published: 2011
 goodreads_id: 10790277
 
 tags: ["Fantasy"]

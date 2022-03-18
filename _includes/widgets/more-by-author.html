@@ -1,20 +1,45 @@
 {% 
-    assign author_books = site.posts 
-                    | where_exp:"post", "post.author == page.author"
+    assign author_books_by_year = site.posts 
+                    | where_exp:"post", "post.author == page.author"                    
                     | sort: "published"
+                    | group_by: "published"
 %}
-<div class="books-by-author">
-    <h1>More by {{ page.author }}</h1>
-    <ul>
+
+
+{% for item in author_books_by_year %}
+   {% assign sorted = item['items'] | sort: 'series_order' %}
+   {% if forloop.first %}
+      {% assign author_books = sorted %}
+   {% else %}
+      {% assign author_books = author_books | concat: sorted %}
+   {% endif %}
+{% endfor %}
+
+<section class="related-posts grid-3">
+
+	<h4 class="section-head"><span class="title">More by {{ page.author }}</span></h4> 
+	
+	<div class="ts-row posts cf">
+
         {% for book in author_books %}
-        <li>
-            <a href="{{ site.baseurl }}{{ book.url }}">
-                <img src="{{ site.baseurl }}/assets/books/{{ book.cover }}"
-                     alt="({{ book.published }}) {{ book.title }}"
-                     title="({{ book.published }}) {{ book.title }}" />
+        <article class="post col-4">                
+            <a href="{{ site.baseurl }}{{ book.uri }}" title="{{ book.title }}" class="image-link">
+                <img width="270" height="180" 
+                     src="{{ site.baseurl }}/assets/books/{{ book.cover }}" loading="lazy"
+                     class="image wp-post-image lazyloaded" 
+                     alt="{{ book.author }} - {{ book.title }}"
+                     title="{{ book.author }} - {{ book.title }}" />
             </a>
-        </li>
+        
+            <div class="content">                
+                <h3 class="post-title"><a href="{{ site.baseurl }}{{ book.uri }}" class="post-link">{{ book.title }}</a></h3>
+                <div class="post-meta">
+                    <time class="post-date" datetime="{{ book.published }}">{{ book.published }}</time>
+                </div>
+            </div>
+		</article>
         {% endfor %}
-    </ul>
-    <div class="clearfix"></div>
-</div>
+		
+	</div>
+	
+</section>

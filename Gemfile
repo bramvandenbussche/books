@@ -12,9 +12,11 @@ source "http://rubygems.org"
 
 gem "jekyll"
 
+
 group :jekyll_plugins do
     gem 'kramdown-parser-gfm'
     gem 'jekyll-paginate-v2'
     gem 'jekyll-relative-links'
+    gem 'jekyll-responsive-image'
     gem "jekyll-feed"
 end

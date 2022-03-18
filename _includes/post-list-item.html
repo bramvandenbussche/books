@@ -2,10 +2,18 @@
     <div class="post-header cf">
         <div class="post-thumb">
             <a href="{{ site.baseurl }}{{ review.url }}" class="image-link">
-                <img src="{{ site.baseurl }}/assets/books/{{ review.cover }}"
+                {% responsive_image_block %}
+                    path: "assets/books/{{ review.cover }}"
+                    alt: "{{ review.author }} - {{ review.title }}"
+                    title: "{{ review.author }} - {{ review.title }}"
+                    class: "attachment-large size-large wp-post-image"
+                    cache: true
+                {% endresponsive_image_block %}
+
+                <!-- <img src="{{ site.baseurl }}/assets/books/{{ review.cover }}"
                     class="attachment-large size-large wp-post-image"
                     alt="{{ review.author }} – {{ review.title }}"
-                    title="{{ review.author }} – {{ review.title }}" />
+                    title="{{ review.author }} – {{ review.title }}" /> -->
             </a>
         </div>
 

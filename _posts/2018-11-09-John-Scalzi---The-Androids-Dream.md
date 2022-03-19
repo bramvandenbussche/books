@@ -18,15 +18,3 @@ tags: ["Science Fiction", "Humor"]
 ---
 
 The Android’s Dream was a fun action-packed rollercoaster from start to finish with loveable characters against a bizar science fiction backdrop and I enjoyed every minute of it.
-
-<!--more-->
-
-## World-building
-
-## Characters
-
-## Story
-
-## Writing
-
-## Conclusion

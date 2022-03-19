@@ -1,4 +1,3 @@
-# TITLE OF YOUR SITE
 title: Bram reads books
 tagline: I read books, and sometimes I like writing about them too, when inspiration strikes.
 description: I read books, and sometimes I like writing about them too, when inspiration strikes.
@@ -11,7 +10,7 @@ instagram-handle: bram.plays.games
 linkedin-handle: bramvandenbussche
 
 # Base URL
-baseurl: "/_site"
+baseurl: ""
 url: "https://books.bramvandenbussche.be/_site"
 google_analytics: UA-5000335-12
 

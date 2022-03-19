@@ -5,7 +5,7 @@ title: The Steam Pump Jump
 author: Jodi Taylor
 cover: chronicles-of-st-marys-9.6-steam-pump-jump.jpg
 
-series: The Chronicles of St. Mary's
+series: Chronicles of St. Mary's
 series_order: 9.6
 
 rating: 5.0

@@ -5,7 +5,7 @@ title: The Battersea Barricades
 author: Jodi Taylor
 cover: chronicles-of-st-marys-9.5-battersea-barricades.jpg
 
-series: The Chronicles of St. Mary's
+series: Chronicles of St. Mary's
 series_order: 9.5
 
 rating: 5.0

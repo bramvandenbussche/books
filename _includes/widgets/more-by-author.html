@@ -40,6 +40,7 @@
                 <div class="post-meta">
                     <time class="post-date" datetime="{{ book.published }}">{{ book.published }}</time>
                 </div>
+                {% include widgets/star-rating.html rating=book.rating %}
             </div>
 		</article>
         {% endfor %}

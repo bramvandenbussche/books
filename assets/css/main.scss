@@ -217,3 +217,9 @@ spoiler::before {
 spoiler::after {
     content: " [spoiler end] ";
 }
+
+
+#bookmetadatawidget .wp-post-image img {
+    border-radius: 0 6% 6% 0/4%;
+    overflow: hidden;
+}

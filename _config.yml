@@ -87,6 +87,7 @@ responsive_image:
   sizes:
     - width: 83
     - width: 170
+    - width: 200
     - width: 250
     - width: 270
     - width: 340

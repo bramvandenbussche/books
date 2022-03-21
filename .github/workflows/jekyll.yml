@@ -18,7 +18,8 @@ jobs:
       run: |
         docker run \
         -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
-        dgraziotin/jekyll-imagemagick6:stable /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future"
+        dgraziotin/jekyll-imagemagick6:stable /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future" \
+        --env JEKYLL_ENV=production 
 
     # Zip build output
     - name: Zip Website output

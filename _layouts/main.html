@@ -8,10 +8,6 @@ description: top level template which contains header / footer and main content 
 
     <head>
         {% include meta.html %}
-
-        {% if site.google_analytics and jekyll.environment == 'production' %}
-            {% include analytics.html %}
-        {% endif %}
     </head>
 
     <body class="post-template-default single single-post single-format-standard custom-background right-sidebar lazy-smart skin-fashion">

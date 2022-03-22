@@ -4,7 +4,7 @@ date: 2019-04-18
 author: Robert Bevan
 title: Critical Failures VI
 series: Caverns and Creatures
-series_order: 1
+series_order: 6
 cover: caverns-and-creatures-6-critical-failures-vi.jpg
 
 rating: 3.0

@@ -5,7 +5,7 @@ author: Robert Bevan
 title: Critical Failures
 series: Caverns and Creatures
 series_order: 1
-cover: caverns-and-creatures-1-critical-failures.png
+cover: caverns-and-creatures-1-critical-failures.jpg
 
 rating: 3.0
 published: 2012

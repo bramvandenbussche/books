@@ -12,6 +12,7 @@ rating: 3.5
 published: 2014
 goodreads_id: 21483760
 
+categories: ["Fantasy"]
 tags: ["Humor", "Fantasy"]
 ---
 

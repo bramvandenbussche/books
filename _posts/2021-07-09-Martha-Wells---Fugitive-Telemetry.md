@@ -12,7 +12,8 @@ rating: 5.0
 published: 2021
 goodreads_id: 53205854
 
-tags: ["Science Fiction", "Humor"]
+categories: ["Science Fiction"]
+tags: ["Science Fiction", "Humor", "Mystery", "AI"]
 ---
 
 I’ll be the first to admit that I love Murderbot so much that anything published in the series immediately gets a baseline rating of three stars… anything I find particularly amusing above and beyond expectation launches it up from there.

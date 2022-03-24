@@ -11,7 +11,8 @@ rating: 4.0
 published: 2015
 goodreads_id: 22859850
 
-tags: ["Science Fiction", "Military"]
+categories: ["Science Fiction"]
+tags: ["Science Fiction", "Military", "AI"]
 ---
 
 The start was great, with strong characters and a solid story to follow.

@@ -14,7 +14,8 @@ rating: 4.0
 published: 2015
 goodreads_id: 26113116
 
-tags: ["Science Fiction", "Humor", "Short Story"]
+categories: ["Science Fiction"]
+tags: ["Science Fiction", "Humor", "Time Travel", "Short Story"]
 ---
 
 // TODO: write review

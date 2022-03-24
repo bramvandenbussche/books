@@ -12,7 +12,8 @@ rating: 5.0
 published: 1987
 goodreads_id: 386372
 
-tags: ["Humor", "Fantasy"]
+categories: ["Fantasy"]
+tags: ["Satire", "Fantasy"]
 ---
 
 This is the first novel in the Death cycle and I didn’t really know what to expect. I’ve met Death a few times in other novels, but this is the first book where we really learn about the personality behind the hood.

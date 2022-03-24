@@ -12,6 +12,7 @@ rating: 4.5
 published: 2017
 goodreads_id: 35516086
 
+categories: ["Fantasy"]
 tags: ["Fantasy", "Thriller", "Mystery"]
 ---
 

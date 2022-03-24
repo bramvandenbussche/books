@@ -11,7 +11,8 @@ rating: 3.0
 published: 2014
 goodreads_id: 22963010
 
-tags: ["Fantasy"]
+categories: ["Fantasy"]
+tags: ["Fantasy", "LitRPG"]
 ---
 
 // TODO: Write review

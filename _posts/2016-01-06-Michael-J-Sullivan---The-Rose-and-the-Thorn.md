@@ -11,7 +11,8 @@ rating: 5.0
 published: 2013
 goodreads_id: 17163514
 
-tags: ["Fantasy"]
+categories: ["Fantasy"]
+tags: ["Fantasy", "Short Story", "Humor"]
 ---
 
 So much fun to reconnect with Hadrian & Royce again. Strong story, not very long, but with some interesting lines that tie into the main story. Very good read.

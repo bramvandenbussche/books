@@ -12,7 +12,8 @@ rating: 3.5
 published: 1990
 goodreads_id: 64218
 
-tags: ["Humor", "Fantasy"]
+categories: ["Fantasy"]
+tags: ["Satire", "Fantasy"]
 ---
 
 This would be my 3rd (yes, I know it’s technically the 4th, but I skipped one due to ignorance) Rincewind novel, and my 10th (or something) [Pratchett](../_authors/terry-pratchett.md) novel, and I find that I did not enjoy this as much as I have the other sub-series (Witches, the Guard, Death).

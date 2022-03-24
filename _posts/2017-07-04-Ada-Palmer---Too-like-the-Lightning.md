@@ -12,7 +12,8 @@ rating: 5.0
 published: 2016
 goodreads_id: 26114545
 
-tags: ["Science Fiction"]
+categories: ["Science Fiction"]
+tags: ["Science Fiction", "Philosophical"]
 ---
 
 Buddy read with the ever supporting [Seán](https://www.goodreads.com/user/show/13649278-se-n).

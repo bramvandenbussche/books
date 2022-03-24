@@ -11,6 +11,7 @@ rating: 5.0
 published: 1979
 goodreads_id: 386162
 
+categories: ["Science Fiction"]
 tags: ["Science Fiction", "Humor"]
 ---
 

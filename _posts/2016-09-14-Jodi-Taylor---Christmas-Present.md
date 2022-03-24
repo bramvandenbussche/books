@@ -12,7 +12,8 @@ rating: 4.0
 published: 2014
 goodreads_id: 27844508
 
-tags: ["Science Fiction", "Humor", "Short Story"]
+categories: ["Science Fiction"]
+tags: ["Science Fiction", "Humor", "Time Travel", "Short Story"]
 ---
 
 A short story about St Mary’s and a hillarious pig!

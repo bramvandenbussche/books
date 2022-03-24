@@ -11,7 +11,8 @@ rating: 3.0
 published: 2020
 goodreads_id: 55291869
 
-tags: ["Science Fiction", "Mystery"]
+categories: ["Science Fiction"]
+tags: ["Science Fiction", "Mystery", "Crime"]
 ---
 
 I liked this.

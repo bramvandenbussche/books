@@ -12,7 +12,8 @@ rating: 5.0
 published: 1996
 goodreads_id: 34527
 
-tags: ["Humor", "Fantasy"]
+categories: ["Fantasy"]
+tags: ["Satire", "Fantasy"]
 ---
 
 [Feet of Clay]() continues the tale of the brave men (!) of the Night Watch. There’s all the familiar figures, Cmdr Vimes, Captain Carrot, Corporal Detritus, Constable Angua and the latest addition, Cheery Littlebottom, who is in fact, a dwarf.

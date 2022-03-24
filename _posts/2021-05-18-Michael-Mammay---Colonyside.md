@@ -11,7 +11,8 @@ rating: 4.0
 published: 2020
 goodreads_id: 49085596
 
-tags: ["Science Fiction"]
+categories: ["Science Fiction"]
+tags: ["Science Fiction", "Military"]
 ---
 
 There's something weirdly magnetizing reading about Carl Butler doing his investigating and rubbing people the wrong way.

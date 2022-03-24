@@ -11,7 +11,8 @@ rating: 3.0
 published: 2015
 goodreads_id: 27880863
 
-tags: ["Fantasy"]
+categories: ["Fantasy"]
+tags: ["Fantasy", "LitRPG"]
 ---
 
 Well, it's more of the same.

@@ -11,7 +11,8 @@ rating: 4.0
 published: 2016
 goodreads_id: 30959279
 
-tags: ["Science Fiction"]
+categories: ["Science Fiction"]
+tags: ["Science Fiction", "Adventure", "AI"]
 ---
 
 // TODO: Write review

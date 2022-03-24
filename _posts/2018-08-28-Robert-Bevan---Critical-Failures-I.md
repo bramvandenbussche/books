@@ -11,7 +11,8 @@ rating: 3.0
 published: 2012
 goodreads_id: 15701981
 
-tags: ["Fantasy"]
+categories: ["Fantasy"]
+tags: ["Fantasy", "LitRPG"]
 ---
 
 Is this a masterpiece of human literature? Definitely not.

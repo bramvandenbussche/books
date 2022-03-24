@@ -12,6 +12,7 @@ rating: 4.5
 published: 2016
 goodreads_id: 27833670
 
+categories: ["Thriller"]
 tags: ["Thriller"]
 ---
 

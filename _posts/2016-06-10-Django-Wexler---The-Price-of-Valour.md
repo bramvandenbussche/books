@@ -12,7 +12,8 @@ rating: 4.0
 published: 2015
 goodreads_id: 23346335
 
-tags: ["Military", "Fantasy"]
+categories: ["Fantasy"]
+tags: ["Military", "Fantasy", "Flintlock"]
 ---
 
 Non stop thrilling ride from start to finish. Great, loveable characters and detailed military encounters build this book and the overarching, epic, storyline finishes it off.

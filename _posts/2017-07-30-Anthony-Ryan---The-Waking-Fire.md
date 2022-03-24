@@ -12,7 +12,8 @@ rating: 4.5
 published: 2016
 goodreads_id: 25972177
 
-tags: ["Fantasy"]
+categories: ["Fantasy"]
+tags: ["Fantasy", "Dragons"]
 ---
 
 The Waking Fire is the start of a new series by Anthony Ryan, known for his Raven’s Shadow series, this time adopting steampunk and dragons. This is my first ‘steampunk’ novel, and I’m glad that it’s this book that ‘deflowered’ me.

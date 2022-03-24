@@ -12,6 +12,7 @@ rating: 3.0
 published: 2017
 goodreads_id: 34928122
 
+categories: ["Science Fiction"]
 tags: ["Science Fiction"]
 ---
 

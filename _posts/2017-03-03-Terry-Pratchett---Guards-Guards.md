@@ -12,7 +12,8 @@ rating: 5.0
 published: 1989
 goodreads_id: 64216
 
-tags: ["Humor", "Fantasy"]
+categories: ["Fantasy"]
+tags: ["Satire", "Fantasy"]
 ---
 
 How can one accurately express the experience of reading a Terry Pratchett book ? It’s like no other, unrivaled. His skill and mastery with words, the way he shakes witticisms and metaphores out of his sleeve like it’s nothing are unparallelled.

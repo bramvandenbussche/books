@@ -12,10 +12,11 @@ rating: 4.0
 published: 2014
 goodreads_id: 18657632
 
-tags: ["Military", "Fantasy"]
+categories: ["Fantasy"]
+tags: ["Military", "Fantasy", "Flintlock"]
 ---
 
-I enjoyed The Shadow Throne more than I enjoyed The Thousand Names, and I think that that’s mainly because this book has a lot more sense of direction. About 1/3rd of the way in, you get a pretty good idea of what the end game will be, where the story is going. This helps a lot to feel like the plot is actually going somewhere in stead of meandering about from one scene to the next.
+I enjoyed [The Shadow Throne]() more than I enjoyed [The Thousand Names](2016-04-14-Django-Wexler---The-Thousand-Names.md), and I think that that’s mainly because this book has a lot more sense of direction. About 1/3rd of the way in, you get a pretty good idea of what the end game will be, where the story is going. This helps a lot to feel like the plot is actually going somewhere in stead of meandering about from one scene to the next.
 
 <!--more-->
 

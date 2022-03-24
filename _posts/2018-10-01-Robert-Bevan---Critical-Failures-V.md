@@ -11,7 +11,8 @@ rating: 2.5
 published: 2017
 goodreads_id: 34818375
 
-tags: ["Fantasy"]
+categories: ["Fantasy"]
+tags: ["Fantasy", "LitRPG"]
 ---
 
 Part 5 in the potty-mouth rollercoaster that is Caverns and Creatures, where our ragtag gang continues trying to get back to the real world.

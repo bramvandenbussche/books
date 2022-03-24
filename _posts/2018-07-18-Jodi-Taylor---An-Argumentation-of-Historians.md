@@ -12,7 +12,8 @@ rating: 4.5
 published: 2018
 goodreads_id: 35659214
 
-tags: ["Science Fiction", "Humor"]
+categories: ["Science Fiction"]
+tags: ["Science Fiction", "Humor", "Time Travel"]
 ---
 
 After the heartwrench that was And the Rest is History comes An Argumentation of Historians, the long awaited sequel. Luckily we were able to get our intermittent fix with 3 short stories but still my heart yearned for more, and boy does [Jodi Taylor](../_authors/jodi-taylor.md) deliver!

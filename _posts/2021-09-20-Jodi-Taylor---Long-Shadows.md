@@ -12,6 +12,7 @@ rating: 5.0
 published: 2021
 goodreads_id: 56088478
 
+categories: ["Fantasy"]
 tags: ["Fantasy", "Thriller"]
 ---
 

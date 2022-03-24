@@ -11,7 +11,8 @@ rating: 2.0
 published: 1936
 goodreads_id: 11803016
 
-tags: ["Non-Fiction"]
+categories: ["Non Fiction"]
+tags: ["Non-Fiction", "Self Help"]
 ---
 
 He makes some very good points but there's way to much fluff surrounding it, and dated anecdotes are not helping. I rolled my eyes quite a bit and by the end it became quite the struggle to get through.

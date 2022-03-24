@@ -12,6 +12,7 @@ rating: 4.0
 published: 1995
 goodreads_id: 77197
 
+categories: ["Fantasy"]
 tags: ["Fantasy"]
 ---
 

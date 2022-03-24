@@ -9,6 +9,7 @@ rating: 4.5
 published: 2019
 goodreads_id: 39027664
 
+categories: ["Fantasy"]
 tags: ["Fantasy", "Humor", "Mystery"]
 ---
 

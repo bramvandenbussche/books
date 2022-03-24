@@ -12,6 +12,7 @@ rating: 4.0
 published: 2016
 goodreads_id: 29868610
 
+categories: ["Biography"]
 tags: ["Autobiography", "Humor"]
 ---
 

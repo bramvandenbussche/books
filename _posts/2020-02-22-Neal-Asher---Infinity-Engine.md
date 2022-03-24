@@ -11,7 +11,8 @@ rating: 4.0
 published: 2017
 goodreads_id: 31213232
 
-tags: ["Science Fiction", "Military"]
+categories: ["Science Fiction"]
+tags: ["Science Fiction", "Military", "AI"]
 ---
 
 This concludes the Transformation Trilogy and to be honest, I'm feeling quite relieved that it's over.

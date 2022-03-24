@@ -10,6 +10,7 @@ rating: 4.0
 published: 2007
 goodreads_id: 902715
 
+categories: ["Fantasy"]
 tags: ["Dark", "Fantasy"]
 ---
 

@@ -12,7 +12,8 @@ rating: 5.0
 published: 1991
 goodreads_id: 2442
 
-tags: ["Humor", "Fantasy"]
+categories: ["Fantasy"]
+tags: ["Satire", "Fantasy"]
 ---
 
 Witches Abroad is exactly like I expected. Great fun.

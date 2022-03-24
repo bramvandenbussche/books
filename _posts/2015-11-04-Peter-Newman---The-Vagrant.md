@@ -11,7 +11,8 @@ rating: 4.0
 published: 2015
 goodreads_id: 23559647
 
-tags: ["Fantasy"]
+categories: ["Fantasy"]
+tags: ["Fantasy", "Dystopian", "Dark"]
 ---
 
 I read this book both through ebook as well as via audiobook. Which, in this case, is a real enhancement of the experience. The audiobook is wonderfully done and fits in really well with the odd perspective. The Vagrant uses a strictly third-person observator perspective, save for those odd times when demons communicate through their mind.

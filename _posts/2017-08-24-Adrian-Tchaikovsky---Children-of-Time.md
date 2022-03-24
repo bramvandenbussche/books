@@ -11,7 +11,8 @@ rating: 5.0
 published: 2015
 goodreads_id: 25499718
 
-tags: ["Science Fiction"]
+categories: ["Science Fiction"]
+tags: ["Science Fiction", "Epic"]
 ---
 
 I'm so glad that I finally got around to reading this. I was waiting for the audiobook to start, and I have to admit that it was worth the wait. The audiobook execution was on point and a real treat to listen too.

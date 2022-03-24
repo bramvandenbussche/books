@@ -12,7 +12,8 @@ rating: 5.0
 published: 2017
 goodreads_id: 28220647
 
-tags: ["Science Fiction"]
+categories: ["Science Fiction"]
+tags: ["Science Fiction", "Philosophical"]
 ---
 
 When judging Seven Surrenders, one can’t help but judge [Too like the Lightning](2017-07-04-Ada-Palmer---Too-like-the-Lightning.md) as well. Because in fact, the two books should rightfully be a single volume. One can not exist without the other.

@@ -12,6 +12,7 @@ rating: 4.0
 published: 2015
 goodreads_id: 28226072
 
+categories: ["Fantasy"]
 tags: ["Dark", "Fantasy", "Short Story"]
 ---
 

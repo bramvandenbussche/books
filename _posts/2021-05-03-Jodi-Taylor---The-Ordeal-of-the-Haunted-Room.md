@@ -12,7 +12,8 @@ rating: 5.0
 published: 2020
 goodreads_id: 53518289
 
-tags: ["Science Fiction", "Humor", "Short Story"]
+categories: ["Science Fiction"]
+tags: ["Science Fiction", "Humor", "Time Travel", "Short Story"]
 ---
 
 A fun little romp in an old Victorian 'Haunted' house with our usual suspects. Great pastime!

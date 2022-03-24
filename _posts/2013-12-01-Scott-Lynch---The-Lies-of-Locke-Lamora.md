@@ -11,6 +11,7 @@ rating: 5.0
 published: 2006
 goodreads_id: 29588376
 
+categories: ["Fantasy"]
 tags: ["Fantasy", "Humor"]
 ---
 

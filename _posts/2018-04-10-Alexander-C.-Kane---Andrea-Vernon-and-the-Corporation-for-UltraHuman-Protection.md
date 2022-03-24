@@ -12,7 +12,8 @@ rating: 3.5
 published: 2017
 goodreads_id: 36130625
 
-tags: ["Science Fiction", "Humor"]
+categories: ["Science Fiction"]
+tags: ["Science Fiction", "Humor", "Superheroes"]
 ---
 
 This was recommended to me by a friend/collegue and I listened to the audiobook on the way to and back from a 3 day trip to a theme park. It’s not exactly what you’d call ‘high literature’, but it was perfect to pass away the boring hours spent on Europe’s highways.

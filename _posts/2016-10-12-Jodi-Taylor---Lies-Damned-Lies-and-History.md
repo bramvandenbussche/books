@@ -12,7 +12,8 @@ rating: 5.0
 published: 2016
 goodreads_id: 26308512
 
-tags: ["Science Fiction", "Humor"]
+categories: ["Science Fiction"]
+tags: ["Science Fiction", "Humor", "Time Travel"]
 ---
 
 Well this was another very good installment in the ongoing series about the nutcases that work at St. Mary’s. I loved every bit of it.

@@ -12,7 +12,8 @@ rating: 4.0
 published: 2018
 goodreads_id: 40781962
 
-tags: ["Mystery", "Fantasy"]
+categories: ["Fantasy"]
+tags: ["Mystery", "Fantasy", "Thriller"]
 ---
 
 // TODO: write review

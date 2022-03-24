@@ -12,7 +12,8 @@ rating: 5.0
 published: 2019
 goodreads_id: 52731061
 
-tags: ["Science Fiction", "Humor", "Short Story"]
+categories: ["Science Fiction"]
+tags: ["Science Fiction", "Humor", "Time Travel", "Short Story"]
 ---
 
 // TODO: Write review

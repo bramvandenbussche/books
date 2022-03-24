@@ -11,6 +11,7 @@ rating: 5.0
 published: 2018
 goodreads_id: 36510759
 
+categories: ["Science Fiction"]
 tags: ["Science Fiction", "Thriller"]
 ---
 

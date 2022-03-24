@@ -12,7 +12,8 @@ rating: 4.0
 published: 1983
 goodreads_id: 34497
 
-tags: ["Humor", "Fantasy"]
+categories: ["Fantasy"]
+tags: ["Satire", "Fantasy"]
 ---
 
 Well this was a fun ride. An absurd story, with absurd characters doing absurd things in an absurd world, written with flair. I agree that this is not for everyone, but man did I enjoy myself.

@@ -12,7 +12,8 @@ rating: 5.0
 published: 2017
 goodreads_id: 32573186
 
-tags: ["Fantasy"]
+categories: ["Fantasy"]
+tags: ["Fantasy", "Dragons"]
 ---
 
 Wow. What a rush.

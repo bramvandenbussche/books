@@ -11,7 +11,8 @@ rating: 5.0
 published: 2020
 goodreads_id: 48767565
 
-tags: ["Fantasy"]
+categories: ["Science Fiction"]
+tags: ["Science Fiction"]
 ---
 
 An absolute blast, a thrilling rollercoaster from start to finish with many interesting twists and ideas.

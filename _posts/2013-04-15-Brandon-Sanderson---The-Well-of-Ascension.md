@@ -11,6 +11,7 @@ rating: 4.0
 published: 2007
 goodreads_id: 68429
 
+categories: ["Fantasy"]
 tags: ["Fantasy"]
 ---
 

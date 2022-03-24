@@ -11,7 +11,8 @@ rating: 4.0
 published: 2019
 goodreads_id: 41751502
 
-tags: ["Science Fiction"]
+categories: ["Science Fiction"]
+tags: ["Science Fiction", "Military"]
 ---
 
 // TODO: write review

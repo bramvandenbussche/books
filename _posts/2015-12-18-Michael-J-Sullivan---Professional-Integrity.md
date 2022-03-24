@@ -11,7 +11,8 @@ rating: 5.0
 published: 2015
 goodreads_id: 25656828
 
-tags: ["Fantasy"]
+categories: ["Fantasy"]
+tags: ["Fantasy", "Short Story", "Humor"]
 ---
 
 Short and funny!

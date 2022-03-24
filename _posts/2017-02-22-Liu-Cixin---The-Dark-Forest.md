@@ -12,7 +12,8 @@ rating: 3.5
 published: 2008
 goodreads_id: 23168817
 
-tags: ["Science Fiction"]
+categories: ["Science Fiction"]
+tags: ["Science Fiction", "Epic"]
 ---
 
 Oh God, how do I review this?

@@ -11,7 +11,8 @@ rating: 5.0
 published: 2019
 goodreads_id: 42603230
 
-tags: ["Science Fiction"]
+categories: ["Science Fiction"]
+tags: ["Science Fiction", "Epic"]
 ---
 
 this. THIS. This is what great, classic sci-fi is about. Eons spanning evolution and conflict, finding understanding in an ever changing universe.

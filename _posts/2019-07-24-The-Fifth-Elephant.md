@@ -11,7 +11,8 @@ rating: 5.0
 published: 1999
 goodreads_id: 63720
 
-tags: ["Fantasy", "Humor"]
+categories: ["Fantasy"]
+tags: ["Fantasy", "Satire"]
 ---
 
 I think this is the 7th or 8th Discworld novel I've read, the 5th on the City Watch and I'm still a huge fan.

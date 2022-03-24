@@ -11,7 +11,8 @@ rating: 3.0
 published: 1991
 goodreads_id: 34517
 
-tags: ["Fantasy", "Humor"]
+categories: ["Fantasy"]
+tags: ["Fantasy", "Satire"]
 ---
 
 This was a bit of an odd duck. I usually really like Pratchetts books, but this one wasn't what I expected at all.

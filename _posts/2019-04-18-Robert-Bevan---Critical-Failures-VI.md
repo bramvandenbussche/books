@@ -11,7 +11,8 @@ rating: 3.0
 published: 2018
 goodreads_id: 39700698
 
-tags: ["Fantasy"]
+categories: ["Fantasy"]
+tags: ["Fantasy", "LitRPG"]
 ---
 
 I felt that this book meandered on for way to long without a clear direction in sight. It wasn't until the very last chapters that you got a feeling of where this book was heading, and I didn't care for it.

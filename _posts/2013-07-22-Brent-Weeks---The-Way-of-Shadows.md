@@ -12,6 +12,7 @@ rating: 3.0
 published: 2008
 goodreads_id: 3227063
 
+categories: ["Fantasy"]
 tags: ["Fantasy"]
 ---
 

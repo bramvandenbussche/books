@@ -11,6 +11,7 @@ rating: 4.0
 published: 2016
 goodreads_id: 36449535
 
+categories: ["Science Fiction"]
 tags: ["Science Fiction", "Military"]
 ---
 

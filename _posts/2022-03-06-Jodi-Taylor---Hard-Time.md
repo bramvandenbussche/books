@@ -11,7 +11,8 @@ rating: 5.0
 published: 2020
 goodreads_id: 49021623
 
-tags: ["Science Fiction", "Humor"]
+categories: ["Science Fiction"]
+tags: ["Science Fiction", "Humor", "Time Travel"]
 ---
 
 I liked Hard Time. I really did, I enjoyed spending time with this story.

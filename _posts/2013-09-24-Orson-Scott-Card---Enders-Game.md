@@ -11,7 +11,8 @@ rating: 5.0
 published: 1985
 goodreads_id: 375802
 
-tags: ["Science Fiction"]
+categories: ["Science Fiction"]
+tags: ["Science Fiction", "Young Adult"]
 ---
 
 Allright, there go all my prejudices on Science Fiction, straight through the window! I'm glad I finally decided to pick this up and take the risk.

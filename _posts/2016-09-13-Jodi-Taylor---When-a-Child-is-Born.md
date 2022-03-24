@@ -12,7 +12,8 @@ rating: 4.0
 published: 2013
 goodreads_id: 27842289
 
-tags: ["Science Fiction", "Humor", "Short Story"]
+categories: ["Science Fiction"]
+tags: ["Science Fiction", "Humor", "Time Travel", "Short Story"]
 ---
 
 Had some laughs and enjoyed it for what it is, a very short story about people I know very well doing stupid stuff 🙂

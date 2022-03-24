@@ -11,7 +11,8 @@ rating: 4.0
 published: 2016
 goodreads_id: 25898503
 
-tags: ["Science Fiction", "Military"]
+categories: ["Science Fiction"]
+tags: ["Science Fiction", "Military", "AI"]
 ---
 
 Seems to be a classic case of middle-book-of-the-trilogy-syndrome.

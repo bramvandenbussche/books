@@ -11,6 +11,7 @@ rating: 2.0
 published: 2015
 goodreads_id: 24602307
 
+categories: ["Science Fiction"]
 tags: ["Science Fiction", "Young Adult"]
 ---
 

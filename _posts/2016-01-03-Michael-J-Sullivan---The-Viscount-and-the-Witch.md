@@ -11,7 +11,8 @@ rating: 5.0
 published: 2011
 goodreads_id: 12746970
 
-tags: ["Fantasy"]
+categories: ["Fantasy"]
+tags: ["Fantasy", "Short Story", "Humor"]
 ---
 
-Read as part of the Rose and Thorn;
+Read as part of [The Rose and Thorn](2016-01-06-Michael-J-Sullivan---The-Rose-and-the-Thorn.md);

@@ -13,7 +13,8 @@ rating: 4.0
 published: 2015
 goodreads_id: 22852698
 
-tags: ["Fantasy"]
+categories: ["Fantasy"]
+tags: ["Fantasy", "Humor"]
 ---
 
 // TODO: write review

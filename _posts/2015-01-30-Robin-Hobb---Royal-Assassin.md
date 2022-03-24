@@ -12,6 +12,7 @@ rating: 4.0
 published: 1996
 goodreads_id: 25300956
 
+categories: ["Fantasy"]
 tags: ["Fantasy"]
 ---
 

@@ -12,7 +12,8 @@ rating: 4.0
 published: 2018
 goodreads_id: 42077017
 
-tags: ["Science Fiction", "Humor", "Short Story"]
+categories: ["Science Fiction"]
+tags: ["Science Fiction", "Humor", "Time Travel", "Short Story"]
 ---
 
 Small little romp, but to me it wasn't the same without Max and Peterson in the lead. Still fun to listen to as Jodi Taylors writing is always entertaining.

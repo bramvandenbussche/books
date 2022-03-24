@@ -11,6 +11,7 @@ rating: 3.5
 published: 2015
 goodreads_id: 26771521
 
+categories: ["Science Fiction"]
 tags: ["Science Fiction"]
 ---
 

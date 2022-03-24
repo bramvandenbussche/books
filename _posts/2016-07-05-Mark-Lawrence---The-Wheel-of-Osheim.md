@@ -11,7 +11,8 @@ rating: 5.0
 published: 2016
 goodreads_id: 27154427
 
-tags: ["Fantasy"]
+categories: ["Fantasy"]
+tags: ["Fantasy", "Humor"]
 ---
 
 This review is broader than just [The Wheel of Osheim]() as it talks of my journey (love-hate relationship) with [Mark Lawrence](../_authors/mark-lawrence.md) throughout the years.

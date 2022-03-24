@@ -12,7 +12,8 @@ rating: 4.5
 published: 2020
 goodreads_id: 52381770
 
-tags: ["Science Fiction", "Humor"]
+categories: ["Science Fiction"]
+tags: ["Science Fiction", "Humor", "AI"]
 ---
 
 This book is exactly what you would expect from a full-length Murderbot novel. It has solid writing, socially awkward constructs and even more awkward relationships with Humans. The humor is dry and witty and had me highlighting so much my ebook looks like a toddlers coloring book.

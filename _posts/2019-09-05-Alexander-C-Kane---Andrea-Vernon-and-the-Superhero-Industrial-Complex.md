@@ -12,7 +12,8 @@ rating: 4.0
 published: 2019
 goodreads_id: 44302564
 
-tags: ["Science Fiction", "Humor"]
+categories: ["Fantasy"]
+tags: ["Fantasy", "Humor", "Superheroes"]
 ---
 
 // TODO: write review

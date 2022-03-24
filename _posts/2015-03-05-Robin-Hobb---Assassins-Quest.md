@@ -12,6 +12,7 @@ rating: 3.0
 published: 1997
 goodreads_id: 33396914
 
+categories: ["Fantasy"]
 tags: ["Fantasy"]
 ---
 

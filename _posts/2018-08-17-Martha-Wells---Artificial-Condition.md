@@ -12,7 +12,8 @@ rating: 5.0
 published: 2018
 goodreads_id: 36223860
 
-tags: ["Science Fiction", "Humor", "Short Story"]
+categories: ["Science Fiction"]
+tags: ["Science Fiction", "Humor", "Short Story", "AI"]
 ---
 
 In this follow-up to [All Systems Red](2018-05-16-Martha-Wells---All-Systems-Red.md) we continue our journey with the nameless rogue Murderbot as it returns to where it all began, in search of answers to its (literal) character-defining moment.

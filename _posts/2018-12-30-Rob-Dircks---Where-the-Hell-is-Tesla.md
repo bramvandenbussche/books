@@ -11,7 +11,8 @@ rating: 3.0
 published: 2015
 goodreads_id: 53021295
 
-tags: ["Science Fiction"]
+categories: ["Science Fiction"]
+tags: ["Science Fiction", "Humor"]
 ---
 
 Well this was funny. Simple and predictable, but it managed to make a 5h car ride entertaining enough and the audiobook narrator was a real gem.

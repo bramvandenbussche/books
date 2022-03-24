@@ -12,7 +12,8 @@ rating: 5.0
 published: 2017
 goodreads_id: 30841984
 
-tags: ["Fantasy"]
+categories: ["Fantasy"]
+tags: ["Fantasy", "Humor"]
 ---
 
 This book was a rollercoaster of emotions from start to finish. I haven’t laughed so hard in a while.

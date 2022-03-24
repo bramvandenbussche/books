@@ -11,6 +11,7 @@ rating: 3.5
 published: 2016
 goodreads_id: 26160162
 
+categories: ["Fantasy"]
 tags: ["Fantasy"]
 ---
 

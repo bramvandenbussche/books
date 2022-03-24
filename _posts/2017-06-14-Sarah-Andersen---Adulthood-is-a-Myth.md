@@ -11,7 +11,8 @@ rating: 3.5
 published: 2016
 goodreads_id: 28589527
 
-tags: ["Comic", "Humor"]
+categories: ["Graphic Novel"]
+tags: ["Graphic Novel", "Humor"]
 ---
 
 This is a collection of standalone comics by Sarah Andersen with a few common themes.

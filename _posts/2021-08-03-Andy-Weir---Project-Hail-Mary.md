@@ -11,6 +11,7 @@ rating: 5.0
 published: 2021
 goodreads_id: 54493401
 
+categories: ["Science Fiction"]
 tags: ["Science Fiction"]
 ---
 

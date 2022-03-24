@@ -13,6 +13,7 @@ rating: 3.5
 published: 1986
 goodreads_id: 7967
 
+categories: ["Science Fiction"]
 tags: ["Science Fiction"]
 ---
 

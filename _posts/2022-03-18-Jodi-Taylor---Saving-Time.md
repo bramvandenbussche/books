@@ -11,7 +11,8 @@ rating: 5.0
 published: 2021
 goodreads_id: 55773332
 
-tags: ["Science Fiction", "Humor"]
+categories: ["Science Fiction"]
+tags: ["Science Fiction", "Humor", "Time Travel"]
 ---
 
 What a ride that was. So many emotions, so many laughs.

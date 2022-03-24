@@ -12,6 +12,7 @@ rating: 5.0
 published: 2007
 goodreads_id: 186074
 
+categories: ["Fantasy"]
 tags: ["Fantasy", "Young Adult"]
 ---
 

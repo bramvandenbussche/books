@@ -12,7 +12,8 @@ rating: 5.0
 published: 2016
 goodreads_id: 29982939
 
-tags: ["Science Fiction", "Humor", "Short Story"]
+categories: ["Science Fiction"]
+tags: ["Science Fiction", "Humor", "Time Travel", "Short Story"]
 ---
 
 This had me laughing out loud so often that I lost count (which is saying something if the book only has 55 pages). Of all the short stories, this is definitely my favorite.

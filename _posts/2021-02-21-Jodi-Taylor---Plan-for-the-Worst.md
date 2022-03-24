@@ -12,7 +12,8 @@ rating: 5.0
 published: 2020
 goodreads_id: 50029747
 
-tags: ["Science Fiction", "Humor"]
+categories: ["Science Fiction"]
+tags: ["Science Fiction", "Humor", "Time Travel"]
 ---
 
 // Todo : write review

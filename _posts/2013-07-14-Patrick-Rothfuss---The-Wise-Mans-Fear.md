@@ -12,6 +12,7 @@ rating: 2.0
 published: 2011
 goodreads_id: 1215032
 
+categories: ["Fantasy"]
 tags: ["Fantasy", "Young Adult"]
 ---
 

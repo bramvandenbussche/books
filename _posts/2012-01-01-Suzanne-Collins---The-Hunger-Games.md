@@ -11,6 +11,7 @@ rating: 4.0
 published: 2008
 goodreads_id: 2767052
 
+categories: ["Fantasy"]
 tags: ["Fantasy", "Dystopian", "Young Adult"]
 ---
 

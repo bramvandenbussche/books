@@ -11,7 +11,8 @@ rating: 5.0
 published: 2015
 goodreads_id: 24683898
 
-tags: ["Fantasy"]
+categories: ["Fantasy"]
+tags: ["Fantasy", "Humor"]
 ---
 
 Absolutely adored hooking up with this pair again. Writing was great as usual, humor was on point, and there were some nice plot twists. Definitly a good read.

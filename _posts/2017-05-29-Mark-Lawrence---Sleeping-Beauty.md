@@ -12,6 +12,7 @@ rating: 5.0
 published: 2013
 goodreads_id: 18132196
 
+categories: ["Fantasy"]
 tags: ["Dark", "Fantasy", "Short Story"]
 ---
 

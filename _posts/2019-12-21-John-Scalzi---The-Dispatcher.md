@@ -11,6 +11,7 @@ rating: 4.0
 published: 2016
 goodreads_id: 26082188
 
+categories: ["Science Fiction"]
 tags: ["Science Fiction", "Mystery"]
 ---
 

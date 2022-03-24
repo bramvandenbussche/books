@@ -14,6 +14,7 @@ rating: 44.0
 published: 2006
 goodreads_id: 7081
 
+categories: ["Science Fiction"]
 tags: ["Science Fiction", "Humor"]
 ---
 

@@ -12,7 +12,8 @@ rating: 4.0
 published: 2014
 goodreads_id: 27857650
 
-tags: ["Science Fiction", "Humor", "Short Story"]
+categories: ["Science Fiction"]
+tags: ["Science Fiction", "Humor", "Time Travel", "Short Story"]
 ---
 
 Markham always knows how to make me laugh.

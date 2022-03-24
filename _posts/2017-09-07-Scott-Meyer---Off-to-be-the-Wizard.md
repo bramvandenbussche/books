@@ -12,6 +12,7 @@ rating: 3.5
 published: 2013
 goodreads_id: 18616975
 
+categories: ["Fantasy"]
 tags: ["Humor", "Fantasy"]
 ---
 

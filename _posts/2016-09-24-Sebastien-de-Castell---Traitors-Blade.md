@@ -11,7 +11,8 @@ rating: 4.5
 published: 2014
 goodreads_id: 20887238
 
-tags: ["Fantasy"]
+categories: ["Fantasy"]
+tags: ["Fantasy", "Adventure"]
 ---
 
 I agree fully with what [Peter Tr](https://www.goodreads.com/review/show/1064628242?book_show_action=false) said in his review.

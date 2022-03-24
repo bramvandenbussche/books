@@ -11,7 +11,8 @@ rating: 5.0
 published: 2017
 goodreads_id: 35176846
 
-tags: ["Science Fiction", "Short Story", "Humor"]
+categories: ["Science Fiction"]
+tags: ["Science Fiction", "Humor", "Time Travel", "Short Story"]
 ---
 
 Very, very short story, with Max, Peterson and Markham, but even in that short a timespan, they manage to entertain.

@@ -11,7 +11,8 @@ rating: 3.0
 published: 1968
 goodreads_id: 36402034
 
-tags: ["Science Fiction"]
+categories: ["Science Fiction"]
+tags: ["Science Fiction", "Dystopia"]
 ---
 
 This is a weird one.

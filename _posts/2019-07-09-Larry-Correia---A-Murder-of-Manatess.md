@@ -11,6 +11,7 @@ rating: 5.0
 published: 2018
 goodreads_id: 36645632
 
+categories: ["Science Fiction"]
 tags: ["Science Fiction", "Humor"]
 ---
 

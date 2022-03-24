@@ -12,6 +12,7 @@ rating: 5.0
 published: 2012
 goodreads_id: 12891107
 
+categories: ["Fantasy"]
 tags: ["Fantasy", "Dark"]
 ---
 

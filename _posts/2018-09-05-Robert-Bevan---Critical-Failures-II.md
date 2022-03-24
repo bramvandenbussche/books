@@ -11,7 +11,8 @@ rating: 3.0
 published: 2013
 goodreads_id: 18667253
 
-tags: ["Fantasy"]
+categories: ["Fantasy"]
+tags: ["Fantasy", "LitRPG"]
 ---
 
 The story of our unlikely heroes continues, with more shit & piss humor, more "yo momma" jokes, more swearing and more sexual inuendo.

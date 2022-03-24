@@ -11,6 +11,7 @@ rating: 4.0
 published: 2013
 goodreads_id: 2890090
 
+categories: ["Fantasy"]
 tags: ["Fantasy"]
 ---
 

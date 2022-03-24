@@ -11,6 +11,7 @@ rating: 5.0
 published: 2011
 goodreads_id: 10790277
 
+categories: ["Fantasy"]
 tags: ["Fantasy"]
 ---
 

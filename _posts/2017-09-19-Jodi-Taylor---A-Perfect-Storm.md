@@ -11,7 +11,8 @@ rating: 5.0
 published: 2017
 goodreads_id: 35396002
 
-tags: ["Science Fiction", "Short Story", "Humor"]
+categories: ["Science Fiction"]
+tags: ["Science Fiction", "Humor", "Time Travel", "Short Story"]
 ---
 
 // TODO: Write Review

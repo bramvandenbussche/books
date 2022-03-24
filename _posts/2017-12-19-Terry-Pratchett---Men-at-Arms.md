@@ -12,7 +12,8 @@ rating: 5.0
 published: 1993
 goodreads_id: 400354
 
-tags: ["Humor", "Fantasy"]
+categories: ["Fantasy"]
+tags: ["Satire", "Fantasy"]
 ---
 
 Reading [Men at Arms]() and reconnecting with Cpl. Carrot, Cpt. Vimes and the guys felt like coming home. I thoroughly enjoyed  [Guards Guards!](2017-03-03-Terry-Pratchett---Guards-Guards.md) and coming back to the Night Watch was an awesome experience, like slipping back into a comfortable pair of slacks.

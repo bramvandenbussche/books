@@ -11,7 +11,8 @@ rating: 4.0
 published: 2018
 goodreads_id: 35657891
 
-tags: ["Science Fiction"]
+categories: ["Science Fiction"]
+tags: ["Science Fiction", "Military"]
 ---
 
 This was a solid read, not amazing, but solid. I quite liked it.

@@ -54,13 +54,13 @@
             <div class="wrap">
                 <div class="menu-main-container">
                     <ul id="menu-main" class="menu">
-                        <!-- <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home">
+                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home">
                             <a href="{{ site.url }}">Home</a>
-                        </li> -->
+                        </li>
                         
-                        {% for tag in site.tags %}
+                        {% for tag in site.categories %}
                         <li class="menu-item menu-item-type-taxonomy menu-item-object-category">
-                            <a href="{{ site.baseurl }}/tag/{{ tag[0] | slugify }}">{{ tag[0] }}</a>
+                            <a href="{{ site.baseurl }}/category/{{ tag[0] | slugify }}">{{ tag[0] }}</a>
                         </li>
                         {% endfor %}
                     </ul>

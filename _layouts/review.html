@@ -8,7 +8,9 @@ description: Template for a single review
     <header class="post-header the-post-header cf">
         <div class="post-meta the-post-meta">
             <span class="post-cat">
-                <a href="{{ site.baseurl }}/category/reviews" rel="category tag">Reviews</a>
+                {% for cat in page.categories %}
+                <a href="{{ site.baseurl }}/category/{{ cat | slugify }}" rel="category tag">{{ cat }}</a>
+                {% endfor %}
             </span>
             <h1 class="post-title">{{ page.author }} – {{ page.title }}</h1>
             <a href="{{ page.url }}" class="date-link">

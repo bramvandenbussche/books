@@ -17,4 +17,6 @@ goodreads_id: 3754016
 tags: ["Fantasy"]
 ---
 
+// TODO: Write Review
+
 Typical middle book syndrome?

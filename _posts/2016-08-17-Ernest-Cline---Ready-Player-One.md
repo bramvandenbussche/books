@@ -16,7 +16,7 @@ goodreads_id: 9969571
 tags: ["Science Fiction", "Young Adult"]
 ---
 
-Some introduction text
+// TODO: Write Review
 
 <!--more-->
 

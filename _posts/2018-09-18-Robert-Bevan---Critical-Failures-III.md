@@ -5,7 +5,7 @@ author: Robert Bevan
 title: A Storm of S-Words
 series: Caverns and Creatures
 series_order: 3
-cover: caverns-and-creatures-3-critical-failures-iii.png
+cover: caverns-and-creatures-3-critical-failures-iii.jpg
 
 rating: 3.0
 published: 2014

@@ -50,7 +50,9 @@
                                     
                                             '<div class="meta-title">' +
                                                 '<div class="post-meta post-meta-a">' +
-                                                    '<span class="post-cat">' + item.author + '</span>' +
+                                                    '<span class="post-cat">' + 
+                                                        '<a href="' + item.author_url + '">' + item.author + '</a>' + 
+                                                    '</span>' +
                                                     '<h2 class="post-title-alt">' +
                                                         '<a href="' + item.url + '">' +
                                                         item.title +

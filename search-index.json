@@ -3,9 +3,13 @@ layout: compress
 ---
 {
 {% for post in site.posts %}
+    {% assign series = site.series | where: "name", post.series | first %}
+    {% assign author = site.authors | where:"name", post.author | first %}
+
     "{{ post.url | slugify }}": {
         "title": "{{ post.title | xml_escape }}",
         "author": "{{ post.author | xml_escape }}",
+        "author_url": "{{ site.baseurl }}{{ author.url | xml_escape }}",
         "category": "{{ post.category | xml_escape }}",
         "series": "{{ post.series | xml_escape }}",
         "content": {{ post.content | strip_html | strip_newlines | jsonify }},

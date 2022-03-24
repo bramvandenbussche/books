@@ -5,7 +5,7 @@ author: Robert Bevan
 title: Fail Harder
 series: Caverns and Creatures
 series_order: 2
-cover: caverns-and-creatures-2-critical-failures-ii.png
+cover: caverns-and-creatures-2-critical-failures-ii.jpg
 
 rating: 3.0
 published: 2013

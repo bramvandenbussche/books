@@ -18,6 +18,7 @@ google_analytics: UA-5000335-12
 date_format: "%b %-d, %Y"
 excerpt_separator: <!--more-->
 star-rating-icon: fa-solid fa-star
+permalink: /:slugified_categories/:year/:month/:day/:slug
 
 # Compress
 compress_html:
@@ -95,6 +96,7 @@ responsive_image:
     - width: 800
 
 # Feed configuration
+# See: https://github.com/jekyll/jekyll-feed
 feed:
   excerpt_only: true
   posts_limit: 20

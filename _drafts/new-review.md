@@ -5,13 +5,14 @@ author:
 title: 
 series: 
 series_order: 1
-cover: .jpg
+cover: cover.jpg
 
 rating: 5.0
 published: 2000
 goodreads_id: 123
 
-tags: ["Science Fiction", "Fantasy", "Thriller", "Short Story", "Humor", "Dark", "Mystery"]
+categories: ["Science Fiction"]
+tags: ["Science Fiction", "Fantasy", "Thriller", "Short Story", "Humor", "Dark", "Mystery", "Miltary", "Flintlock", "Dragons", "Philosophical", "AI", "Epic"]
 ---
 
 Some introduction text

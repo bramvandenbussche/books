@@ -18,7 +18,7 @@ google_analytics: UA-5000335-12
 date_format: "%b %-d, %Y"
 excerpt_separator: <!--more-->
 star-rating-icon: fa-solid fa-star
-permalink: /:slugified_categories/:year/:month/:day/:slug
+permalink: /:slugified_categories/:year/:month/:day/:slug:output_ext
 
 # Compress
 compress_html:

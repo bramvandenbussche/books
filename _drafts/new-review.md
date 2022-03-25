@@ -11,7 +11,7 @@ rating: 5.0
 published: 2000
 goodreads_id: 123
 
-categories: ["Science Fiction"]
+categories: ["Fantasy"]
 tags: ["Science Fiction", "Fantasy", "Thriller", "Short Story", "Humor", "Dark", "Mystery", "Military", "Flintlock", "Dragons", "Philosophical", "AI", "Epic"]
 ---
 

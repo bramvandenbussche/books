@@ -93,7 +93,6 @@ responsive_image:
     - width: 250
     - width: 270
     - width: 340
-    - width: 800
 
 # Feed configuration
 # See: https://github.com/jekyll/jekyll-feed

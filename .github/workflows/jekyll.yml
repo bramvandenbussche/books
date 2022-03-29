@@ -1,6 +1,7 @@
 name: Site CI (using Jekyll)
 
 on:
+  workflow_dispatch:
   push:
     branches: [ master ]
   pull_request:

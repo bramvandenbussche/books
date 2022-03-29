@@ -39,6 +39,7 @@ jobs:
         path: site.zip
 
     # Upload website to FTP server
+    # See: https://github.com/ahdbilal/FTP-Upload-Action
     - name: Upload to FTP server
       uses: SamKirkland/FTP-Deploy-Action@2.0.0
       env:

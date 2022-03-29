@@ -1,50 +1,54 @@
 {% 
     assign author_books_by_year = site.posts 
-                    | where_exp:"post", "post.author == page.author"                    
+                    | where_exp:"post", "post.author == page.author and post.title != page.title"
                     | sort: "published"
                     | group_by: "published"
 %}
 
+{% assign psize = author_books_by_year | size %}
+{% if psize > 0 %}
 
-{% for item in author_books_by_year %}
-   {% assign sorted = item['items'] | sort: 'series_order' %}
-   {% if forloop.first %}
-      {% assign author_books = sorted %}
-   {% else %}
-      {% assign author_books = author_books | concat: sorted %}
-   {% endif %}
-{% endfor %}
+    {% for item in author_books_by_year %}
+        {% assign sorted = item['items'] | sort: 'series_order' %}
+        {% if forloop.first %}
+            {% assign author_books = sorted %}
+        {% else %}
+            {% assign author_books = author_books | concat: sorted %}
+        {% endif %}
+    {% endfor %}
 
-<section class="related-posts grid-3">
+    <section class="related-posts grid-3">
 
-	<h4 class="section-head"><span class="title">More by {{ page.author }}</span></h4> 
-	
-	<div class="ts-row posts cf">
-
-        {% for book in author_books %}
-        <article class="post col-4">                
-            <a href="{{ site.baseurl }}{{ book.uri }}" title="{{ book.title }}" class="image-link">
-                {% responsive_image_block %}
-                    path: "assets/books/{{ book.cover }}"
-                    alt: "{{ book.author }} - {{ book.title }}"
-                    title: "{{ book.author }} - {{ book.title }}"
-                    class: "image wp-post-image lazyloaded"
-                    width: "270"
-                    height: "180" 
-                    cache: true
-                {% endresponsive_image_block %}
-            </a>
+        <h4 class="section-head"><span class="title">More by {{ page.author }}</span></h4> 
         
-            <div class="content">                
-                <h3 class="post-title"><a href="{{ site.baseurl }}{{ book.uri }}" class="post-link">{{ book.title }}</a></h3>
-                <div class="post-meta">
-                    <time class="post-date" datetime="{{ book.published }}">{{ book.published }}</time>
+        <div class="ts-row posts cf">
+
+            {% for book in author_books %}
+            <article class="post col-4">                
+                <a href="{{ site.baseurl }}{{ book.uri }}" title="{{ book.title }}" class="image-link">
+                    {% responsive_image_block %}
+                        path: "assets/books/{{ book.cover }}"
+                        alt: "{{ book.author }} - {{ book.title }}"
+                        title: "{{ book.author }} - {{ book.title }}"
+                        class: "image wp-post-image lazyloaded"
+                        width: "270"
+                        height: "180" 
+                        cache: true
+                    {% endresponsive_image_block %}
+                </a>
+            
+                <div class="content">                
+                    <h3 class="post-title"><a href="{{ site.baseurl }}{{ book.uri }}" class="post-link">{{ book.title }}</a></h3>
+                    <div class="post-meta">
+                        <time class="post-date" datetime="{{ book.published }}">{{ book.published }}</time>
+                    </div>
+                    {% include widgets/star-rating.html rating=book.rating %}
                 </div>
-                {% include widgets/star-rating.html rating=book.rating %}
-            </div>
-		</article>
-        {% endfor %}
-		
-	</div>
-	
-</section>
+            </article>
+            {% endfor %}
+            
+        </div>
+        
+    </section>
+
+{% endif %}

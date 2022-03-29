@@ -101,9 +101,7 @@ Special mention to the Audiobook version with Nathan Fillion as the narrator. I'
 
 I thoroughly enjoyed this story. It starts out great, funny, lighthearted, but it slowly turns into a shipwrecked thriller, made all the more scary by the dry, matter-of-fact tone of the OC POV.
 
-![Rorschach: None of you seem to understand, I'm not locked in here with you, you're locked in here with me!](https://thumbs.gfycat.com/HastyRareAdder-mobile.mp4)
-
-<iframe src='https://gfycat.com/ifr/HastyRareAdder' frameborder='0' scrolling='no' width='100%' height='100%'></iframe>
+<div style='position:relative; padding-bottom:calc(41.67% + 44px)'><iframe src='https://gfycat.com/ifr/HastyRareAdder' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
 Even when Simon and Milo died, it was presented so dryly, I had to double back to make sure I ~~read~~ heard it right
 

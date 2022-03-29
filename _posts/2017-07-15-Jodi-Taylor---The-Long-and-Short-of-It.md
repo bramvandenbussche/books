@@ -5,7 +5,7 @@ author: Jodi Taylor
 title: The Long and Short of It
 series: Chronicles of St. Mary's
 series_order: 1.5
-cover: chronicles-of-st-marys-0.5-long-and-short-of-it.jpg
+cover: cover.jpg
 
 rating: 5.0
 published: 2017

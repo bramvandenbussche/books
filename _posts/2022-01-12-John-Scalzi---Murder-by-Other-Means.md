@@ -16,7 +16,7 @@ tags: ["Science Fiction", "Mystery", "Crime"]
 
 # Affiliates
 amazon_nl: https://www.amazon.nl/Dispatcher-Murder-Other-Means-English-ebook/dp/B091DMSK36/?&_encoding=UTF8&tag=sofielambre0f-21&linkCode=ur2&linkId=4af21c95a94509248626f7fa4d941c57&camp=247&creative=1211
-audible: https://www.audible.com/pd/Murder-by-Other-Means-Audiobook/B08FCW35B1
+audible: https://www.audible.com/pd/Murder-by-Other-Means-Audiobook/B08FCW35B1?ipRedirectOverride=true
 ---
 
 I liked this.

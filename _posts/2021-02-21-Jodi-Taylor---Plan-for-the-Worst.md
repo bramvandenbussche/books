@@ -16,8 +16,8 @@ categories: ["Science Fiction"]
 tags: ["Science Fiction", "Humor", "Time Travel"]
 
 # Affiliates
-amazon_nl: 
-audible: 
+amazon_nl: https://www.amazon.nl/Plan-Worst-Chronicles-Marys-English-ebook/dp/B07TFZ35KK/?&_encoding=UTF8&tag=sofielambre0f-21&linkCode=ur2&linkId=ff68e968c5fbb56f06a846296bfca982&camp=247&creative=1211
+audible: https://www.audible.com/pd/Plan-for-the-Worst-Audiobook/B085W8MFDX?ipRedirectOverride=true
 ---
 
 // Todo : write review

@@ -15,8 +15,8 @@ categories: ["Science Fiction"]
 tags: ["Science Fiction", "Military"]
 
 # Affiliates
-amazon_nl: 
-audible: 
+amazon_nl: https://www.amazon.nl/Colonyside-Planetside-Book-3-English-ebook/dp/B086JHKVVR/?&_encoding=UTF8&tag=sofielambre0f-21&linkCode=ur2&linkId=bfb3acd991dfc2e9dca9257b06a18eaf&camp=247&creative=1211
+audible: https://www.audible.com/pd/Colonyside-Audiobook/0062980998?ipRedirectOverride=true
 ---
 
 There's something weirdly magnetizing reading about Carl Butler doing his investigating and rubbing people the wrong way.

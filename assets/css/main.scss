@@ -32,6 +32,16 @@ $theme-gray: #505050;
     text-align: center;
 }
 
+.logo-image {
+    -webkit-filter: drop-shadow(4px 4px 8px #222);
+    filter: drop-shadow(4px 4px 8px #222);
+}
+
+.logo-image:hover {
+    -webkit-filter: drop-shadow(6px 6px 12px #333);
+    filter: drop-shadow(6px 6px 12px #333);
+}
+
 small {
     font-size: .5em;
 }

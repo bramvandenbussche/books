@@ -17,7 +17,7 @@ tags: ["Fantasy", "Epic"]
 
 I find it hard to collect my thoughts on [Warbreaker](). Which I find odd for a Sanderson book.
 
-After the [Mistborn Trilogy](../_series/mistborn.md), [Elantris](2013-05-05-Brandon-Sanderson---Elantris.md), [The Emperor's Soul]()  and [The Way of Kings](2013-05-23-Brandon-Sanderson---The-Way-of-Kings.md), I know what I should expect from him.
+After the [Mistborn Trilogy](../_series/mistborn.md), [Elantris](2013-05-05-Brandon-Sanderson---Elantris.md), [The Emperor's Soul](2013-05-08-Brandon-Sanderson---The-Emperors-Soul.md)  and [The Way of Kings](2013-05-23-Brandon-Sanderson---The-Way-of-Kings.md), I know what I should expect from him.
 
 On the surface [Warbreaker]() seems to have all the right ingrediënts for another great tale:
 

@@ -48,4 +48,4 @@ jobs:
         FTP_PASSWORD: ${{ secrets.FTP_PWD }}
         LOCAL_DIR: _site/
         REMOTE_DIR: web/
-        ARGS: --delete --parallel=10 --transfer-all
+        ARGS: --delete --parallel=15 --transfer-all

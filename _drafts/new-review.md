@@ -13,6 +13,10 @@ goodreads_id: 123
 
 categories: ["Fantasy"]
 tags: ["Fantasy", "Thriller", "Short Story", "Humor", "Dark", "Mystery", "Military", "Flintlock", "Dragons", "Philosophical", "AI", "Epic"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 Some introduction text

@@ -13,6 +13,10 @@ goodreads_id: 49085596
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction", "Military"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 There's something weirdly magnetizing reading about Carl Butler doing his investigating and rubbing people the wrong way.

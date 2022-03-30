@@ -13,6 +13,10 @@ goodreads_id: 49021623
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction", "Humor", "Time Travel"]
+
+# Affiliates
+amazon_nl: https://www.amazon.nl/Hard-Time-bestselling-time-travel-adventure-ebook/dp/B081CHQFQT/?&_encoding=UTF8&tag=sofielambre0f-21&linkCode=ur2&linkId=417aa6aaafdfd0588fa6138e018e1aa3&camp=247&creative=1211
+audible: https://www.audible.com/pd/Hard-Time-Audiobook/1472273176
 ---
 
 I liked Hard Time. I really did, I enjoyed spending time with this story.

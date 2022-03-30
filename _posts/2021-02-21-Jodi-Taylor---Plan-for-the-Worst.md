@@ -14,6 +14,10 @@ goodreads_id: 50029747
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction", "Humor", "Time Travel"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 // Todo : write review

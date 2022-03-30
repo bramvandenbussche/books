@@ -14,6 +14,10 @@ goodreads_id: 53518289
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction", "Humor", "Time Travel", "Short Story"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 A fun little romp in an old Victorian 'Haunted' house with our usual suspects. Great pastime!

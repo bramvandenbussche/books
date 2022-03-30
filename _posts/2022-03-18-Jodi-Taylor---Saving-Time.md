@@ -13,6 +13,10 @@ goodreads_id: 55773332
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction", "Humor", "Time Travel"]
+
+# Affiliates
+amazon_nl: https://www.amazon.nl/Saving-Time-Police-Book-English-ebook/dp/B08P5BZ731?&_encoding=UTF8&tag=sofielambre0f-21&linkCode=ur2&linkId=316e3d3b1a2a95fd8493e2a4cd1408c5&camp=247&creative=1211
+audible: https://www.audible.com/pd/Saving-Time-Audiobook/1472273265
 ---
 
 What a ride that was. So many emotions, so many laughs.

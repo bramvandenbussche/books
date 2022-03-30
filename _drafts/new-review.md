@@ -12,7 +12,7 @@ published: 2000
 goodreads_id: 123
 
 categories: ["Fantasy"]
-tags: ["Science Fiction", "Fantasy", "Thriller", "Short Story", "Humor", "Dark", "Mystery", "Military", "Flintlock", "Dragons", "Philosophical", "AI", "Epic"]
+tags: ["Fantasy"]
 ---
 
 Some introduction text

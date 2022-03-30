@@ -16,7 +16,7 @@ tags: ["Science Fiction", "Military"]
 
 # Affiliates
 amazon_nl: https://www.amazon.nl/Colonyside-Planetside-Book-3-English-ebook/dp/B086JHKVVR/?&_encoding=UTF8&tag=sofielambre0f-21&linkCode=ur2&linkId=bfb3acd991dfc2e9dca9257b06a18eaf&camp=247&creative=1211
-audible: https://www.audible.com/pd/Colonyside-Audiobook/0062980998?ipRedirectOverride=true
+audible: https://www.amazon.com/Colonyside-Novel-Planetside-Book-3/dp/B086KY4PFT/?&_encoding=UTF8&tag=bramvandenbus-20&linkCode=ur2&linkId=92e7eb5254364ee3b34a0534c8e38675&camp=1789&creative=9325
 ---
 
 There's something weirdly magnetizing reading about Carl Butler doing his investigating and rubbing people the wrong way.

@@ -17,7 +17,7 @@ tags: ["Science Fiction", "Humor", "Time Travel", "Short Story"]
 
 # Affiliates
 amazon_nl: https://www.amazon.nl/Ordeal-Haunted-Chronicles-Marys-English-ebook/dp/B086RFXVSM/?&_encoding=UTF8&tag=sofielambre0f-21&linkCode=ur2&linkId=7a4a3da4bbedefc3b365d66da4542619&camp=247&creative=1211
-audible: https://www.audible.com/pd/The-Ordeal-of-the-Haunted-Room-Audiobook/1472276604?ipRedirectOverride=true
+audible: https://www.amazon.com/Ordeal-Haunted-Room-Chronicles-Marys/dp/B087RVL2WF/?&_encoding=UTF8&tag=bramvandenbus-20&linkCode=ur2&linkId=ab6e8e4221753516f81d69d6b8a8972b&camp=1789&creative=9325
 ---
 
 A fun little romp in an old Victorian 'Haunted' house with our usual suspects. Great pastime!

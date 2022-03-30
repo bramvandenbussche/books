@@ -16,7 +16,7 @@ tags: ["Science Fiction", "AI", "Space Opera", "Survival"]
 
 # Affiliates
 amazon_nl: https://www.amazon.nl/Salvage-Crew-English-Yudhanjaya-Wijeratne-ebook/dp/B08J977YVQ/?&_encoding=UTF8&tag=sofielambre0f-21&linkCode=ur2&linkId=21a74432d5383ddc7c7c6a1eaa67634f&camp=247&creative=1211
-audible: https://www.audible.com/pd/The-Salvage-Crew-Audiobook/1774246775?ipRedirectOverride=true
+audible: https://www.amazon.com/The-Salvage-Crew/dp/B08KSG8LHH/?&_encoding=UTF8&tag=bramvandenbus-20&linkCode=ur2&linkId=726a79b6eb8da029c2c9928896b04e9d&camp=1789&creative=9325
 ---
 
 > They thought this was just another salvage job. They thought wrong.

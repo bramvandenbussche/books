@@ -16,7 +16,7 @@ tags: ["Science Fiction"]
 
 # Affiliates
 amazon_nl: https://www.amazon.nl/Project-Hail-Mary-bestselling-Martian-ebook/dp/B08FFJS3YW/?&_encoding=UTF8&tag=sofielambre0f-21&linkCode=ur2&linkId=f67c478fa45dd68bd2f8e788d7c09550&camp=247&creative=1211
-audible: https://www.audible.com/pd/Project-Hail-Mary-Audiobook/B08G9PRS1K?ipRedirectOverride=true
+audible: https://www.amazon.com/Project-Hail-Mary/dp/B08GB58KD5/?&_encoding=UTF8&tag=bramvandenbus-20&linkCode=ur2&linkId=31147d3a5a6988a2d600276d14fd4c37&camp=1789&creative=9325
 ---
 
 What an absolute blast this was! I was hooked from the very first page and it didn't let up.

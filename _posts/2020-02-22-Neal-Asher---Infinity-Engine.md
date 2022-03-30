@@ -13,6 +13,10 @@ goodreads_id: 31213232
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction", "Military", "AI"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 This concludes the Transformation Trilogy and to be honest, I'm feeling quite relieved that it's over.

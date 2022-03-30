@@ -13,6 +13,10 @@ goodreads_id: 26771521
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 This wasn't entirely my cup of tea.

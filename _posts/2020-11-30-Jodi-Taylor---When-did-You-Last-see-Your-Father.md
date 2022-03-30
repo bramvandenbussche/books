@@ -14,6 +14,10 @@ goodreads_id: 50926461
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction", "Humor", "Time Travel", "Short Story"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 Short and Fun. Learning about Leon's past was great and the whole story oozes that at Mary's vibe that I crave.

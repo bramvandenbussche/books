@@ -13,6 +13,10 @@ goodreads_id: 25898503
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction", "Military", "AI"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 Seems to be a classic case of middle-book-of-the-trilogy-syndrome.

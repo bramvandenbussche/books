@@ -17,7 +17,7 @@ tags: ["Fantasy", "Thriller"]
 
 # Affiliates
 amazon_nl: https://www.amazon.nl/Long-Shadows-brand-new-supernatural-Elizabeth-ebook/dp/B08MTFV3VQ/?&_encoding=UTF8&tag=sofielambre0f-21&linkCode=ur2&linkId=8199899f16dc47fe8117af8cf7decf59&camp=247&creative=1211
-audible: https://www.audible.com/pd/Long-Shadows-Audiobook/1472281365?ipRedirectOverride=true
+audible: https://www.amazon.com/Long-Shadows-Elizabeth-Cage-Book/dp/B08QV89H8X/?&_encoding=UTF8&tag=bramvandenbus-20&linkCode=ur2&linkId=06cadee56b32bf998ee449a276ff8dc0&camp=1789&creative=9325
 ---
 
 Oh my God, the cliffhanger! It pisses me off, to no end.

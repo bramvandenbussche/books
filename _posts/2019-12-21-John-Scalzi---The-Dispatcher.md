@@ -13,6 +13,10 @@ goodreads_id: 26082188
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction", "Mystery"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 Quite a short story, with an interesting premise, I can see this form the basis for a follow-up that digs into that premise.

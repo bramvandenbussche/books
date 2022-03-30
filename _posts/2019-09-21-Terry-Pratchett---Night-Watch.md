@@ -13,6 +13,10 @@ goodreads_id: 47989
 
 categories: ["Fantasy"]
 tags: ["Fantasy", "Satire"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 Oh Vimes, how I love thee. This story was almost all Vimes and it had me hook, line and sinker from the very start. There's never a dull moment and Vimes' wit is as sharp as ever, all wrapped up in a nice time-travel story. Absolutely fantastic stuff.

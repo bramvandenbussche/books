@@ -14,6 +14,10 @@ goodreads_id: 52381770
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction", "Humor", "AI"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 This book is exactly what you would expect from a full-length Murderbot novel. It has solid writing, socially awkward constructs and even more awkward relationships with Humans. The humor is dry and witty and had me highlighting so much my ebook looks like a toddlers coloring book.

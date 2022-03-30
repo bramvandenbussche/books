@@ -13,6 +13,10 @@ goodreads_id: 22859850
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction", "Military", "AI"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 The start was great, with strong characters and a solid story to follow.

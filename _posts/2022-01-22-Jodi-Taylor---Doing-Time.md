@@ -16,7 +16,7 @@ tags: ["Science Fiction", "Humor", "Time Travel"]
 
 # Affiliates
 amazon_nl: https://www.amazon.nl/Doing-Time-hilarious-spinoff-Chronicles-ebook/dp/B07PWY2CNT/?&_encoding=UTF8&tag=sofielambre0f-21&linkCode=ur2&linkId=6eea8a817b3a4f9854b81ded1bbaf5b2&camp=247&creative=1211
-audible: https://www.audible.com/pd/Doing-Time-Audiobook/B08173V6V8?ipRedirectOverride=true
+audible: https://www.amazon.com/Doing-Time-Jodi-Taylor-audiobook/dp/B08172K2BV/?&_encoding=UTF8&tag=bramvandenbus-20&linkCode=ur2&linkId=bedc3c5994245731fdad584f4606437b&camp=1789&creative=9325
 ---
 
 I liked Hard Time. I really did, I enjoyed spending time with this story.

@@ -17,7 +17,7 @@ tags: ["Science Fiction", "Humor", "Time Travel"]
 
 # Affiliates
 amazon_nl: https://www.amazon.nl/Plan-Worst-Chronicles-Marys-English-ebook/dp/B07TFZ35KK/?&_encoding=UTF8&tag=sofielambre0f-21&linkCode=ur2&linkId=ff68e968c5fbb56f06a846296bfca982&camp=247&creative=1211
-audible: https://www.audible.com/pd/Plan-for-the-Worst-Audiobook/B085W8MFDX?ipRedirectOverride=true
+audible: https://www.amazon.com/Ordeal-Haunted-Room-Chronicles-Marys/dp/B087RVL2WF/?&_encoding=UTF8&tag=bramvandenbus-20&linkCode=ur2&linkId=b49d2e4dba72d6f45638fe4ec0ba94f1&camp=1789&creative=9325
 ---
 
 // Todo : write review

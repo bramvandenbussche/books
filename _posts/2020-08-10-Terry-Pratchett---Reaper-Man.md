@@ -13,6 +13,10 @@ goodreads_id: 34517
 
 categories: ["Fantasy"]
 tags: ["Fantasy", "Satire"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 This was a bit of an odd duck. I usually really like Pratchetts books, but this one wasn't what I expected at all.

@@ -67,7 +67,28 @@
                     </td>
                 </tr>
                 {% endif %}
+
+                {% if page.amazon_nl || page.audible %}
+                <tr>
+                    <td colspan="2" style="text-align: center;">
+                        {% if page.amazon_nl %}
+                        <a href="{{ page.amazon_nl }}" target="_blank" style="float: left; width: 50%;">
+                            <i class="fa-brands fa-amazon"></i>
+                            Buy on Amazon NL
+                        </a>
+                        {% endif %}
+
+                        {% if page.audible %}
+                        <a href="{{ page.audible }}" target="_blank" style="float: right; width: 50%;">
+                            <i class="fa-brands fa-audible"></i>
+                            Listen on Audible
+                        </a>
+                        {% endif %}
+                    </td>
+                </tr>
+                {% endif %}
             </tbody>
         </table>
+
     </div>
 </li>

@@ -13,6 +13,10 @@ goodreads_id: 55591782
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction", "AI", "Space Opera", "Survival"]
+
+# Affiliates
+amazon_nl: https://www.amazon.nl/Salvage-Crew-English-Yudhanjaya-Wijeratne-ebook/dp/B08J977YVQ/?&_encoding=UTF8&tag=sofielambre0f-21&linkCode=ur2&linkId=21a74432d5383ddc7c7c6a1eaa67634f&camp=247&creative=1211
+audible: https://www.audible.com/pd/The-Salvage-Crew-Audiobook/1774246775
 ---
 
 > They thought this was just another salvage job. They thought wrong.

@@ -15,8 +15,8 @@ categories: ["Science Fiction"]
 tags: ["Science Fiction", "Military", "AI"]
 
 # Affiliates
-amazon_nl: 
-audible: 
+amazon_nl: https://www.amazon.nl/War-Factory-Transformation-Book-English-ebook/dp/B018XV0AFW/?&_encoding=UTF8&tag=sofielambre0f-21&linkCode=ur2&linkId=ac4b1d836e2f477052bbb88b6ff4900f&camp=247&creative=1211
+audible: https://www.amazon.com/War-Factory-Neal-Asher-audiobook/dp/B072QWX6B8/?&_encoding=UTF8&tag=bramvandenbus-20&linkCode=ur2&linkId=d959dad8a7072a4b61d7c3aa9cdb3697&camp=1789&creative=9325
 ---
 
 Seems to be a classic case of middle-book-of-the-trilogy-syndrome.

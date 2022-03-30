@@ -15,8 +15,8 @@ categories: ["Science Fiction"]
 tags: ["Science Fiction", "Military", "AI"]
 
 # Affiliates
-amazon_nl: 
-audible: 
+amazon_nl: https://www.amazon.nl/Dark-Intelligence-Transformation-Novel-1-ebook/dp/B00M43ZYN4/?&_encoding=UTF8&tag=sofielambre0f-21&linkCode=ur2&linkId=c8f4c74956be08d2bf41417c9ee6c56c&camp=247&creative=1211
+audible: https://www.amazon.com/Dark-Intelligence-Neal-Asher-audiobook/dp/B0721L1MXF/?&_encoding=UTF8&tag=bramvandenbus-20&linkCode=ur2&linkId=730b03b1c4fb2313fca436b94c263c66&camp=1789&creative=9325
 ---
 
 The start was great, with strong characters and a solid story to follow.

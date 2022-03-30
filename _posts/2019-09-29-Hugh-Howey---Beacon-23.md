@@ -15,8 +15,8 @@ categories: ["Science Fiction"]
 tags: ["Science Fiction"]
 
 # Affiliates
-amazon_nl: 
-audible: 
+amazon_nl: https://www.amazon.nl/Beacon-23-Complete-Novel-English-ebook/dp/B0151HYRCS/?&_encoding=UTF8&tag=sofielambre0f-21&linkCode=ur2&linkId=5d7f0732e891dbda2d3c0ac9f99ac120&camp=247&creative=1211
+audible: https://www.amazon.com/Beacon-23-Complete-Novel-audiobook/dp/B016MXGMTG/?&_encoding=UTF8&tag=bramvandenbus-20&linkCode=ur2&linkId=40d06614ce56c09a39e888036c11cca2&camp=1789&creative=9325
 ---
 
 This wasn't entirely my cup of tea.

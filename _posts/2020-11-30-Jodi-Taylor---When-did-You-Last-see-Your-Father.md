@@ -16,8 +16,8 @@ categories: ["Science Fiction"]
 tags: ["Science Fiction", "Humor", "Time Travel", "Short Story"]
 
 # Affiliates
-amazon_nl: 
-audible: 
+amazon_nl: https://www.amazon.nl/When-Last-Your-Father-English-ebook/dp/B07T5X9276/?&_encoding=UTF8&tag=sofielambre0f-21&linkCode=ur2&linkId=f13c1b14f95dc45e5adc78a12c8d14ef&camp=247&creative=1211
+audible: https://www.amazon.com/When-Did-Last-Your-Father/dp/B07WHTPZGC/?&_encoding=UTF8&tag=bramvandenbus-20&linkCode=ur2&linkId=22855b465ba4fecfba6ededae66b47e6&camp=1789&creative=9325
 ---
 
 Short and Fun. Learning about Leon's past was great and the whole story oozes that at Mary's vibe that I crave.

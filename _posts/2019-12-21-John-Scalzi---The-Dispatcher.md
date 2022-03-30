@@ -15,8 +15,8 @@ categories: ["Science Fiction"]
 tags: ["Science Fiction", "Mystery"]
 
 # Affiliates
-amazon_nl: 
-audible: 
+amazon_nl: https://www.amazon.nl/Dispatcher-English-John-Scalzi-ebook/dp/B06XZ41MYR/?&_encoding=UTF8&tag=sofielambre0f-21&linkCode=ur2&linkId=98774e210d344bc355e33bcd4637103b&camp=247&creative=1211
+audible: https://www.amazon.com/The-Dispatcher-John-Scalzi-audiobook/dp/B01KKPH1NI/?&_encoding=UTF8&tag=bramvandenbus-20&linkCode=ur2&linkId=54bac114ebe082a93b5695cee123ba16&camp=1789&creative=9325
 ---
 
 Quite a short story, with an interesting premise, I can see this form the basis for a follow-up that digs into that premise.

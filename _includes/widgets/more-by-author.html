@@ -24,21 +24,21 @@
         <div class="ts-row posts cf">
 
             {% for book in author_books %}
-            <article class="post col-4">                
-                <a href="{{ site.baseurl }}{{ book.uri }}" title="{{ book.title }}" class="image-link">
+            <article class="col-3">                
+                <a href="{{ site.baseurl }}{{ book.url }}" title="{{ book.title }}" class="image-link">
                     {% responsive_image_block %}
                         path: "assets/books/{{ book.cover }}"
                         alt: "{{ book.author }} - {{ book.title }}"
                         title: "{{ book.author }} - {{ book.title }}"
-                        class: "image wp-post-image lazyloaded"
-                        width: "270"
-                        height: "180" 
+                        class: "image wp-post-image lazyloaded book-cover"
+                        width: "170"
+                        height: "250" 
                         cache: true
                     {% endresponsive_image_block %}
                 </a>
             
                 <div class="content">                
-                    <h3 class="post-title"><a href="{{ site.baseurl }}{{ book.uri }}" class="post-link">{{ book.title }}</a></h3>
+                    <h3 class="post-title"><a href="{{ site.baseurl }}{{ book.url }}" class="post-link">{{ book.title }}</a></h3>
                     <div class="post-meta">
                         <time class="post-date" datetime="{{ book.published }}">{{ book.published }}</time>
                     </div>

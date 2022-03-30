@@ -144,13 +144,13 @@ footer .widget-about .image-circle {
 
 .book-series li {
     width: 200px;
-    margin: 0 4px 4px 0;    
+    margin: 0 15px 15px 15px;
 }
 
 .widget_bookserieswidget li {
-    width: 83px;
+    width: 80px;
     // flex: auto;
-    margin: 0 2px 2px 0; 
+    margin: 0 3px 5px 0; 
 }
 
 
@@ -219,7 +219,9 @@ spoiler::after {
 }
 
 
-#bookmetadatawidget .wp-post-image img {
+#bookmetadatawidget .wp-post-image img,
+.book-cover {
     border-radius: 0 6% 6% 0/4%;
     overflow: hidden;
+    box-shadow: 4px 4px 12px $theme-lightgray;
 }

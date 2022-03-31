@@ -16,6 +16,10 @@ goodreads_id: 25876967
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction", "Humor", "Time Travel"]
+
+# Affiliates
+amazon_nl: https://amzn.to/3qSYrqP
+audible: https://amzn.to/375YfNO
 ---
 
 What a fun romp!

@@ -13,6 +13,10 @@ goodreads_id: 28589527
 
 categories: ["Graphic Novel"]
 tags: ["Graphic Novel", "Humor"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 This is a collection of standalone comics by Sarah Andersen with a few common themes.

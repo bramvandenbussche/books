@@ -13,6 +13,10 @@ goodreads_id: 27154427
 
 categories: ["Fantasy"]
 tags: ["Fantasy", "Humor"]
+
+# Affiliates
+amazon_nl: https://amzn.to/3LxipiM
+audible: https://amzn.to/3IXLcLV
 ---
 
 This review is broader than just [The Wheel of Osheim]() as it talks of my journey (love-hate relationship) with [Mark Lawrence](../_authors/mark-lawrence.md) throughout the years.

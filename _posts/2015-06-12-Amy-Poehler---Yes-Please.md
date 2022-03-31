@@ -13,6 +13,10 @@ goodreads_id: 20910157
 
 categories: ["Biography"]
 tags: ["Biography", "Humor", "Non Fiction"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 // TODO: Write review

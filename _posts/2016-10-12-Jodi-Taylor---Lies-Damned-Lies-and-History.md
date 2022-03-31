@@ -14,6 +14,10 @@ goodreads_id: 26308512
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction", "Humor", "Time Travel"]
+
+# Affiliates
+amazon_nl: https://amzn.to/3iOtNL0
+audible: https://amzn.to/3uEokfc
 ---
 
 Well this was another very good installment in the ongoing series about the nutcases that work at St. Mary’s. I loved every bit of it.

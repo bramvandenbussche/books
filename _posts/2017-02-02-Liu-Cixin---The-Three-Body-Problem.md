@@ -14,6 +14,10 @@ goodreads_id: 20518872
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction", "Epic"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 This is one of those reviews where I finish the book and don't really know what my verdict is. So let's make some lists and see if I can form a conclusion by the end of the review.

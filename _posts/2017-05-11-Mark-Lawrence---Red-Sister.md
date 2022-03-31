@@ -13,6 +13,10 @@ goodreads_id: 25895524
 
 categories: ["Fantasy"]
 tags: ["Fantasy"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 I've got so many thoughts running around my mind about Red Sister. Let's try to wrangle them into a semi-cohesive review, shall we ?

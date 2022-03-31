@@ -14,6 +14,10 @@ goodreads_id: 9579634
 
 categories: ["Fantasy"]
 tags: ["Fantasy", "Dark"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 ## Progress: 15%

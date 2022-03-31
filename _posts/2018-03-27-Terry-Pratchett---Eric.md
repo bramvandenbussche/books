@@ -14,6 +14,10 @@ goodreads_id: 64218
 
 categories: ["Fantasy"]
 tags: ["Satire", "Fantasy"]
+
+# Affiliates
+amazon_nl: https://amzn.to/3LseTpW
+audible: https://amzn.to/3K9XhyI
 ---
 
 This would be my 3rd (yes, I know it’s technically the 4th, but I skipped one due to ignorance) Rincewind novel, and my 10th (or something) [Pratchett](../_authors/terry-pratchett.md) novel, and I find that I did not enjoy this as much as I have the other sub-series (Witches, the Guard, Death).

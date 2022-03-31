@@ -13,6 +13,10 @@ goodreads_id: 21847374
 
 categories: ["Fantasy"]
 tags: ["Fantasy", "Mystery"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 // TODO: Write review

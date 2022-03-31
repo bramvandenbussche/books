@@ -13,6 +13,10 @@ goodreads_id: 20646731
 
 categories: ["Fantasy"]
 tags: ["Fantasy", "Epic"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 I very much liked [The Mirror Empire](). Characters are well-rounded and likeable. The story feels epic and the plot is one I haven't seen before.

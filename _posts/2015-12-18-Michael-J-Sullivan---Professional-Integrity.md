@@ -13,6 +13,10 @@ goodreads_id: 25656828
 
 categories: ["Fantasy"]
 tags: ["Fantasy", "Short Story", "Humor"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 Short and funny!

@@ -14,6 +14,10 @@ goodreads_id: 21483760
 
 categories: ["Fantasy"]
 tags: ["Humor", "Fantasy"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 Spell or High Water is the second installment in the [Magic 2.0](../_series/magic-2-0.md) series by [Scott Meyer](../_authors/scott-meyer.md) and starts 2 months after [Off to be the Wizard](2017-09-07-Scott-Meyer---Off-to-be-the-Wizard.md) ends.

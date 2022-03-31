@@ -13,6 +13,10 @@ goodreads_id: 20706284
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction", "Fantasy", "AI"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 // TODO: Write review

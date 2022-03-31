@@ -13,6 +13,10 @@ goodreads_id: 25188109
 
 categories: ["Fantasy"]
 tags: ["Fantasy", "Dystopian", "Short Story"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 It's a short story, so it gets a short review.

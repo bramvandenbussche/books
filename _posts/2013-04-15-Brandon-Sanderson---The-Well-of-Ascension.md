@@ -12,7 +12,11 @@ published: 2007
 goodreads_id: 68429
 
 categories: ["Fantasy"]
-tags: ["Fantasy"]
+tags: ["Fantasy", "Magic", "Epic"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 I find it hard to give an overall review / impression of "[The Well of Ascension]()". The first half of the book is a totally different read than the second part. Maybe I should just review each of them separately.

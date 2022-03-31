@@ -13,6 +13,10 @@ goodreads_id: 239917
 
 categories: ["Fantasy"]
 tags: ["Fantasy", "Mystery"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 By itself, [Sign of the Unicorn]() isn't particulary outstanding. The storyline plays catch-up a bit to set things up for the next installments. The writing is still great as ever, and the action keeps moving forward, but all in all, it's more a filler between [The Guns of Avalon](2016-11-10-Roger-Zelazny---The-Guns-of-Avalon.md) and [The Hand of Oberon](2016-11-15-Roger-Zelazny---The-Hand-of-Oberon.md).

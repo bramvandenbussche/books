@@ -13,6 +13,10 @@ goodreads_id: 17571564
 
 categories: ["Graphic Novel"]
 tags: ["Humor"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 Hillarious at times, but at other times it seems like anecdotes that would be a lot funnier if you actually knew the author (or he dogs) personally. It gave me some laughs, but overall I expected it to be funnier on the whole.

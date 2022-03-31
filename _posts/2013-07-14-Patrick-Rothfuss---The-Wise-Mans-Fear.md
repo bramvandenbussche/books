@@ -13,7 +13,11 @@ published: 2011
 goodreads_id: 1215032
 
 categories: ["Fantasy"]
-tags: ["Fantasy", "Young Adult"]
+tags: ["Fantasy", "Young Adult", "Magic"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 I didn’t really know what to write for this review, mostly because I don’t really know how I feel about the book.

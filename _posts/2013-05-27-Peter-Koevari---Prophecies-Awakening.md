@@ -13,6 +13,10 @@ goodreads_id: 14288445
 
 categories: ["Fantasy"]
 tags: ["Fantasy", "Vampires", "Dragons"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 First impressions of Prophecies Awakening were very good, but I should have guessed from the number of pages in it, that it wasn't going to be what I expected.

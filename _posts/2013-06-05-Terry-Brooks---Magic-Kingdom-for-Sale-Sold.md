@@ -13,6 +13,10 @@ goodreads_id: 15547
 
 categories: ["Fantasy"]
 tags: ["Fantasy"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 I must say that this was so much fun to read. The whole story is full with lighthearted humor and likeable characters. It's not the grand fantasy that I usually read, but it just sucks you right in. I mean, a talking dog as a scribe? This is the kind of world I want to live in!

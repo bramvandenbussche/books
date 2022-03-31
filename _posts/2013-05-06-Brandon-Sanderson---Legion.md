@@ -13,6 +13,10 @@ goodreads_id: 13452375
 
 categories: ["Fantasy"]
 tags: ["Fantasy", "Mystery", "Short Story"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 Wow, that went by in a breeze, granted, it's a very short book, but still, it rushed by.

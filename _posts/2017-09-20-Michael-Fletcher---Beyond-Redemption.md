@@ -14,6 +14,10 @@ goodreads_id: 23287202
 
 categories: ["Fantasy"]
 tags: ["Dark", "Fantasy"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 Wow. Just… Wow. This book is a gem in the genre. [Michael R. Fletcher](), you just got yourself a new fan.

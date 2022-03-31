@@ -14,6 +14,10 @@ goodreads_id: 32573186
 
 categories: ["Fantasy"]
 tags: ["Fantasy", "Dragons"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 Wow. What a rush.

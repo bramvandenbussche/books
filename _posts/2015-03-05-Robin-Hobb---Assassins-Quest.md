@@ -14,6 +14,10 @@ goodreads_id: 33396914
 
 categories: ["Fantasy"]
 tags: ["Fantasy"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 I’m going to keep it short, to make my point. This book is way to long. It only got interesting in the final few chapters, and even then it felt half-assed.

@@ -14,6 +14,10 @@ goodreads_id: 2442
 
 categories: ["Fantasy"]
 tags: ["Satire", "Fantasy"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 Witches Abroad is exactly like I expected. Great fun.

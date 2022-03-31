@@ -13,6 +13,10 @@ goodreads_id: 400906
 
 categories: ["Fantasy"]
 tags: ["Fantasy", "Dark", "Epic"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 What did I think? Well, I liked it, but I wasn't really into it and so I don't feel compelled to read any other of the dozen-or-so black company books that are published.

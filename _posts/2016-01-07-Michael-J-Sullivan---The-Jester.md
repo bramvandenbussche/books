@@ -13,6 +13,10 @@ goodreads_id: 20611669
 
 categories: ["Fantasy"]
 tags: ["Fantasy", "Short Story", "Humor"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 This is a VERY short story, but it still made me laught out loud. Hadrian and Royce might be the best fictional duo I've read so far. Love these guys.

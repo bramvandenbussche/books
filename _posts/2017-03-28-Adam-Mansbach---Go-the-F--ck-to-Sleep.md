@@ -13,6 +13,10 @@ goodreads_id: 12028642
 
 categories: ["Humor"]
 tags: ["Short Story", "Humor", "Children's Book"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 As a parent of 5 kids, of which 3 are younger than 5, I can relate to this so very badly. Made me laugh out loud. 5 Stars.

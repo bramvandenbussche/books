@@ -13,6 +13,10 @@ goodreads_id: 13578175
 
 categories: ["Fantasy"]
 tags: ["Fantasy"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 I loved this. It's set in the world of [Elantris](2013-05-05-Brandon-Sanderson---Elantris.md) (according to the cover) but other than 1 or 2 vague references to some countries from [Elantris](2013-05-05-Brandon-Sanderson---Elantris.md) there is nothing to tie the two together.

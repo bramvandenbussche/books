@@ -13,6 +13,10 @@ goodreads_id: 12705083
 
 categories: ["Fantasy"]
 tags: ["Fantasy"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 Hmmm, it always bugs me when I finish a book and have to write a review and I have no idea what to say. What did I think of the book? This only happens with books that are in somewhere between "Amazing Awesome and more" and "Oh my God this is utter shit".

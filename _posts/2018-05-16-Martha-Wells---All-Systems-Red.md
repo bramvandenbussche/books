@@ -14,6 +14,10 @@ goodreads_id: 32758901
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction", "Humor", "Short Story", "AI"]
+
+# Affiliates
+amazon_nl: https://amzn.to/3NBR5lg
+audible: https://amzn.to/3qQMke7
 ---
 
 On the surface, this is a great little sci-fi novel about an AI-driven construct (half bot / half organic) working on a foreign planet, supporting a team of humans that are in over their heads.

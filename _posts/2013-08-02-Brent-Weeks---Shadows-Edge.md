@@ -16,6 +16,10 @@ goodreads_id: 3754016
 
 categories: ["Fantasy"]
 tags: ["Fantasy"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 // TODO: Write Review

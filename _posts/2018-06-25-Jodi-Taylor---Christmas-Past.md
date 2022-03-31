@@ -14,6 +14,10 @@ goodreads_id: 36103416
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction", "Humor", "Time Travel", "Short Story"]
+
+# Affiliates
+amazon_nl: https://amzn.to/3NzTpcH
+audible: https://amzn.to/375tSHl
 ---
 
 Another delightful little short story from the St. Mary’s nutcases. This time with a wonderful Christmas feel-good atmosphere and some much needed mother/son bonding time to boot.

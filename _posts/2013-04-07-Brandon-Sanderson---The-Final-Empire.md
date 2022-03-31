@@ -12,7 +12,11 @@ published: 2006
 goodreads_id: 4264472482
 
 categories: ["Fantasy"]
-tags: ["Fantasy", "Epic"]
+tags: ["Fantasy", "Epic", "Magic"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 "Wow" pretty much sums this up for me. After about 50 pages or so, I couldn't put it back down again (and was annoyed whenever I 'had' to)

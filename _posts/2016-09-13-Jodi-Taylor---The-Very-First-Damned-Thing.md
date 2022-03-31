@@ -14,6 +14,10 @@ goodreads_id: 26308468
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction", "Humor", "Time Travel", "Short Story"]
+
+# Affiliates
+amazon_nl: https://amzn.to/36FvCYi
+audible: https://amzn.to/36Ig8mc
 ---
 
 This is another short story in the St. Mary’s Chronicles. Chronologically it’s the first in the series, but I would not recommend to start here.

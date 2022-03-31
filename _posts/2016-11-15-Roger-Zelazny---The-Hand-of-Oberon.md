@@ -13,6 +13,10 @@ goodreads_id: 116982
 
 categories: ["Fantasy"]
 tags: ["Fantasy", "Mystery"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 [The Hand of Oberon]() very much picks up the pace where [Sign of the Unicorn](2016-11-12-Roger-Zelazny---Sign-of-the-Unicorn.md) left off and marches on at brakeneck speed. A lot of things happen and the plot hurls forward, to finally end with an epic showdown and spectacular revelation.

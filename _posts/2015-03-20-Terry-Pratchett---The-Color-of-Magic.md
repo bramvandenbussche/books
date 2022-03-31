@@ -14,6 +14,10 @@ goodreads_id: 34497
 
 categories: ["Fantasy"]
 tags: ["Satire", "Fantasy"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 Well this was a fun ride. An absurd story, with absurd characters doing absurd things in an absurd world, written with flair. I agree that this is not for everyone, but man did I enjoy myself.

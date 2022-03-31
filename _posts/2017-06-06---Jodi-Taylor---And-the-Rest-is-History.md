@@ -13,6 +13,10 @@ goodreads_id: And the Rest Is History
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction", "Humor", "Time Travel"]
+
+# Affiliates
+amazon_nl: https://amzn.to/3uCbKx2
+audible: https://amzn.to/3LwK1EN
 ---
 
 I think this book nearly killed me. Reading it felt like one of those massive rollercoaster rides, where you're slowly dragged to the top, enjoying the view and the butterflies in your belly, before you're plunged headlong into a freefall that leaves you empty and drained.

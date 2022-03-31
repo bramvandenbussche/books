@@ -13,6 +13,10 @@ goodreads_id: 24455381
 
 categories: ["Fantasy"]
 tags: ["Fantasy", "Short Story"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 // TODO: Write review

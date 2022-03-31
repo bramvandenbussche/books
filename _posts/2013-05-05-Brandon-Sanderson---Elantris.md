@@ -13,6 +13,10 @@ goodreads_id: 68427
 
 categories: ["Fantasy"]
 tags: ["Fantasy"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 I think that if I would have read [Elantris]() prior to reading the [Mistborn Trilogy](../_series/mistborn.md) then I would have probably given this 5 stars. Don't get me wrong though, Elantris was really good. It was fast paced, had constant tension, superb characters and story arcs. There is a lot of plot twisting and the different characters were constantly pulling on my emotions. The only _quip_ that I have is that it just isn't on the same level of **'epicness'** as [Mistborn](../_series/mistborn.md).

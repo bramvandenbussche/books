@@ -13,6 +13,10 @@ goodreads_id: 29588376
 
 categories: ["Fantasy"]
 tags: ["Fantasy", "Humor"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 I absolutely *loved* this book, and now I feel bad because I put of reading it for so long, just because I didn't really like the cover... shame on me!

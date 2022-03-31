@@ -14,6 +14,10 @@ goodreads_id: 35519109
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction", "Humor", "Short Story", "AI"]
+
+# Affiliates
+amazon_nl: https://amzn.to/3wTRcTn
+audible: https://amzn.to/3uMQuEM
 ---
 
 The perfect ending to this mini-series.

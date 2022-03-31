@@ -13,6 +13,10 @@ goodreads_id: 26160162
 
 categories: ["Fantasy"]
 tags: ["Fantasy"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 I'm not entirely sure wether or not I liked The Malice. Let's see if writing a review will clear that up for me ?

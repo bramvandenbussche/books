@@ -14,6 +14,10 @@ goodreads_id: 30841984
 
 categories: ["Fantasy"]
 tags: ["Fantasy", "Humor"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 This book was a rollercoaster of emotions from start to finish. I haven’t laughed so hard in a while.

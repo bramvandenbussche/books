@@ -12,7 +12,11 @@ published: 2010
 goodreads_id: 7235533
 
 categories: ["Fantasy"]
-tags: ["Fantasy", "Epic"]
+tags: ["Fantasy", "Epic", "Magic"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 [The Way of Kings]() _should_ come with a **warning label**.

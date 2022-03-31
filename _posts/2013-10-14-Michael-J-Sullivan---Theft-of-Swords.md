@@ -12,7 +12,11 @@ published: 2011
 goodreads_id: 10790290
 
 categories: ["Fantasy"]
-tags: ["Fantasy"]
+tags: ["Fantasy", "Adventure"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 ## The Crown Conspiracy (Theft of Swords I)

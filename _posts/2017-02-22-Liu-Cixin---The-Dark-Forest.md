@@ -14,6 +14,10 @@ goodreads_id: 23168817
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction", "Epic"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 Oh God, how do I review this?

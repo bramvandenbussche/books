@@ -14,6 +14,10 @@ goodreads_id: 34529
 
 categories: ["Fantasy"]
 tags: ["Fantasy", "Satire"]
+
+# Affiliates
+amazon_nl: https://amzn.to/3NvGet8
+audible: https://amzn.to/3K0cJxp
 ---
 
 The Witches of Lancre are arguably among the best characters in the [Discworld](../_series/discworld.md) universe. Granny Weatherwax and Nanny Ogg are extremely memorable and their no-nonsense approach to everything brings plenty of laughs on every page.

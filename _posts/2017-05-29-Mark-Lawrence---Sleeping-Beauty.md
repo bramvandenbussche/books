@@ -14,6 +14,10 @@ goodreads_id: 18132196
 
 categories: ["Fantasy"]
 tags: ["Dark", "Fantasy", "Short Story"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 Getting back into the Broken Empire universe and getting reacquainted with Jorg feels like coming home to old friends. His witty, short-fused temper and his snarky inner voice are easily recognizable.

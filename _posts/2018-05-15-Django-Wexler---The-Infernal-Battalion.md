@@ -14,6 +14,10 @@ goodreads_id: 25845205
 
 categories: ["Fantasy"]
 tags: ["Fantasy", "Military", "Flintlock"]
+
+# Affiliates
+amazon_nl: https://amzn.to/3NvFYdE
+audible: 
 ---
 
 [Infernal Battalion]() concludes the excellent 5-part flintlock series, [The Shadow Campaigns](../_series/shadow-campaigns.md). But is it the epic conclusion we have been waiting for ? It sure tries...

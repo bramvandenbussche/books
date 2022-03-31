@@ -13,6 +13,10 @@ goodreads_id: 2890090
 
 categories: ["Fantasy"]
 tags: ["Fantasy"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 The Republic of Thieves opens strong, with a good ploy to kick things into gear.

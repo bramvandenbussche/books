@@ -14,6 +14,10 @@ goodreads_id: 47990
 
 categories: ["Fantasy"]
 tags: ["Satire", "Fantasy"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 The sudden appearance of the lost island of Lesh triggers diplomatic tensions between the Ankh Morporkians and their neighbours from Klatsch and when diplomacy seems to fail spectacularly, the time has come to go to war.

@@ -13,6 +13,10 @@ goodreads_id: 28257707
 
 categories: ["Non Fiction"]
 tags: ["Non Fiction", "Self Help"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 Like, apparently, most readers, I'm not one for self-help books, but, again like most readers, I was curious about the title.

@@ -13,6 +13,10 @@ goodreads_id: 33953603
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction", "Mystery"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 Well that was a good read. There was a very cool premise, but not taken too far to feel alien.

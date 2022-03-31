@@ -13,6 +13,10 @@ goodreads_id: 1268479
 
 categories: ["Fantasy"]
 tags: ["Fantasy", "Epic"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 I find it hard to collect my thoughts on [Warbreaker](). Which I find odd for a Sanderson book.

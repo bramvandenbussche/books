@@ -14,6 +14,10 @@ goodreads_id: 29661618
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction", "Humor", "Time Travel"]
+
+# Affiliates
+amazon_nl: https://amzn.to/3qQ7Lvy
+audible: https://amzn.to/3NzSJnz
 ---
 
 I think I’ve found a new addiction.. This just has it all. Great writing, strong female protagonist, surprising plot twists, great use of time travel and all coated in a gooey layer of fun. Well, that and tea;

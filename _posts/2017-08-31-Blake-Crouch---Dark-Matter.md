@@ -14,6 +14,10 @@ goodreads_id: 27833670
 
 categories: ["Thriller"]
 tags: ["Thriller"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 Although there are some sci-fi elements to the plot, I would classify it foremost as a thriller, which is a rather unknown genre for me, but that said, it was great fun!

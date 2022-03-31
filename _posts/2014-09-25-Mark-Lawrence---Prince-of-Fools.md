@@ -13,6 +13,10 @@ goodreads_id: 22852698
 
 categories: ["Fantasy"]
 tags: ["Fantasy"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 Something **must** be wrong with me.. This book comes so highly recommended, has so many praising reviews and a great score, and yet, I didn't like it. To be honest, I didn't like [Prince of Thorns](2013-04-26-Mark-Lawrence---Prince-of-Thorns.md) either, so maybe it's related.

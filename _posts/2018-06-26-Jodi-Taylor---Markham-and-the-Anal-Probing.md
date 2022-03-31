@@ -13,6 +13,10 @@ goodreads_id: 35176846
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction", "Humor", "Time Travel", "Short Story"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 Very, very short story, with Max, Peterson and Markham, but even in that short a timespan, they manage to entertain.

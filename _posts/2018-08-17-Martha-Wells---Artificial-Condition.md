@@ -1,7 +1,7 @@
 ---
 date: 2018-08-17
 
-title: The Murderbot Diaries
+title: Artificial Condition
 author: Martha Wells
 cover: murderbot-2-artificial-condition.jpg
 
@@ -14,6 +14,10 @@ goodreads_id: 36223860
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction", "Humor", "Short Story", "AI"]
+
+# Affiliates
+amazon_nl: https://amzn.to/3qR2PGK
+audible: https://amzn.to/36HT8DT
 ---
 
 In this follow-up to [All Systems Red](2018-05-16-Martha-Wells---All-Systems-Red.md) we continue our journey with the nameless rogue Murderbot as it returns to where it all began, in search of answers to its (literal) character-defining moment.

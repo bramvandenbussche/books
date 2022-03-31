@@ -13,6 +13,10 @@ goodreads_id: 30221887
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction", "Short Story", "Philosophical", "AI"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 Short story about the meanderings of the last machine in the solar system, billions of years after mankind called it quits. This is more of a philosophical exercise in a sci-fi setting than a novel.

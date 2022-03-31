@@ -14,6 +14,10 @@ goodreads_id: 25877103
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction", "Humor", "Time Travel"]
+
+# Affiliates
+amazon_nl: https://amzn.to/3Lx44Da
+audible: https://amzn.to/3Duhmxj
 ---
 
 Really enjoyed this one. Plenty of hurtling around space, attracting disaster wherever they land. Loads of self-deprecating humor and witty puns. A ton of emotions being thrown around. I love this series.

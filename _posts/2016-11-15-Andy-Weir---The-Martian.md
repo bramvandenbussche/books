@@ -14,6 +14,10 @@ goodreads_id: 18007564
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction", "Humor"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 What would you do if you went to Mars, the mission of a lifetime, and then you end up stranded there, because your collegues left without you? Well, it’s exactly what happened to astronaut Mark Watney. What exactly does that do to a man’s mind ? This book is a trip down that rabbithole.

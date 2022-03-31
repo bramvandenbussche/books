@@ -14,6 +14,10 @@ goodreads_id: 26114545
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction", "Philosophical"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 Buddy read with the ever supporting [Seán](https://www.goodreads.com/user/show/13649278-se-n).

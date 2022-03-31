@@ -13,6 +13,10 @@ goodreads_id: 20501606
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction", "Humor", "Action"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 David Wong gets of to a strong start with the opening scenes, after that things settle down a bit for some exposé, after which the action picks up again, only to be followed by more exposé. Rince, repeat. That's not to say I didn't like it. The action was generous and completely over the top. The exposé pieces, disguised as long monologues were bearable, among others due to the injected witty comments of clueless Zoey. I really liked listening to this book. The plot twists are not really unexpected but they're fun nonetheless and the whole story feels like a rollercoaster ride.

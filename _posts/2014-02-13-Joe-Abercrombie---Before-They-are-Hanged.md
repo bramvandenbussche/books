@@ -12,6 +12,10 @@ goodreads_id: 902715
 
 categories: ["Fantasy"]
 tags: ["Dark", "Fantasy"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 // TODO: Write review

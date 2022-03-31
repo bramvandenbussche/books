@@ -14,6 +14,10 @@ goodreads_id: 35519101
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction", "Humor", "Short Story", "AI"]
+
+# Affiliates
+amazon_nl: https://amzn.to/3tTlns4
+audible: https://amzn.to/3tVxkNL
 ---
 
 It’s official, I LOVE Murderbot.

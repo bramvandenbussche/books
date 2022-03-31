@@ -14,6 +14,10 @@ goodreads_id: 12499290
 
 categories: ["Fantasy"]
 tags: ["Fantasy"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 It's been a week since I finished this, and still I find it hard to form a proper opinion about it. Being torn about a book is never a good sign though.

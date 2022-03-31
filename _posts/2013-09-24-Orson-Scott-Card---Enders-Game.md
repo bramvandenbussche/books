@@ -13,6 +13,10 @@ goodreads_id: 375802
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction", "Young Adult"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 Allright, there go all my prejudices on Science Fiction, straight through the window! I'm glad I finally decided to pick this up and take the risk.

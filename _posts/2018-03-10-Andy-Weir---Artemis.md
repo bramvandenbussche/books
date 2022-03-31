@@ -14,6 +14,10 @@ goodreads_id: 34928122
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 Artemis is the long-awaited second novel from the author that brought us the outstanding novel-turned-movie, [The Martian](2016-11-15-Andy-Weir---The-Martian.md). Now the question remains, did Artemis live up to the expectations set by its predecessor, or is Andy Weir a one trick pony ?

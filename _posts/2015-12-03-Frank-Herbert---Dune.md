@@ -13,6 +13,10 @@ goodreads_id: 234225
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction", "Epic", "Space Opera"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 // TODO: Write review

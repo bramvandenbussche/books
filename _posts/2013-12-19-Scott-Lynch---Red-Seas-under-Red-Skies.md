@@ -13,6 +13,10 @@ goodreads_id: 40604556
 
 categories: ["Fantasy"]
 tags: ["Fantasy"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 Overall, I really liked [Red Seas Under Red Skies]().

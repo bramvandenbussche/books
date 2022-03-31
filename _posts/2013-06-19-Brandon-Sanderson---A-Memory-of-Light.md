@@ -13,7 +13,11 @@ published: 2013
 goodreads_id: 7743175
 
 categories: ["Fantasy"]
-tags: ["Fantasy"]
+tags: ["Fantasy", "Epic", "Magic"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 ## Prologue

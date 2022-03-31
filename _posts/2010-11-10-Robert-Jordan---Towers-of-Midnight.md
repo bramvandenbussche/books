@@ -14,6 +14,10 @@ goodreads_id: 10371118
 
 categories: ["Fantasy"]
 tags: ["Fantasy", "Epic", "Magic"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 // TODO: Write review

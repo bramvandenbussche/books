@@ -13,6 +13,10 @@ goodreads_id: 18667112
 
 categories: ["Fantasy"]
 tags: ["Fantasy", "Dragons"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 - Plot: 3 stars

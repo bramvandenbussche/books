@@ -14,6 +14,10 @@ goodreads_id: 34507
 
 categories: ["Fantasy"]
 tags: ["Satire", "Fantasy"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 I really enjoyed Equal Rites. The same Terry Pratchett humor is still there, but it’s not as difficult to follow as the colour of magic. His humor makes more sense and the political and social satirical undercurrent adds to it.

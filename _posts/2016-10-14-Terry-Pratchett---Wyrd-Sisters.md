@@ -14,6 +14,10 @@ goodreads_id: 34504
 
 categories: ["Fantasy"]
 tags: ["Satire", "Fantasy"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 What to say ? Well, it’s a Discworld novel. That should give you a pretty good idea on what to expect. Once again it’s a delight to read (or listen to, in my case) with many, MANY clever quips and personafied items & metaphors. Granny Weatherwax was once again superb, and Nanny Og gave me many a laugh.

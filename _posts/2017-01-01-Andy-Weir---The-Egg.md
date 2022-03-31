@@ -13,6 +13,10 @@ goodreads_id: 17563539
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction", "Short Story"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 A short story about the universe and your place in it.

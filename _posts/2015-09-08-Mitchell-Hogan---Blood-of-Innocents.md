@@ -13,6 +13,10 @@ goodreads_id: 18658407
 
 categories: ["Fantasy"]
 tags: ["Fantasy"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 Overal I liked Blood of Innocents. It has a good story and the pacing is quite allright. It wasn't an amazing experience for me, but I can imagine that it is, for other people. I can see the potential, but for me, there were a few things that kept bugging me throughout the entire book and those kept me from really becoming immersed in the story (like what [Sanderson](../_authors/brandon-sanderson.md) books do for me).

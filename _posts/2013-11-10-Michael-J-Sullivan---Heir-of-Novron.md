@@ -12,7 +12,11 @@ published: 2012
 goodreads_id: 11100431
 
 categories: ["Fantasy"]
-tags: ["Fantasy"]
+tags: ["Fantasy", "Adventure"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 ## Part V: Wintertide

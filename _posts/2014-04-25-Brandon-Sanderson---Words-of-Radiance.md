@@ -12,7 +12,11 @@ published: 2014
 goodreads_id: 11543195
 
 categories: ["Fantasy"]
-tags: ["Fantasy", "Epic"]
+tags: ["Fantasy", "Epic", "Magic"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 [Words of Radiance]() was everything I hoped it would be, and more. I was hoping for a long, elaborate sequel to The Way of Kings that continued on the masterfully crafted world-building with the same characters that I came to love in the first place.

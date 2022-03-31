@@ -13,6 +13,10 @@ goodreads_id: 17404703
 
 categories: ["Fantasy"]
 tags: ["Fantasy", "Young Adult"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 I think "_meh_" pretty much sums it up. It's hard to write something because this book simply doesn't evoke any feelings in me other than boredom and frustration (at the writing).

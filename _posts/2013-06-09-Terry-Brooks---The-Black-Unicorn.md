@@ -13,6 +13,10 @@ goodreads_id: 92845
 
 categories: ["Fantasy"]
 tags: ["Fantasy"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 I really was hoping that I would like this series. It started off so promising in the first book, but this just dissapoints.

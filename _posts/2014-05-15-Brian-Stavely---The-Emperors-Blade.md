@@ -13,6 +13,10 @@ goodreads_id: 18525099
 
 categories: ["Fantasy"]
 tags: ["Fantasy", "Epic"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 I don't get how this book manages to get a 4.2 star average on Goodreads. It makes me feel like I must have missed something crucial, something colossal, something so amazing that makes this book shine and stand out from the crowd. The main reason I even picked it up was because of the Goodreads 4+ stars rating, that, and the pretty cover.

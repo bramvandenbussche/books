@@ -14,6 +14,10 @@ goodreads_id: 25845201
 
 categories: ["Fantasy"]
 tags: ["Military", "Fantasy", "Flintlock"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 Non stop thrilling ride from start to finish. Great, loveable characters and detailed military encounters build this book and the overarching, epic, storyline finishes it off.

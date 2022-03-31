@@ -13,6 +13,10 @@ goodreads_id: 18666047
 
 categories: ["Fantasy"]
 tags: ["Fantasy", "Dark"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 Having read [The First Law Trilogy](../_series/first-law.md) and [Best Served Cold](2014-03-11-Joe-Abercrombie---Best-Served-Cold.md) I had certain expectations for this book. I was looking forward to reading more grim fantasy about flawed characters in a complex and intriguing storyline.

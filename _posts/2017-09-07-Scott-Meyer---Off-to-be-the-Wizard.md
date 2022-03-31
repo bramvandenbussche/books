@@ -14,6 +14,10 @@ goodreads_id: 18616975
 
 categories: ["Fantasy"]
 tags: ["Humor", "Fantasy"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 Light-hearted take on a variation of the matrix concept and the real world implications. The writing is quite good and the humor is cheap and easy but fun nonetheless. The audiobook really brought the presentation home with different voices for the main cast and a great flair for the dramatic, which this novel really needed.

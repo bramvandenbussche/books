@@ -14,6 +14,10 @@ goodreads_id: 3227063
 
 categories: ["Fantasy"]
 tags: ["Fantasy"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 Hmmm, what _do_ I think? I think the story was really good, I think that Brent Weeks has some really sold storytelling / writing skills. However, something felt seriously lacking for me; I couldn't quite put my finger on it until I read [this review](http://www.goodreads.com/review/show/310693394).

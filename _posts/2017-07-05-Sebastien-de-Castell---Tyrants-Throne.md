@@ -13,6 +13,10 @@ goodreads_id: 30317594
 
 categories: ["Fantasy"]
 tags: ["Fantasy"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 Reading through the top reviews, I get the distinct feeling that I must have been reading a different book.

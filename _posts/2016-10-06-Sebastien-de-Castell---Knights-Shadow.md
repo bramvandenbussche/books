@@ -13,6 +13,10 @@ goodreads_id: 23547364
 
 categories: ["Fantasy"]
 tags: ["Fantasy"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 This is about the same kind of book as [Traitor's Blade](2016-09-24-Sebastien-de-Castell---Traitors-Blade.md) but with less fairy tale elements and tropes, and because of that, I liked it better than [Traitor's Blade](2016-09-24-Sebastien-de-Castell---Traitors-Blade.md).

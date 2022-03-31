@@ -12,7 +12,11 @@ published: 2011
 goodreads_id: 10790277
 
 categories: ["Fantasy"]
-tags: ["Fantasy"]
+tags: ["Fantasy", "Adventure"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 ## Part III: Nyphron Rising & Part IV: The Emerald Storm

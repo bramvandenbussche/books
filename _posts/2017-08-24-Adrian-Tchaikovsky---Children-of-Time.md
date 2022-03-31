@@ -13,6 +13,10 @@ goodreads_id: 25499718
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction", "Epic"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 I'm so glad that I finally got around to reading this. I was waiting for the audiobook to start, and I have to admit that it was worth the wait. The audiobook execution was on point and a real treat to listen too.

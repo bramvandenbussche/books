@@ -14,6 +14,10 @@ goodreads_id: 27857650
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction", "Humor", "Time Travel", "Short Story"]
+
+# Affiliates
+amazon_nl: https://amzn.to/3DtymDN
+audible: https://amzn.to/3wXOYCv
 ---
 
 Markham always knows how to make me laugh.

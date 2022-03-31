@@ -13,6 +13,10 @@ goodreads_id: 9826591
 
 categories: ["Fantasy"]
 tags: ["Fantasy", "Epic", "Dragons"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 Overall I was disappointed with this book. I had picked it up after reading some reviews about how "great" the series is supposed to be, and how lovely the first book was.

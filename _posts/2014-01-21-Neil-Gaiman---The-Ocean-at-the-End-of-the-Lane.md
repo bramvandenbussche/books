@@ -13,6 +13,10 @@ goodreads_id: 15783514
 
 categories: ["Fantasy"]
 tags: ["Fantasy"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 I'm impressed with this book, very impressed.

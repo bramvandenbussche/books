@@ -14,6 +14,10 @@ goodreads_id: 29868610
 
 categories: ["Biography"]
 tags: ["Autobiography", "Humor"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 It’s an (auto)-biography, not my usual hunting grounds, but not my first either. I’m unsure of what criteria I should use to determine how much I liked it, so I’m just going to pull some out of a hat.

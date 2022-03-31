@@ -13,6 +13,10 @@ goodreads_id: 34372718
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction", "Humor", "Time Travel", "Short Story"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 Follow the disaster magnets of St Mary's as they hurtle around history! The ninth book in The Chronicles of St Mary's Series collects the bestselling short stories in print for the first time.

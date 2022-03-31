@@ -13,6 +13,10 @@ goodreads_id: 23705512
 
 categories: ["Biography"]
 tags: ["Biography", "Humor", "Non Fiction"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 // TODO: Write review

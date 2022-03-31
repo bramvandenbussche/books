@@ -14,6 +14,10 @@ goodreads_id: 77197
 
 categories: ["Fantasy"]
 tags: ["Fantasy"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 Assassin’s apprentice has a very good story, a nice set of likeable characters and I greatly enjoyed reading it.

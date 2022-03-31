@@ -13,6 +13,10 @@ goodreads_id: 22733729
 
 categories: ["Fantasy"]
 tags: ["Science Fiction", "AI"]
+
+# Affiliates
+amazon_nl: https://amzn.to/3qTrTwV
+audible: https://amzn.to/36DnebO
 ---
 
 Appearently, it's really hard for me to form a proper opinion on [The Long Way to a Small, Angry Planet](). I have so any different thoughts that I can't seem to be able to boil it down to a rating.

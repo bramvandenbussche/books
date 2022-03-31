@@ -14,6 +14,10 @@ goodreads_id: 25634043
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction", "Humor", "Time Travel"]
+
+# Affiliates
+amazon_nl: https://amzn.to/3LAkniB
+audible: https://amzn.to/3uMc5x1
 ---
 
 The title of this book is so representative for the entire series. I lost count of how many times this book made me laugh out loud.

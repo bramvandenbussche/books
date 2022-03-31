@@ -13,6 +13,10 @@ goodreads_id: 59029788
 
 categories: ["Fantasy"]
 tags: ["Fantasy"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 Will write a longer review when I've got some more time, for now suffice it to say that it's very good, but just fell short of amazing me.

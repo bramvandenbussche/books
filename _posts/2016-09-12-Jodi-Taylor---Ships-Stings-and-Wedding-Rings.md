@@ -16,6 +16,10 @@ goodreads_id: 26113116
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction", "Humor", "Time Travel", "Short Story"]
+
+# Affiliates
+amazon_nl: https://amzn.to/3qSZ2c3
+audible: https://amzn.to/3Kdbtr7
 ---
 
 // TODO: write review

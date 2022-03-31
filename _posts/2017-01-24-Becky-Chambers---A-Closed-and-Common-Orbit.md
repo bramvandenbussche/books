@@ -13,6 +13,10 @@ goodreads_id: 29475447
 
 categories: ["Fantasy"]
 tags: ["Science Fiction", "AI"]
+
+# Affiliates
+amazon_nl: https://amzn.to/3NByw0E
+audible: https://amzn.to/3LxjRle
 ---
 
 I wasn't sold the execution of [The Long Way to a Small, Angry Planet](2017-01-16-Becky-Chambers---The-Long-Way-to-a-Small-Angry-Planet.md), but I decided to give [A Closed and Common Orbit]() a chance. I was curious if an open plot point would be concluded. I now wish that I hadn't.

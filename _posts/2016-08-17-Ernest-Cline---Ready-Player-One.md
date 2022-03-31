@@ -15,6 +15,10 @@ goodreads_id: 9969571
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction", "Young Adult", "Dystopian"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 I immensely enjoyed Ready Player One. It's fast and sharp with plenty of humor to go around.

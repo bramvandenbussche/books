@@ -14,6 +14,10 @@ goodreads_id: 29982939
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction", "Humor", "Time Travel", "Short Story"]
+
+# Affiliates
+amazon_nl: https://amzn.to/3qTUAKl
+audible: https://amzn.to/3DqKW6M
 ---
 
 This had me laughing out loud so often that I lost count (which is saying something if the book only has 55 pages). Of all the short stories, this is definitely my favorite.

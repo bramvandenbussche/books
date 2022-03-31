@@ -13,6 +13,10 @@ goodreads_id: 17163514
 
 categories: ["Fantasy"]
 tags: ["Fantasy", "Short Story", "Humor"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 So much fun to reconnect with Hadrian & Royce again. Strong story, not very long, but with some interesting lines that tie into the main story. Very good read.

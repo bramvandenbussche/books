@@ -14,6 +14,10 @@ goodreads_id: 25877074
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction", "Humor", "Time Travel"]
+
+# Affiliates
+amazon_nl: https://amzn.to/36DmJhT
+audible: https://amzn.to/3NEQ1xh
 ---
 
 <!--more-->

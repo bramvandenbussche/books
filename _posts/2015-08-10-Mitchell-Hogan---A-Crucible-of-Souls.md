@@ -13,6 +13,10 @@ goodreads_id: 18241129
 
 categories: ["Fantasy"]
 tags: ["Fantasy"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 Good start of an epic fantasy, albeit a bit slow at times. The story was nice but lacks a proper climax as I would expect for the start of a series. Nevertheless I'm intrigued enough to immediately dive into [Blood of Innocence](2015-09-08-Mitchell-Hogan---Blood-of-Innocents.md).

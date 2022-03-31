@@ -13,6 +13,10 @@ goodreads_id: 944076
 
 categories: ["Fantasy"]
 tags: ["Fantasy", "Dark"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 I've tried to gather my thoughts on [The Blade Itself](2014-02-03-Joe-Abercrombie---The-Blade-Itself.md) and [Before They Are Hanged](2014-02-13-Joe-Abercrombie---Before-They-are-Hanged.md) in order to write a review for them, and found that I simply didn't have much to say. Now that I've finished the trilogy I kind of have too ;)

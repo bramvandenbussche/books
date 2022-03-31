@@ -14,6 +14,10 @@ goodreads_id: 25300956
 
 categories: ["Fantasy"]
 tags: ["Fantasy"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 Royal Assassin was a bit better than the first one, although I feel that the book was overly long at times and the ending, albeit quite good, felt a bit rushed. There’s like this huge build-up of tension between Fitz and Regal and somehow the ending just didn’t live up to it.

@@ -13,6 +13,10 @@ goodreads_id: 140671
 
 categories: ["Fantasy"]
 tags: ["Fantasy", "Dark", "Epic"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 I just don't know what to make of this. Did I like it? Not particulary (I think?) Did I dislike it? Not particulary (I think?). I'm trying to find an angle to describe my feelings on this by reading other reviews and I find myself agreeing with all of them, be it 1-star reviews, 3-star or 5-star reviews. How the heck am I to rate it then?

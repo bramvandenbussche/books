@@ -13,6 +13,10 @@ goodreads_id: 92121
 
 categories: ["Fantasy"]
 tags: ["Fantasy", "Mystery"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 Re-reading this after more than 15 years since my last read-through. Doing so with stories you loved is always a dangerous undertaking as this could turn out ruining those glorious, nostalgic, memories you've carried with you all this time.

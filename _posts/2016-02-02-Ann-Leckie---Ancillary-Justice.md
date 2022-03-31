@@ -13,6 +13,10 @@ goodreads_id: 17333324
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction", "Fantasy", "AI", "Epic"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 My God, this was good. The first half is hard to follow and confusing, with lots of jumping back and forth. This is deliberately so, and in light of the entire experience, it can be forgiven.

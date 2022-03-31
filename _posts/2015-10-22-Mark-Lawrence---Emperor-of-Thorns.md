@@ -14,6 +14,10 @@ goodreads_id: 15985373
 
 categories: ["Fantasy"]
 tags: ["Fantasy", "Dark"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 Wow, what a ride that was. The Broken Empire Trilogy was much better than I anticipated.

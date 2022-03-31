@@ -15,6 +15,10 @@ goodreads_id: 7967
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 [Speaker for the Dead]({{ page.url }}) is **so different** from [Ender's Game]({% post_url 2013-09-24-Orson-Scott-Card---Enders-Game %}) and it was something I wasn't prepared for.

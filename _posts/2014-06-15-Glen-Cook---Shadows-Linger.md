@@ -13,6 +13,10 @@ goodreads_id: 400881
 
 categories: ["Fantasy"]
 tags: ["Fantasy", "Dark", "Epic"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 Shadows Linger puts an even bigger strain on the readers moral compass than it's predecessor, and that's saying something.

@@ -14,6 +14,10 @@ goodreads_id: 36130625
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction", "Humor", "Superheroes"]
+
+# Affiliates
+amazon_nl: 
+audible: https://amzn.to/3K2LBhl
 ---
 
 This was recommended to me by a friend/collegue and I listened to the audiobook on the way to and back from a 3 day trip to a theme park. It’s not exactly what you’d call ‘high literature’, but it was perfect to pass away the boring hours spent on Europe’s highways.

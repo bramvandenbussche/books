@@ -13,6 +13,10 @@ goodreads_id: 30337428
 
 categories: ["Fantasy"]
 tags: ["Fantasy"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 Fun, emotion and action with 2 of my favorite side characters. Recipe for succes!

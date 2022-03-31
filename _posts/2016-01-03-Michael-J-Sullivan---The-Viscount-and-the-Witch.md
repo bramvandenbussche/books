@@ -13,6 +13,10 @@ goodreads_id: 12746970
 
 categories: ["Fantasy"]
 tags: ["Fantasy", "Short Story", "Humor"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 Read as part of [The Rose and Thorn](2016-01-06-Michael-J-Sullivan---The-Rose-and-the-Thorn.md);

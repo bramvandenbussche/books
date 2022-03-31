@@ -14,6 +14,10 @@ goodreads_id: 39871658
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction", "Humor", "Time Travel", "Short Story"]
+
+# Affiliates
+amazon_nl: https://amzn.to/3K2K7nh
+audible: https://amzn.to/3uIzgIS
 ---
 
 Hillarious and heart-warming. A perfect little short story featuring our very own, Mr. Markham acting like the matchmaker he is.

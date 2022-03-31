@@ -15,6 +15,10 @@ goodreads_id: 22852698
 
 categories: ["Fantasy"]
 tags: ["Fantasy", "Humor"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 // TODO: write review

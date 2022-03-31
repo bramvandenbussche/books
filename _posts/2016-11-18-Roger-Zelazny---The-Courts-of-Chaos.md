@@ -13,6 +13,10 @@ goodreads_id: 359581
 
 categories: ["Fantasy"]
 tags: ["Fantasy", "Mystery"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 Allright, there we have it, I've finished the [Corwin arc](https://www.goodreads.com/series/49385) of the [Chronicles of Amber](../_series/chronicles-of-amber.md) series.

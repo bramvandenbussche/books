@@ -13,6 +13,10 @@ goodreads_id: 23899193
 
 categories: ["Fantasy"]
 tags: ["Fantasy"]
+
+# Affiliates
+amazon_nl: https://amzn.to/36CzzwV
+audible: https://amzn.to/3Lx4GIY
 ---
 
 I find myself divided on [Saint's Blood]().

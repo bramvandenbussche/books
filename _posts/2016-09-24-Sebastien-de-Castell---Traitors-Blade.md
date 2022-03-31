@@ -13,6 +13,10 @@ goodreads_id: 20887238
 
 categories: ["Fantasy"]
 tags: ["Fantasy", "Adventure"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 I agree fully with what [Peter Tr](https://www.goodreads.com/review/show/1064628242?book_show_action=false) said in his review.

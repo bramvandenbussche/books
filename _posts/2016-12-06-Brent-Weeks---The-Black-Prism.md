@@ -14,6 +14,10 @@ goodreads_id: 7165300
 
 categories: ["Fantasy"]
 tags: ["Fantasy"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 I really thought [Peter Tr](https://www.goodreads.com/user/show/35342421-peter-tr) was exaggerating when [he said](https://www.goodreads.com/review/show/1560117792?book_show_action=false):

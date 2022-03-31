@@ -14,6 +14,10 @@ goodreads_id: 40781962
 
 categories: ["Fantasy"]
 tags: ["Mystery", "Fantasy", "Thriller"]
+
+# Affiliates
+amazon_nl: https://amzn.to/3uJGWdJ
+audible: https://amzn.to/38bbIVb
 ---
 
 // TODO: write review

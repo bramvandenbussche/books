@@ -13,7 +13,11 @@ published: 2007
 goodreads_id: 186074
 
 categories: ["Fantasy"]
-tags: ["Fantasy", "Young Adult"]
+tags: ["Fantasy", "Young Adult", "Magic"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 It’s hard to come up with a scoring for this book, or worse, a review. But I’ll try anyway.

@@ -13,6 +13,10 @@ goodreads_id: 7260188
 
 categories: ["Fantasy"]
 tags: ["Fantasy", "Dystopian", "Young Adult"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 // TODO: Write review

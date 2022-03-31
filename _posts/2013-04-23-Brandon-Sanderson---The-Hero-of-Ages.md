@@ -12,7 +12,11 @@ published: 2008
 goodreads_id: 2767793
 
 categories: ["Fantasy"]
-tags: ["Fantasy"]
+tags: ["Fantasy", "Magic", "Epic"]
+
+# Affiliates
+amazon_nl: 
+audible: 
 ---
 
 I like this book a lot better than the previous one, mostly because it's non-stop action from page 1 whereas the previous one was a bit more of a struggle (one to get throught the first half).

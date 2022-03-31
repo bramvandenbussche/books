@@ -13,6 +13,10 @@ goodreads_id: 36510759
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction", "Thriller"]
+
+# Affiliates
+amazon_nl: https://amzn.to/3tReSWK
+audible: 
 ---
 
 > How do you stage a mutiny when you’re only awake one day in a million?

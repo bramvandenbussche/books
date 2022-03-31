@@ -13,6 +13,10 @@ goodreads_id: 41433189
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction"]
+
+# Affiliates
+amazon_nl: https://amzn.to/3wRILYX
+audible: https://amzn.to/3IVAjdx
 ---
 
 I think I owe this one a little review, given that I've only awarded it 2 stars.

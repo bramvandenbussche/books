@@ -13,6 +13,10 @@ goodreads_id: 39700698
 
 categories: ["Fantasy"]
 tags: ["Fantasy", "LitRPG"]
+
+# Affiliates
+amazon_nl: https://amzn.to/3uFlCWV
+audible: https://amzn.to/3tUt8hl
 ---
 
 I felt that this book meandered on for way to long without a clear direction in sight. It wasn't until the very last chapters that you got a feeling of where this book was heading, and I didn't care for it.

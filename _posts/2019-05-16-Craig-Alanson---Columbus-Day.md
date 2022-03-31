@@ -13,6 +13,10 @@ goodreads_id: 36449535
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction", "Military"]
+
+# Affiliates
+amazon_nl: https://amzn.to/3IUI83c
+audible: https://amzn.to/3qQHXQ7
 ---
 
 // TODO: Write review

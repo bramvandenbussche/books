@@ -13,6 +13,10 @@ goodreads_id: 36645632
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction", "Humor"]
+
+# Affiliates
+amazon_nl: 
+audible: https://amzn.to/3iOWzLl
 ---
 
 More pint-sized over-the-top humor with our favorite insurance agent!

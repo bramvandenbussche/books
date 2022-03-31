@@ -13,6 +13,10 @@ goodreads_id: 29213589
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction", "Humor"]
+
+# Affiliates
+amazon_nl: 
+audible: https://amzn.to/3Lym0gO
 ---
 
 Nothing complicated here, just good old-fashioned fun in an action packed, pint-size audiobook. Listened to this during a long drive and this was just what the doctor ordered.

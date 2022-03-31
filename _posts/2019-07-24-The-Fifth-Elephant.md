@@ -13,6 +13,10 @@ goodreads_id: 63720
 
 categories: ["Fantasy"]
 tags: ["Fantasy", "Satire"]
+
+# Affiliates
+amazon_nl: https://amzn.to/3DoXwDN
+audible: https://amzn.to/3tVyCsl
 ---
 
 I think this is the 7th or 8th Discworld novel I've read, the 5th on the City Watch and I'm still a huge fan.

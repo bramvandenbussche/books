@@ -13,6 +13,10 @@ goodreads_id: 42603230
 
 categories: ["Science Fiction"]
 tags: ["Science Fiction", "Epic"]
+
+# Affiliates
+amazon_nl: https://amzn.to/3DooPhw
+audible: https://amzn.to/3DodBJX
 ---
 
 this. THIS. This is what great, classic sci-fi is about. Eons spanning evolution and conflict, finding understanding in an ever changing universe.

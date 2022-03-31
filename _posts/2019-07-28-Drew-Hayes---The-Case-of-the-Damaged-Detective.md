@@ -13,6 +13,10 @@ goodreads_id: 46253321
 
 categories: ["Mystery"]
 tags: ["Humor", "Mystery"]
+
+# Affiliates
+amazon_nl: https://amzn.to/370SBws
+audible: https://amzn.to/3tU9Kky
 ---
 
 I've put this one during a long road trip, to make the time pass faster without being too complex it would require all my attention, and it was perfect for it.

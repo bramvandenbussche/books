@@ -107,6 +107,6 @@ I thoroughly enjoyed this story. It starts out great, funny, lighthearted, but i
 
 <div style='position:relative; padding-bottom:calc(41.67% + 44px)'><iframe src='https://gfycat.com/ifr/HastyRareAdder' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
-Even when Simon and Milo died, it was presented so dryly, I had to double back to make sure I ~~read~~ heard it right
+<spoiler>Even when Simon and Milo died, it was presented so dryly, I had to double back to make sure I ~~read~~ heard it right</spoiler>
 
 The ending is quite satisfying and left me wanting a follow-up, so good job! 5 AI-Stars.

@@ -5,9 +5,15 @@
 <meta content='#000000' name='theme-color'/>
 
 {% if page.title %}
-    <title>Review: {{ page.title }}</title>
+    <title>Review: {{ page.title }} by {{ page.author }}</title>
 {% else %}
     <title>{{ site.title }}</title>
+{% endif %}
+
+{% if page.excerpt %}
+    <description>{{ page.excerpt | strip_html }}</description>
+{% else %}
+    <description>Book review for {{ page.title }} by {{ page.author }}</description>
 {% endif %}
 
 {% feed_meta %}

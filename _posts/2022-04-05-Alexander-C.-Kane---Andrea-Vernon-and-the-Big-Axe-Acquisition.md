@@ -20,7 +20,7 @@ amazon_nl:
 audible: https://amzn.to/3vf39R1
 ---
 
-It's becoming a common occurence to listen to the latest [Andrea Vernon](../_series/andrea-vernon.md) audiobook during long trips. So this time ain't no difference.
+It's becoming a common occurence to listen to the latest [Andrea Vernon](../_series/andrea-vernon.md) audiobook during long trips. So this time ain't no different. The 9h audiobook was perfect for the 11h round trip to Europa-Park.
 
 <!--more-->
 

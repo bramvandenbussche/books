@@ -26,9 +26,9 @@ It's becoming a common occurence to listen to the latest [Andrea Vernon](../_ser
 
 ## Story
 
-In true flashback style, Andrea regales us with the events that follow directly after the end of [Andrea Vernon and the Superhero Industrial Complex](../assets/books/andrea-vernon-and-the-superhero-industrial-complex.jpg), where she and The Big Axe get separated by the forcefield that CUP erected around New York to keep the supervillains-turned-legit out.
+In true flashback style, Andrea regales us with the events that follow directly after the end of [Andrea Vernon and the Superhero Industrial Complex](2019-09-05-Alexander-C-Kane---Andrea-Vernon-and-the-Superhero-Industrial-Complex.md), where she and The Big Axe get separated by the forcefield that CUP erected around New York to keep the supervillains-turned-legit out.
 
-It's a good story, not overly complex, relying more on the characters to be funny than big events.
+It's a good story, not overly complex, relying more on the characters to be funny than big events, but it manages to hold the attention with some minor twists.
 
 ## Characters
 

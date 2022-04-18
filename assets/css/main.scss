@@ -308,3 +308,7 @@ spoiler::after {
     overflow: hidden;
     box-shadow: 4px 4px 12px $theme-lightgray;
 }
+
+.main-head .social-icons a:hover {
+    color: $theme-lightgold !important;
+}

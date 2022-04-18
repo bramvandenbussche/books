@@ -268,6 +268,38 @@ spoiler::after {
     }
 }
 
+////////////////////////
+// Main header
+
+.main-head .title a {
+    float: left;
+    margin-top: -25px;
+    margin-right: 25px;
+}
+
+.main-head .title h1 {
+    text-align: left;
+    color: $theme-lightgold;
+    font-weight: 700;
+    -webkit-font-smoothing: antialiased;
+    line-height: 1.35;
+    letter-spacing: 0;
+    filter: drop-shadow(2px 2px 10px #111);
+    padding: 5px;
+    margin: 0;
+}
+
+.main-head .title h2 {
+    text-align: left;
+    font-size: 18px;
+    color: white;
+    font-weight: 700;
+    -webkit-font-smoothing: antialiased;
+    filter: drop-shadow(3px 3px 10px #111);
+    line-height: 1.35;
+    letter-spacing: 0;
+}
+
 
 
 #bookmetadatawidget .wp-post-image img,

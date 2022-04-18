@@ -4,7 +4,7 @@ layout: default
 
 # Privacy policy
 
-## Revenue
+## Affiliates
 
 "Bram reads books" does not gather any information on its visitors, nor does it use ads to gather revenue. However, if you like a review and would like to try a book, please consider using the affiliate links in the sidebar. This comes to no additional costs to you, but we get a small kickback per purchase.
 

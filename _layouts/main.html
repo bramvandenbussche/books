@@ -1,5 +1,5 @@
 ---
-layout: compress
+# layout: compress
 description: top level template which contains header / footer and main content area
 ---
 
@@ -28,7 +28,9 @@ description: top level template which contains header / footer and main content 
             {% include footer.html %}
             <!-- .main-footer -->
         </div>  
-        <!-- .main-wrap -->      
+        <!-- .main-wrap -->
+
+        {% include cookie-consent.html %}
     </body>
 
 </html>

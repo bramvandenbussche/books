@@ -229,6 +229,47 @@ spoiler::after {
 }
 
 
+////////////////////////
+// Cookie consent
+
+#cookie-notice {
+    padding: 0.5rem 1rem; 
+    display: none; 
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: calc(100% - 2rem);
+    background: #222; 
+    color: rgba(255,255,255,0.8);
+}
+#cookie-notice a,
+#cookie-notice a:link,
+#cookie-notice a:active,
+#cookie-notice a:visited {
+    display: inline-block;
+    cursor: pointer;
+    margin-left: 0.5rem;
+    color: $theme-darkgold;
+}
+#cookie-notice a:hover {
+    color: $theme-gold;
+    text-decoration: underline;
+}
+
+@media (max-width: 767px) {
+    #cookie-notice span {
+        display: block;
+        padding-top: 3px;
+        margin-bottom: 1rem;
+    }
+    #cookie-notice a {
+        position: relative;
+        bottom: 4px;
+    }
+}
+
+
+
 #bookmetadatawidget .wp-post-image img,
 .book-cover {
     border-radius: 0 6% 6% 0/4%;

@@ -4,6 +4,7 @@ description: I read books, and sometimes I like writing about them too, when ins
 author: Bram Vandenbussche
 image_url: /assets/img/book_icon.png
 avatar_url: https://secure.gravatar.com/avatar/966ffc611efed95e5f9189873f63d295?s=500
+cookie-consent: We would like to use third party cookies and scripts to improve the functionality of this website.
 
 # Socials
 twitter-handle: vandenbusschebr
@@ -98,6 +99,7 @@ responsive_image:
 # Feed configuration
 # See: https://github.com/jekyll/jekyll-feed
 feed:
+  disable: true
   excerpt_only: true
   posts_limit: 20
 

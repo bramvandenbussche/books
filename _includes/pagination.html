@@ -1,6 +1,6 @@
 <nav class="main-pagination cf col-12">
     {% if paginator.previous_page %}
-    <div class="previous col-3"><a href="{{ paginator.previous_page_path | prepend: site.baseurl }}"><i class="fa fa-angle-double-left"></i>Older Posts</a></div>
+    <div class="previous col-3"><a href="{{ paginator.previous_page_path | prepend: site.baseurl }}"><i class="fa fa-angle-double-left"></i>Newer Posts</a></div>
     {% else %}
     <div class="previous col-3">&nbsp;</div>
     {% endif %}
@@ -10,7 +10,7 @@
     </div>
 
     {% if paginator.next_page %}
-    <div class="next col-3"><a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Newer Posts<i class="fa fa-angle-double-right"></i></a></div>
+    <div class="next col-3"><a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older Posts<i class="fa fa-angle-double-right"></i></a></div>
     {% else %}
     <div class="next col-3">&nbsp;</div>
     {% endif %}

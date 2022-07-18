@@ -4,6 +4,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lora');
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Cormorant%3A600%2C700%2C700i');
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro:ital@1&display=swap');
 
 @import url('{{ site.baseurl }}/assets/css/cheerup.css');
 @import url('{{ site.baseurl }}/assets/css/skin-fashion.css');
@@ -206,8 +207,8 @@ spoiler {
     cursor: pointer;
 }
 spoiler:hover {
-    background: transparent;
-    color: $theme-teal;
+    background: $theme-lightgold;
+    color: $theme-gray;
     border-bottom: 1px dotted $theme-gold;
     transition: background 0.3s ease 0.2s, color 0.2s ease 0.25s;
 }
@@ -311,4 +312,9 @@ spoiler::after {
 
 .main-head .social-icons a:hover {
     color: $theme-lightgold !important;
+}
+
+blockquote {
+    font-family: 'Source Serif Pro';
+    font-size: 1.15em;
 }

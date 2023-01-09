@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+  generator:
+    build: .
+    # container_name: books-generator
+    # image: jekyll/jekyll:4.0
+    environment:
+      - JEKYLL_VERSION=4.0
+    volumes:
+      - ./:/srv/jekyll:Z
+    command: jekyll serve
+    ports:
+      - "4000:4000"

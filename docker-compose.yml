@@ -9,6 +9,6 @@ services:
       - JEKYLL_VERSION=4.0
     volumes:
       - ./:/srv/jekyll:Z
-    command: jekyll serve
+    command: jekyll serve -I --drafts
     ports:
       - "4000:4000"

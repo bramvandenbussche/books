@@ -49,7 +49,7 @@ I've highlighted so very much in this book, mostly from Gothi & Gethli:
 
 I even managed to highlight a whole chapter which is just their interactions after shit hit the fan, but it's just so good, I had to listen to it multiple times:
 
-> Well that was novel and no mistake.
+> <pre>Well that was novel and no mistake.
 > That could have gone better. And no mistake.
 > We have something to report.
 > We were too late though. Essence of comedy, isn’t it.
@@ -116,7 +116,7 @@ I even managed to highlight a whole chapter which is just their interactions aft
 > Unappreciated, is what we are. Who else could sieve so vast a set of data in search of so little, ‘like two blind men looting a bazaar for their own portraits’.
 > Poetry?
 > Drama.
-> Ah. Thought we’d had enough of that with what we’ve just seen. I’ll remember next time.
+> Ah. Thought we’d had enough of that with what we’ve just seen. I’ll remember next time.</pre>
 
 It's a hoot.
 
@@ -129,3 +129,4 @@ As ever Tchaikovsky creates wonderous worlds, with different paths of evolution 
 ## conclusion
 
 I very much enjoyed my time with this book and I hope there will be another.
+mlqjfmlk

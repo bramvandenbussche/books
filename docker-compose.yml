@@ -3,12 +3,14 @@ version: '3'
 services:
   generator:
     build: .
-    # container_name: books-generator
+    container_name: books-generator
     # image: jekyll/jekyll:4.0
     environment:
       - JEKYLL_VERSION=4.0
+      - JEKYLL_ENV=development
     volumes:
-      - ./:/srv/jekyll:Z
-    command: jekyll serve -I --drafts
+      - ./:/srv/jekyll
+      - ./vendor/bundle:/usr/local/bundle:cached
+    command: jekyll serve --watch --incremental --config _config.yml --host 0.0.0.0 --livereload --force_polling
     ports:
-      - "4000:4000"
+      - "4001:4000"

@@ -18,7 +18,8 @@ group :jekyll_plugins do
     gem 'jekyll-paginate-v2'
     gem 'jekyll-relative-links'
     gem 'jekyll-responsive-image'
-    gem "jekyll-feed"
 end
+
+gem "jekyll-feed"
 
 gem "webrick", "~> 1.7"

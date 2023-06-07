@@ -5,7 +5,7 @@ title: My Name is Markham
 author: Jodi Taylor
 cover: chronicles-of-st-marys-7.6-my-name-is-markham.jpg
 
-series: Chronicles of St. Mary's
+series: The Chronicles of St. Mary's
 series_order: 7.6
 
 rating: 5.0

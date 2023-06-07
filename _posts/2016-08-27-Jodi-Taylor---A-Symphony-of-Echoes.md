@@ -7,7 +7,7 @@ title: A Symphony of Echoes
 author: Jodi Taylor
 cover: chronicles-of-st-marys-2-symphony-of-echoes.jpg
 
-series: Chronicles of St. Mary's
+series: The Chronicles of St. Mary's
 series_order: 2
 
 rating: 5.0

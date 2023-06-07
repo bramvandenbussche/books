@@ -3,7 +3,7 @@ date: 2017-06-06
 
 author: Jodi Taylor
 title: And the Rest Is History
-series: Chronicles of St. Mary's
+series: The Chronicles of St. Mary's
 series_order: 8
 cover: chronicles-of-st-marys-8-and-the-rest-is-history.jpg
 

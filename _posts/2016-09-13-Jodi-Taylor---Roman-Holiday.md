@@ -5,7 +5,7 @@ title: Roman Holiday
 author: Jodi Taylor
 cover: chronicles-of-st-marys-3.5-roman-holiday.jpg
 
-series: Chronicles of St. Mary's
+series: The Chronicles of St. Mary's
 series_order: 3.5
 
 rating: 4.0

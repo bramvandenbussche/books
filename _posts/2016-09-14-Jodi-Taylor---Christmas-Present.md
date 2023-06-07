@@ -5,7 +5,7 @@ title: Christmas Present
 author: Jodi Taylor
 cover: chronicles-of-st-marys-4.5-christmas-present.jpg
 
-series: Chronicles of St. Mary's
+series: The Chronicles of St. Mary's
 series_order: 4.5
 
 rating: 4.0

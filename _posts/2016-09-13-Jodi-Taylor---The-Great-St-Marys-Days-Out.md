@@ -5,7 +5,7 @@ title: The Great St. Mary's Day Out
 author: Jodi Taylor
 cover: chronicles-of-st-marys-7.5-great-st-marys-day-out.jpg
 
-series: Chronicles of St. Mary's
+series: The Chronicles of St. Mary's
 series_order: 7.5
 
 rating: 5.0

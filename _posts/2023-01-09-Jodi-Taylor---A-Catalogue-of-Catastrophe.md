@@ -3,7 +3,7 @@ date: 2023-01-09
 
 author: Jodi Taylor
 title: A Catalogue of Catastrophe
-series: The Chronicles of St Mary's
+series: The Chronicles of St. Mary's
 series_order: 13
 cover: chronicles-of-st-marys-13-a-catalogue-of-catastrophe.jpg
 

@@ -5,7 +5,7 @@ title: What Could Possibly Go Wrong?
 author: Jodi Taylor
 cover: chronicles-of-st-marys-6-what-could-possibly-go-wrong.jpg
 
-series: Chronicles of St. Mary's
+series: The Chronicles of St. Mary's
 series_order: 6
 
 rating: 5.0

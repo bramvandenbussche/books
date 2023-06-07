@@ -3,7 +3,7 @@ date: 2018-06-26
 
 author: Jodi Taylor
 title: Markham and the Anal Probing
-series: Chronicles of St. Mary's
+series: The Chronicles of St. Mary's
 series_order: 8.1
 cover: chronicles-of-st-marys-8.1-markham-and-the-anal-probing.jpg
 

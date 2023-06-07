@@ -5,7 +5,7 @@ title: An Argumentation of Historians
 author: Jodi Taylor
 cover: chronicles-of-st-marys-9-argumentation-of-historians.jpg
 
-series: Chronicles of St. Mary's
+series: The Chronicles of St. Mary's
 series_order: 9
 
 rating: 4.5

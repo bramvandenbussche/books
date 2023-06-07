@@ -5,7 +5,7 @@ title: A Trail Through Time
 author: Jodi Taylor
 cover: chronicles-of-st-marys-4-trail-through-time.jpg
 
-series: Chronicles of St. Mary's
+series: The Chronicles of St. Mary's
 series_order: 4
 
 rating: 5.0

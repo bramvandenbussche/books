@@ -5,7 +5,7 @@ title: A Second Chance
 author: Jodi Taylor
 cover: chronicles-of-st-marys-3-second-chance.jpg
 
-series: Chronicles of St. Mary's
+series: The Chronicles of St. Mary's
 series_order: 3
 
 rating: 5.0

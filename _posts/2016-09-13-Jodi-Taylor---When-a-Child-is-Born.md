@@ -5,7 +5,7 @@ title: When a Child is Born
 author: Jodi Taylor
 cover: chronicles-of-st-marys-2.5-when-a-child-is-born.jpg
 
-series: Chronicles of St. Mary's
+series: The Chronicles of St. Mary's
 series_order: 2.5
 
 rating: 4.0

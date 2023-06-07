@@ -3,7 +3,7 @@ date: 2017-09-19
 
 author: Jodi Taylor
 title: A Perfect Storm
-series: Chronicles of St. Mary's
+series: The Chronicles of St. Mary's
 series_order: 8.5
 cover: chronicles-of-st-marys-8.5-perfect-storm.jpg
 

@@ -5,7 +5,7 @@ title: Lies, Damned Lies and History
 author: Jodi Taylor
 cover: chronicles-of-st-marys-7-lies-damned-lies-and-history.jpg
 
-series: Chronicles of St. Mary's
+series: The Chronicles of St. Mary's
 series_order: 7
 
 rating: 5.0

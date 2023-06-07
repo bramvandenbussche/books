@@ -7,7 +7,7 @@ title: No Time Like the Past
 author: Jodi Taylor
 cover: chronicles-of-st-marys-5-no-time-like-the-past.jpg
 
-series: Chronicles of St. Mary's
+series: The Chronicles of St. Mary's
 series_order: 5
 
 rating: 5.0

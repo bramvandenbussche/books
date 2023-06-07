@@ -5,7 +5,7 @@ title: The Very First Damned Thing
 author: Jodi Taylor
 cover: chronicles-of-st-marys-0.5-very-first-damned-thing.jpg
 
-series: Chronicles of St. Mary's
+series: The Chronicles of St. Mary's
 series_order: 0.5
 
 rating: 4.0

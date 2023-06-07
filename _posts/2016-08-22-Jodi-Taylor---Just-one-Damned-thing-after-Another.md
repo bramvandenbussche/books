@@ -5,7 +5,7 @@ title: Just One Damned Thing After Another
 author: Jodi Taylor
 cover: chronicles-of-st-marys-1-just-one-damned-thing-after-another.jpg
 
-series: Chronicles of St. Mary's
+series: The Chronicles of St. Mary's
 series_order: 1
 
 rating: 5.0
@@ -24,4 +24,4 @@ I think I’ve found a new addiction.. This just has it all. Great writing, stro
 
 <!--more-->
 
-Good thing there’s many many more of these…
+Good thing there’s many **many** more of these…

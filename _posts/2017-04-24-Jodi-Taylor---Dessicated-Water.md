@@ -3,7 +3,7 @@ date: 2017-04-24
 
 author: Jodi Taylor
 title: Dessicated Water
-series: Chronicles of St. Mary's
+series: The Chronicles of St. Mary's
 series_order: 7.7
 cover: chronicles-of-st-marys-7.7-dessicated-water.jpg
 

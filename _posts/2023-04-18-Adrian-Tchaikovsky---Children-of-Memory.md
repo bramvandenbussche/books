@@ -7,7 +7,7 @@ series: Children of Time
 series_order: 3
 cover: children-of-time-3-children-of-memory.jpg
 
-rating: 4.0
+rating: 4.5
 published: 2023
 goodreads_id: 60850767
 
@@ -126,7 +126,6 @@ As ever Tchaikovsky creates wonderous worlds, with different paths of evolution 
 
 > So yes, the raccoons weren’t having a good time of it over on Rourke, but they lasted long enough to breed more raccoons who would continue not to enjoy themselves very much. Which was evolution’s endgame after all.
 
-## conclusion
+## Conclusion
 
 I very much enjoyed my time with this book and I hope there will be another.
-mlqjfmlk
